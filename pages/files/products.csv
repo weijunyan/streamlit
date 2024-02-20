@@ -1,0 +1,390 @@
+﻿Platform,Gas,Analyzer,Part No.,Description,Information,ListPrice,Discount
+LaserDust,Dust,101108 LaserDust LP,101108,LaserDust LP,"Long Path, OPL: 3-6 m",10000,10
+LaserDust,Dust,101109 LaserDust MP,101109,LaserDust MP,"Medium Path, OPL: 0.5-3 m",0,0
+LaserDust,Dust,101758 LaserDust XLP,101758,LaserDust XLP,"Extra Long Path, OPL: 6-10 m",0,0
+LaserDust,Dust,106890 LaserDust LP ATEX Ex-n,106890,LaserDust LP ATEX Ex-n,"ATEX/IECEx Zone 2, Long Path, OPL: 3-6 m",0,0
+LaserDust,Dust,107345 LaserDust MP ATEX/IECEx Ex-n,107345,LaserDust MP ATEX/IECEx Ex-n,"ATEX/IECEx Zone 2, Medium Path, OPL: 0.5-3 m,",0,0
+LaserGas II Compact,NH3,"
+102041 LaserGas II NH3 SP Compact","
+102041",LaserGas II NH3 SP Compact,,0,0
+LaserGas II Compact,H2O,102042 LaserGas II H2O ppm SP Compact HC,102042,LaserGas II H2O ppm SP Compact HC,Hydrocarbon background,0,0
+LaserGas II Compact,O2,102106 LaserGas II O2 SP Compact,102106,LaserGas II O2 SP Compact,,0,0
+LaserGas II Compact,CO ppm,102143 LaserGas II CO ppm SP Compact,102143,LaserGas II CO ppm SP Compact,,0,0
+LaserGas II Compact,HCl,102147 LaserGas II HCl SP Compact,102147,LaserGas II HCl SP Compact,,0,0
+LaserGas II Compact,H2S,102417 LaserGas II H2S SP Compact,102417,LaserGas II H2S SP Compact,,0,0
+LaserGas II Compact,HF,102741 LaserGas II HF SP Compact,102741,LaserGas II HF SP Compact,,0,0
+LaserGas II Compact,NO,102742 LaserGas II NO SP Compact,102742,LaserGas II NO SP Compact,,0,0
+LaserGas II Compact,NO2,102743 LaserGas II NO2 ppm SP Compact,102743,LaserGas II NO2 ppm SP Compact,"Also available as Ex-n & Class I/Div 2, contact NEO Monitors",0,0
+LaserGas II Compact,CO2,102859 LaserGas II CO2 ppm SP Compact,102859,LaserGas II CO2 ppm SP Compact,,0,0
+LaserGas II Compact,CO2,102860 LaserGas II CO2 % SP Compact,102860,LaserGas II CO2 % SP Compact,,0,0
+LaserGas II Compact,NH3,106181 LaserGas II NH3 + H2O SP Compact,106181,LaserGas II NH3 + H2O SP Compact,,0,0
+LaserGas II Compact,H2S,106199 LaserGas II H2S SP Compact ATEX/IECEx Ex-n,106199,LaserGas II H2S SP Compact ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,HCl,106329 LaserGas II HCl + H2O SP Compact,106329,LaserGas II HCl + H2O SP Compact,,0,0
+LaserGas II Compact,NH3,106387 LaserGas II NH3 SP Compact ATEX/IECEx Ex-n,106387,LaserGas II NH3 SP Compact ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,CO ppm,106396 Lasergas II CO+CO2 SP Compact,106396,Lasergas II CO+CO2 SP Compact,,0,0
+LaserGas II Compact,CO ppm,106397 Lasergas II CO+CO2 SP Compact ATEX/IECEx EX-n,106397,Lasergas II CO+CO2 SP Compact ATEX/IECEx EX-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,H2O,106429 LaserGas II H2O ppm SP Compact,106429,LaserGas II H2O ppm SP Compact,,0,0
+LaserGas II Compact,H2O,106430 LaserGas II H2O ppm SP Compact ATEX/IECEx Ex-n,106430,LaserGas II H2O ppm SP Compact ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,O2,106569 LaserGas II O2 SP Compact CSA Class I Div 2,106569,LaserGas II O2 SP Compact CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Compact,HF,106877 LaserGas II HF SP Compact HC,106877,LaserGas II HF SP Compact HC,"Special application, Hydrocarbon background.",0,0
+LaserGas II Compact,O2,106941 LaserGas II O2 SP Compact ATEX/IECEx Ex-n,106941,LaserGas II O2 SP Compact ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,CH4,106999 LaserGas II CH4 ppm SP Compact,106999,LaserGas II CH4 ppm SP Compact,"Also available as Ex-n & Class I/Div 2, contact NEO Monitors",0,0
+LaserGas II Compact,CH4,107000 LaserGas II CH4 % SP Compact,107000,LaserGas II CH4 % SP Compact,"Also available as Ex-n & Class I/Div 2, contact NEO Monitors",0,0
+LaserGas II Compact,CO,107155 LaserGas II CO % SP Compact ATEX/IECEx Ex-n,107155,LaserGas II CO % SP Compact ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,CO ppm,107160 LaserGas II CO ppm SP Compact ATEX/IECEx Ex-n,107160,LaserGas II CO ppm SP Compact ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,H2O,107480 LaserGas II H2O ppm SP Compact ATEX/IECEx Ex-n HC,107480,LaserGas II H2O ppm SP Compact ATEX/IECEx Ex-n HC,"Hydrocarbon background, ATEX/IECEx Zone 2",0,0
+LaserGas II Compact,NH3,108349 LaserGas II NH3 SP Compact CSA GP,108349,LaserGas II NH3 SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,NH3,108350 LaserGas II NH3 SP Compact CSA Class I div 2,108350,LaserGas II NH3 SP Compact CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Compact,NH3,108351 LaserGas II NH3 + H2O SP Compact ATEX/IECEx Ex-n,108351,LaserGas II NH3 + H2O SP Compact ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,NH3,108352 LaserGas II NH3 + H2O SP Compact CSA GP,108352,LaserGas II NH3 + H2O SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,NH3,108353 LaserGas II NH3 + H2O SP Compact CSA Class I div 2,108353,LaserGas II NH3 + H2O SP Compact CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Compact,O2,108355 LaserGas II O2 SP Compact CSA GP,108355,LaserGas II O2 SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,CO,108361 LaserGas II CO % SP Compact,108361,LaserGas II CO % SP Compact,,0,0
+LaserGas II Compact,CO,108362 LaserGas II CO % SP Compact CSA GP,108362,LaserGas II CO % SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,CO,108363 LaserGas II CO % SP Compact CSA Class I Div 2,108363,LaserGas II CO % SP Compact CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Compact,CO ppm,108368 LaserGas II CO ppm SP Compact CSA GP,108368,LaserGas II CO ppm SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,CO ppm,108369 LaserGas II CO ppm SP Compact CSA Class I Div 2,108369,LaserGas II CO ppm SP Compact CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Compact,H2S,108373 LaserGas II H2S SP Compact CSA GP,108373,LaserGas II H2S SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,H2S,108374 LaserGas II H2S SP Compact CSA Class I Div 2,108374,LaserGas II H2S SP Compact CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Compact,HF,108387 LaserGas II HF SP Compact ATEX/IECEX Ex-n,108387,LaserGas II HF SP Compact ATEX/IECEX Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,HF,108388 LaserGas II HF SP Compact CSA GP,108388,LaserGas II HF SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,HF,108389 LaserGas II HF SP Compact CSA Class I Div 2,108389,LaserGas II HF SP Compact CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Compact,CO2,108412 LaserGas II CO2 % SP Compact ATEX/IECEx Ex-n,108412,LaserGas II CO2 % SP Compact ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,CO2,108413 LaserGas II CO2 % SP Compact GP,108413,LaserGas II CO2 % SP Compact GP,General purpose non-hazloc,0,0
+LaserGas II Compact,CO2,108414 LaserGas II CO2 % SP Compact CSA Class I Div2,108414,LaserGas II CO2 % SP Compact CSA Class I Div2,Class I/Div 2,0,0
+LaserGas II Compact,CO2,108415 LaserGas II CO2 ppm SP Compact ATEX/IECEx Ex-n,108415,LaserGas II CO2 ppm SP Compact ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,CO2,108416 LaserGas II CO2 ppm SP Compact GP,108416,LaserGas II CO2 ppm SP Compact GP,General purpose non-hazloc,0,0
+LaserGas II Compact,CO2,108417 LaserGas II CO2 ppm SP Compact CSA Class I Div2,108417,LaserGas II CO2 ppm SP Compact CSA Class I Div2,Class I/Div 2,0,0
+LaserGas II Compact,HCl,108418 LaserGas II HCl SP Compact ATEX Ex-n,108418,LaserGas II HCl SP Compact ATEX Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,HCl,108419 LaserGas II HCl SP Compact CSA GP,108419,LaserGas II HCl SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,HCl,108420 LaserGas II HCl SP Compact CSA Class I Div 2,108420,LaserGas II HCl SP Compact CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Compact,HCl,108421 LaserGas II HCl + H2O SP Compact ATEX Ex-n,108421,LaserGas II HCl + H2O SP Compact ATEX Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,HCl,108422 LaserGas II HCL + H2O SP Compact CSA GP,108422,LaserGas II HCL + H2O SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,HCl,108423 LaserGas II HCl + H2O SP Compact CSA Class I Div 2,108423,LaserGas II HCl + H2O SP Compact CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Compact,NO,108424 LaserGas II NO SP Compact ATEX/IECEx Ex-n,108424,LaserGas II NO SP Compact ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Compact,NO,108425 LaserGas II NO SP Compact CSA GP,108425,LaserGas II NO SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,NO,108426 LaserGas II NO SP Compact CSA Class I Div 2,108426,LaserGas II NO SP Compact CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Compact,H2O,108428 LaserGas II H2O ppm SP Compact CSA Class I Div 2 HC,108428,LaserGas II H2O ppm SP Compact CSA Class I Div 2 HC,"Hydrocarbon background, Class I/Div 2",0,0
+LaserGas II Compact,H2O,108428 LaserGas II H2O ppm SP Compact CSA GP HC,108428,LaserGas II H2O ppm SP Compact CSA GP HC,"Hydrocarbon background, General purpose non-hazloc",0,0
+LaserGas II Compact,CO+CH4,108734 LaserGas II CO ppm + CH4 SP Compact ATEX/IECEx Ex-n,108734,LaserGas II CO ppm + CH4 SP Compact ATEX/IECEx Ex-n,"ATEX/IECEx Zone 2. 
+Also available as CSA GP and Class 1/Div 2. Contact NEO Monitors",0,0
+LaserGas II Compact,CO+CH4,109900 LaserGas II CO ppm + CH4 SP Compact,109900,LaserGas II CO ppm + CH4 SP Compact,Also available as CSA GP and Class 1/Div 2. Contact NEO Monitors,0,0
+LaserGas II Compact,H2O,110596 LaserGas II H2O ppm SP Compact CSA GP,110596,LaserGas II H2O ppm SP Compact CSA GP,General purpose non-hazloc,0,0
+LaserGas II Compact,H2O,111030 LaserGas II H2O ppm SP Compact CSA Class I Div 2,111030,LaserGas II H2O ppm SP Compact CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Multipass,O2,102335 LaserGas II O2 MP Cabinet,102335,LaserGas II O2 MP Cabinet,,0,0
+LaserGas II Multipass,NH3,102336 LaserGas II NH3 MP Cabinet,102336,LaserGas II NH3 MP Cabinet,,0,0
+LaserGas II Multipass,HCl,102337 LaserGas II HCl MP Cabinet,102337,LaserGas II HCl MP Cabinet,,0,0
+LaserGas II Multipass,CH4,102339 LaserGas II CH4 ppm MP Cabinet ATEX Ex-n,102339,LaserGas II CH4 ppm MP Cabinet ATEX Ex-n,Atex Zone 2,0,0
+LaserGas II Multipass,CO2,102341 LaserGas II CO2 MP Cabinet,102341,LaserGas II CO2 MP Cabinet,,0,0
+LaserGas II Multipass,CO+CH4,106277 LaserGas II CO ppm + CH4 MP Cabinet ATEX Ex-n,106277,LaserGas II CO ppm + CH4 MP Cabinet ATEX Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Multipass,CO+CH4,106278 LaserGas II CO ppm + CH4 MP Cabinet CSA Class I Div 2,106278,LaserGas II CO ppm + CH4 MP Cabinet CSA Class I Div 2,Class I/Div 2;Available as GP non-certified version. Contact NEO Monitors.,0,0
+LaserGas II Multipass,H2S,106305 LaserGas II H2S MP Cabinet ATEX Ex-n,106305,LaserGas II H2S MP Cabinet ATEX Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Multipass,H2S,106308 LaserGas II H2S MP Cabinet CSA Class I Div 2,106308,LaserGas II H2S MP Cabinet CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Multipass,CO2,106310 LaserGas II CO2 MP Cabinet CSA class I Div 2,106310,LaserGas II CO2 MP Cabinet CSA class I Div 2,Class I/Div 2,0,0
+LaserGas II Multipass,CO2,106312 LaserGas II CO2 MP Cabinet ATEX Ex-n,106312,LaserGas II CO2 MP Cabinet ATEX Ex-n,Atex Zone 2,0,0
+LaserGas II Multipass,NH3,106316 LaserGas II NH3 MP Cabinet CSA Class I div 2,106316,LaserGas II NH3 MP Cabinet CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Multipass,NH3,106319 LaserGas II NH3 MP Cabinet ATEX Ex-n,106319,LaserGas II NH3 MP Cabinet ATEX Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Multipass,CO,106402 LaserGas II COppm MP Cabinet CSA Class I div 2,106402,LaserGas II COppm MP Cabinet CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Multipass,CO,106403 LaserGas II COppm MP Cabinet ATEX Ex-n,106403,LaserGas II COppm MP Cabinet ATEX Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Multipass,CH4,106590 LaserGas II CH4 ppm MP Cabinet CSA Class I Div 2,106590,LaserGas II CH4 ppm MP Cabinet CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Multipass,H2S,107311 LaserGas II H2S MP Cabinet S-ver CSA Class I Div 2,107311,LaserGas II H2S MP Cabinet S-ver CSA Class I Div 2,"Class I/Div 2, Short version, 2.3 m OPL",0,0
+LaserGas II Multipass,CO + CO2,107320 LaserGas II CO + CO2 MP Cabinet S-ver ATEX Ex-n,107320,LaserGas II CO + CO2 MP Cabinet S-ver ATEX Ex-n,"Atex Zone 2, Short version, 2.3 m OPL",0,0
+LaserGas II Multipass,CH4,107325 LaserGas II CH4 % MP Cabinet S-ver ATEX Ex-n,107325,LaserGas II CH4 % MP Cabinet S-ver ATEX Ex-n,"ATEX Zone 2, Short version, 2.3 m OPL",0,0
+LaserGas II Multipass,H2S,108340 LaserGas II H2S MP Cabinet S-ver ATEX Ex-n,108340,LaserGas II H2S MP Cabinet S-ver ATEX Ex-n,"ATEX/IECEx Zone 2, Short version, 2.3 m OPL",0,0
+LaserGas II Multipass,CO + CO2,108370 LaserGas II CO + CO2 MP Cabinet S-ver CSA Class I Div 2,108370,LaserGas II CO + CO2 MP Cabinet S-ver CSA Class I Div 2,"Class I/Div 2, Short OPL version 2.3m",0,0
+LaserGas II Multipass,CO+CH4,108471 LaserGas II CO ppm + CH4 MP Cabinet S-ver CSA Class I Div 2,108471,LaserGas II CO ppm + CH4 MP Cabinet S-ver CSA Class I Div 2,"Class I/Div 2, Short OPL version 2.3m",0,0
+LaserGas II Multipass,CO+CH4,108473 LaserGas II CO ppm + CH4 MP Cabinet S-ver CSA GP,108473,LaserGas II CO ppm + CH4 MP Cabinet S-ver CSA GP,"General purpose non-hazloc, Short OPL version 2.3m",0,0
+LaserGas II Multipass,CO+CH4,108475 LaserGas II CO ppm + CH4 MP Cabinet S-ver ATEX EX-n,108475,LaserGas II CO ppm + CH4 MP Cabinet S-ver ATEX EX-n,"ATEX/IECEx Zone 2, Short OPL version 2.3m",0,0
+LaserGas II Multipass,H2,108690 LaserGas II H2 MP Cabinet std non ATEX/IECEx/CSA,108690,LaserGas II H2 MP Cabinet std non ATEX/IECEx/CSA,Non ATEX/IECEx/CSA,0,0
+LaserGas II Multipass,HCl,108867 LaserGas II HCl MP Cabinet HCL in VCM CSA Class I Div 2,108867,LaserGas II HCl MP Cabinet HCL in VCM CSA Class I Div 2,"Class I/Div 2, Short version, 2.3 m OPL",0,0
+LaserGas II Multipass,H2,109490 LaserGas II H2 MP Cabinet std ATEX/IECEx Ex-n,109490,LaserGas II H2 MP Cabinet std ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Multipass,HCl,109760 LaserGas II HCl MP Cabinet ATEX Ex-n,109760,LaserGas II HCl MP Cabinet ATEX Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Multipass,O2,110101 LaserGas II O2 MP Cabinet ATEX Ex-n,110101,LaserGas II O2 MP Cabinet ATEX Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Multipass,CH4,111085 LaserGas II CH4 ppm MP Cabinet,111085,LaserGas II CH4 ppm MP Cabinet,,0,0
+LaserGas II Multipass,H2S,111362 LaserGas II H2S MP Cabinet S-ver,111362,LaserGas II H2S MP Cabinet S-ver,"Short version, 2.3 m OPL",0,0
+LaserGas II Multipass,H2S,111674 LaserGas II H2S MP Cabinet,111674,LaserGas II H2S MP Cabinet,,0,0
+LaserGas II Multipass,O2,112195 LaserGas II O2 MP Cabinet CSA Class I div 2,112195,LaserGas II O2 MP Cabinet CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Multipass,H2,112280 LaserGas II H2 MP Cabinet std CSA class I Div 2,112280,LaserGas II H2 MP Cabinet std CSA class I Div 2,Class I/Div 2,0,0
+LaserGas II Open Path,NH3,101011 LaserGas II NH3 OP,101011,LaserGas II NH3 OP,"Also available as Ex-n & Class I/Div 2, contact NEO Monitors",0,0
+LaserGas II Open Path,HF,101012 LaserGas II HF OP,101012,LaserGas II HF OP,,0,0
+LaserGas II Open Path,CH4,101014 LaserGas II CH4 OP,101014,LaserGas II CH4 OP,"Also available as Ex-n & Class I/Div 2, contact NEO Monitors",0,0
+LaserGas II Open Path,H2S,101028 LaserGas II H2S OP,101028,LaserGas II H2S OP,"Also available as Ex-n & Class I/Div 2, contact NEO Monitors",0,0
+LaserGas II Open Path,HF,107306 LaserGas II HF OP ATEX Ex-n,107306,LaserGas II HF OP ATEX Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Open Path,HF,107410 LaserGas II HF OP CSA GP,107410,LaserGas II HF OP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Open Path,HF,108457 LaserGas II HF OP CSA Class I Div 2,108457,LaserGas II HF OP CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,N2O,"
+100984 LaserGas II N2O % SP","
+100984",LaserGas II N2O % SP,,0,0
+LaserGas II Single Path,NH3,100042 LaserGas II NH3 SP,100042,LaserGas II NH3 SP,,0,0
+LaserGas II Single Path,O2,100650 LaserGas II O2 SP,100650,LaserGas II O2 SP,,0,0
+LaserGas II Single Path,CH3I,100713 LaserGas II CH3I SP,100713,LaserGas II CH3I SP,"Methyle Iodide, ATEX and CSA approvals On request",0,0
+LaserGas II Single Path,H2S,100969 LaserGas II H2S SP,100969,LaserGas II H2S SP,,0,0
+LaserGas II Single Path,HCl,100978 LaserGas II HCl SP,100978,LaserGas II HCl SP,,0,0
+LaserGas II Single Path,HF,100979 LaserGas II HF SP,100979,LaserGas II HF SP,,0,0
+LaserGas II Single Path,CO,100980 LaserGas II CO % SP,100980,LaserGas II CO % SP,,0,0
+LaserGas II Single Path,CO2,100981 LaserGas II CO2 % SP,100981,LaserGas II CO2 % SP,,0,0
+LaserGas II Single Path,CH4 ppm,100982 LaserGas II CH4 ppm SP,100982,LaserGas II CH4 ppm SP,,0,0
+LaserGas II Single Path,NO,100983 LaserGas II NO SP,100983,LaserGas II NO SP,,0,0
+LaserGas II Single Path,H2O,100986 LaserGas II H2O % SP,100986,LaserGas II H2O % SP,,0,0
+LaserGas II Single Path,HCN,100988 LaserGas II HCN SP,100988,LaserGas II HCN SP,,0,0
+LaserGas II Single Path,C3H6,100989 LaserGas II C3H6 SP,100989,LaserGas II C3H6 SP,Propylene,0,0
+LaserGas II Single Path,C2H2,101095 LaserGas II C2H2 SP,101095,LaserGas II C2H2 SP,"Acetylene, ATEX and CSA approvals On request",0,0
+LaserGas II Single Path,CO ppm,101320 LaserGas II CO ppm SP,101320,LaserGas II CO ppm SP,,0,0
+LaserGas II Single Path,HF,101472 LaserGas II HF SP ATEX/IECEx Ex-p,101472,LaserGas II HF SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,C2H4,101800 LaserGas II C2H4 SP,101800,LaserGas II C2H4 SP,"Ethylene, ATEX and CSA approvals On request",0,0
+LaserGas II Single Path,CH2O,101941 LaserGas II CH2O SP,101941,LaserGas II CH2O SP,"Formaldehyde, ATEX and CSA approvals On request",0,0
+LaserGas II Single Path,CH2Cl2,102160 LaserGas II CH2Cl2 SP,102160,LaserGas II CH2Cl2 SP,"DCM, ATEX and CSA approvals On request",0,0
+LaserGas II Single Path,N2O,102473 LaserGas II N2O ppm SP,102473,LaserGas II N2O ppm SP,,0,0
+LaserGas II Single Path,NO2,102521 LaserGas II NO2 SP,102521,LaserGas II NO2 SP,,0,0
+LaserGas II Single Path,C2H3Cl,102574 LaserGas II C2H3Cl SP,102574,LaserGas II C2H3Cl SP,"VCM, ATEX and CSA approvals On request",0,0
+LaserGas II Single Path,CH3Cl,102584 LaserGas II CH3Cl SP,102584,LaserGas II CH3Cl SP,"Methyl Chloride, ATEX and CSA approvals On request",0,0
+LaserGas II Single Path,CO+CO2,105569 LaserGas II CO % + CO2 % SP,105569,LaserGas II CO % + CO2 % SP,,0,0
+LaserGas II Single Path,O2,105894 LaserGas II O2 SP ATEX/IECEx Ex-p,105894,LaserGas II O2 SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,O2,105902 LaserGas II O2 SP CSA Class I div 2,105902,LaserGas II O2 SP CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Single Path,NH3,105960 LaserGas II NH3 + H2O SP,105960,LaserGas II NH3 + H2O SP,,0,0
+LaserGas II Single Path,CO ppm,106024 LaserGas II CO ppm SP HT,106024,LaserGas II CO ppm SP HT,High temp appl. (T>700 °C),0,0
+LaserGas II Single Path,O2,106026 LaserGas II O2 SP HT,106026,LaserGas II O2 SP HT,High temp appl. (T>700 °C),0,0
+LaserGas II Single Path,HCl,106034 LaserGas II HCl + H2O SP,106034,LaserGas II HCl + H2O SP,,0,0
+LaserGas II Single Path,O2,106058 LaserGas II O2 SP ATEX/IECEx Ex-n,106058,LaserGas II O2 SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,O2,106059 LaserGas II O2 SP HT ATEX/IECEx Ex-n,106059,LaserGas II O2 SP HT ATEX/IECEx Ex-n,"High temp appl. (T>700 °C), ATEX/IECEx Zone 2",0,0
+LaserGas II Single Path,O2,106060 LaserGas II O2 SP HT ATEX/IECEx Ex-p,106060,LaserGas II O2 SP HT ATEX/IECEx Ex-p,"High temp appl. (T>700 °C), ATEX/IECEx Zone 1",0,0
+LaserGas II Single Path,NH3,106077 LaserGas II NH3 SP ATEX/IECEx Ex-p,106077,LaserGas II NH3 SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,NH3,106078 LaserGas II NH3 SP ATEX/IECEx Ex-n,106078,LaserGas II NH3 SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,O2,106097 LaserGas II O2 SP CSA GP,106097,LaserGas II O2 SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,O2,106098 LaserGas II O2 SP HT CSA GP,106098,LaserGas II O2 SP HT CSA GP,"High temp appl. (T>700 °C), General purpose non-hazloc",0,0
+LaserGas II Single Path,O2,106101 LaserGas II O2 SP HT CSA Class I div 2,106101,LaserGas II O2 SP HT CSA Class I div 2,"High temp appl. (T>700 °C), Class I/Div 2",0,0
+LaserGas II Single Path,CO+CH4,106105 LaserGas II CO ppm + CH4 SP HT,106105,LaserGas II CO ppm + CH4 SP HT,High temp appl. (T>700 °C),0,0
+LaserGas II Single Path,CO+CH4,106106 LaserGas II CO ppm + CH4 SP,106106,LaserGas II CO ppm + CH4 SP,,0,0
+LaserGas II Single Path,NH3,106107 LaserGas II NH3 + H2O SP ATEX/IECEx Ex-n,106107,LaserGas II NH3 + H2O SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,NH3,106108 LaserGas II NH3 + H2O SP ATEX/IECEx Ex-p,106108,LaserGas II NH3 + H2O SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,NH3,106132 LaserGas II NH3 SP CSA GP,106132,LaserGas II NH3 SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,NH3,106134 LaserGas II NH3 SP CSA Class I div 2,106134,LaserGas II NH3 SP CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Single Path,HF,106251 LaserGas II HF SP TÜV/MCERTS,106251,LaserGas II HF SP TÜV/MCERTS,,0,0
+LaserGas II Single Path,HCl,106253 LaserGas II HCl SP ATEX/IECEx Ex-p,106253,LaserGas II HCl SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,HCl,106254 LaserGas II HCl SP ATEX/IECEx Ex-n,106254,LaserGas II HCl SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,HF,106270 LaserGas II HF SP CSA class I div 2,106270,LaserGas II HF SP CSA class I div 2,Class I/Div 2,0,0
+LaserGas II Single Path,HF,106273 LaserGas II HF SP CSA GP,106273,LaserGas II HF SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,CO ppm,106347 LaserGas II CO ppm SP CSA GP,106347,LaserGas II CO ppm SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,CO ppm,106348 LaserGas II CO ppm SP HT CSA GP,106348,LaserGas II CO ppm SP HT CSA GP,"High temp appl. (T>700 °C), General purpose non-hazloc",0,0
+LaserGas II Single Path,H2S,106392 LaserGas II H2S SP ATEX/IECEx Ex-p,106392,LaserGas II H2S SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,H2S,106393 LaserGas II H2S SP ATEX/IECEx Ex-n,106393,LaserGas II H2S SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,CO+CO2,106394 LaserGas II CO % + CO2 % SP ATEX/IECEx Ex-p,106394,LaserGas II CO % + CO2 % SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,CO+CO2,106395 LaserGas II CO % + CO2 % SP ATEX/IECEx Ex-n,106395,LaserGas II CO % + CO2 % SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,C3H6,106419 LaserGas II C3H6 SP ATEX/IECEx Ex-p,106419,LaserGas II C3H6 SP ATEX/IECEx Ex-p,"Propylene, ATEX/IECEx Zone 1",0,0
+LaserGas II Single Path,C3H6,106420 LaserGas II C3H6 SP ATEX/IECEx Ex-n,106420,LaserGas II C3H6 SP ATEX/IECEx Ex-n,"Propylene, ATEX/IECEx Zone 2",0,0
+LaserGas II Single Path,NH3,106434 LaserGas II NH3 SP TÜV/MCERTS,106434,LaserGas II NH3 SP TÜV/MCERTS,"Also available as Ex-n/Ex-p, contact NEO Monitors",0,0
+LaserGas II Single Path,HCl,106435 LaserGas II HCl SP TÜV/MCERTS,106435,LaserGas II HCl SP TÜV/MCERTS,,0,0
+LaserGas II Single Path,CO ppm,106550 LaserGas II CO ppm SP ATEX/IECEx Ex-p,106550,LaserGas II CO ppm SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,CO ppm,106554 LaserGas II CO ppm SP ATEX/IECEx Ex-n,106554,LaserGas II CO ppm SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,CO ppm,106555 LaserGas II CO ppm SP HT ATEX/IECEx Ex-p,106555,LaserGas II CO ppm SP HT ATEX/IECEx Ex-p,"High temp appl. (T>700 °C), ATEX/IECEx Zone 1",0,0
+LaserGas II Single Path,CO ppm,106556 LaserGas II CO ppm SP HT ATEX/IECEx Ex-n,106556,LaserGas II CO ppm SP HT ATEX/IECEx Ex-n,"High temp appl. (T>700 °C), ATEX/IECEx Zone 2",0,0
+LaserGas II Single Path,CO,106559 LaserGas II CO % SP ATEX/IECEx Ex-n,106559,LaserGas II CO % SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,CO,106560 LaserGas II CO % SP ATEX/IECEx Ex-p,106560,LaserGas II CO % SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,CO+CH4,106570 LaserGas II CO ppm + CH4 SP Med HT,106570,LaserGas II CO ppm + CH4 SP Med HT,"Special application, contact NEO Monitors",0,0
+LaserGas II Single Path,CO+CH4,106645 LaserGas II CO ppm + CH4 SP CSA GP,106645,LaserGas II CO ppm + CH4 SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,CO+CH4,106646 LaserGas II CO ppm + CH4 SP HT CSA GP,106646,LaserGas II CO ppm + CH4 SP HT CSA GP,"High temp appl. (T>700 °C), General purpose non-hazloc",0,0
+LaserGas II Single Path,CO+CH4,106751 LaserGas II CO ppm + CH4 SP CSA Class I div 2,106751,LaserGas II CO ppm + CH4 SP CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Single Path,CO+CH4,106757 LaserGas II CO ppm + CH4 SP ATEX/IECEx Ex-p,106757,LaserGas II CO ppm + CH4 SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,CO+CH4,106758 LaserGas II CO ppm + CH4 SP ATEX/IECEx Ex-n,106758,LaserGas II CO ppm + CH4 SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,CO2,106781 LaserGas II CO2 % SP ATEX/IECEx Ex-p,106781,LaserGas II CO2 % SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,CO2,106782 LaserGas II CO2 % SP ATEX/IECEx Ex-n,106782,LaserGas II CO2 % SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,CO2,106795 LaserGas II CO2 ppm + H2O SP HT,106795,LaserGas II CO2 ppm + H2O SP HT,High temp appl. (T>700 °C),0,0
+LaserGas II Single Path,HF,106824 LaserGas II HF + H2O SP,106824,LaserGas II HF + H2O SP,,0,0
+LaserGas II Single Path,CO+CH4,106940 LaserGas II CO ppm + CH4 SP Med HT CSA Class I div 2,106940,LaserGas II CO ppm + CH4 SP Med HT CSA Class I div 2,"Special application, contact NEO Monitors",0,0
+LaserGas II Single Path,CH4 ppm,107060 LaserGas II CH4 ppm SP ATEX/IECEx Ex-n,107060,LaserGas II CH4 ppm SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,CH4 ppm,107070 LaserGas II CH4 ppm SP ATEX/IECEx Ex-p,107070,LaserGas II CH4 ppm SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,CO ppm,107126 LaserGas II CO ppm SP CSA Class I div 2,107126,LaserGas II CO ppm SP CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Single Path,HCl,107250 LaserGas II HCl + H2O SP ATEX Ex-n TÜV/MCERTS,107250,LaserGas II HCl + H2O SP ATEX Ex-n TÜV/MCERTS,"ATEX/IECEx Zone 2 (Also availble as Ex-p, Contact NEO Monitors)",0,0
+LaserGas II Single Path,NO,107268 LaserGas II NO SP ATEX/IECEx Ex-p,107268,LaserGas II NO SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,NO,107269 LaserGas II NO SP ATEX/IECEx Ex-n,107269,LaserGas II NO SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,NO2,107270 LaserGas II NO2 SP ATEX/IECEx Ex-p,107270,LaserGas II NO2 SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,NO2,107271 LaserGas II NO2 SP ATEX/IECEx Ex-n,107271,LaserGas II NO2 SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,O2,107300 LaserGas II O2 SP HP ATEX/IECEx Ex-p,107300,LaserGas II O2 SP HP ATEX/IECEx Ex-p,"High Pressure application, ATEX/IECEx Zone 1",0,0
+LaserGas II Single Path,HF,107350 LaserGas II HF SP ATEX/IECEx Ex-n,107350,LaserGas II HF SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,H2S,107440 LaserGas II H2S SP CSA Class I div 2,107440,LaserGas II H2S SP CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Single Path,H2O,107449 LaserGas II H2O % SP ATEX/IECEx Ex-p ,107449,LaserGas II H2O % SP ATEX/IECEx Ex-p ,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,H2O,107450 LaserGas II H2O % SP ATEX/IECEx Ex-n ,107450,LaserGas II H2O % SP ATEX/IECEx Ex-n ,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,O2,107455 LaserGas II O2 SP HP ATEX/IECEx Ex-n,107455,LaserGas II O2 SP HP ATEX/IECEx Ex-n,"High Pressure application, ATEX/IECEx Zone 2",0,0
+LaserGas II Single Path,O2,107555 LaserGas II O2 SP HP CSA Class I div 2,107555,LaserGas II O2 SP HP CSA Class I div 2,"High Pressure application, Class I/Div 2",0,0
+LaserGas II Single Path,HCN,107566 LaserGas II HCN SP ATEX/IECEx Ex-p,107566,LaserGas II HCN SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,HCN,107567 LaserGas II HCN SP ATEX/IECEx Ex-n,107567,LaserGas II HCN SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,HCl,107610 LaserGas II HCl + H2O SP TÜV/MCERTS,107610,LaserGas II HCl + H2O SP TÜV/MCERTS,,0,0
+LaserGas II Single Path,NH3,107611 LaserGas II NH3 + H2O SP TÜV/MCERTS,107611,LaserGas II NH3 + H2O SP TÜV/MCERTS,"Also available as Ex-n/Ex-p, contact NEO Monitors",0,0
+LaserGas II Single Path,CH4,107729 LaserGas II CH4 % SP,107729,LaserGas II CH4 % SP,,0,0
+LaserGas II Single Path,CO2,107876 LaserGas II CO2 ppm,107876,LaserGas II CO2 ppm,,0,0
+LaserGas II Single Path,CH4,107969 LaserGas II CH4 % SP ATEX/IECEx Ex-n,107969,LaserGas II CH4 % SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,CH4,107970 LaserGas II CH4 % SP ATEX/IECEx Ex-p,107970,LaserGas II CH4 % SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,NH3,108347 LaserGas II NH3 + H2O SP CSA GP,108347,LaserGas II NH3 + H2O SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,NH3,108348 LaserGas II NH3 + H2O SP CSA Class I div 2,108348,LaserGas II NH3 + H2O SP CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Single Path,O2,108354 LaserGas II O2 SP HP,108354,LaserGas II O2 SP HP,High Pressure application,0,0
+LaserGas II Single Path,CO,108357 LaserGas II CO % SP CSA GP,108357,LaserGas II CO % SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,CO,108358 LaserGas II CO % SP CSA Class I div 2,108358,LaserGas II CO % SP CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Single Path,CO+CO2,108359 LaserGas II CO % + CO2 % CSA GP,108359,LaserGas II CO % + CO2 % CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,CO+CO2,108360 LaserGas II CO % + CO2 % SP CSA Class I div 2,108360,LaserGas II CO % + CO2 % SP CSA Class I div 2,Class I/Div 2,0,0
+LaserGas II Single Path,CO ppm,108364 LaserGas II CO ppm SP HT CSA Class I Div 2,108364,LaserGas II CO ppm SP HT CSA Class I Div 2,"High temp appl. (T>700 °C), Class I/Div 2",0,0
+LaserGas II Single Path,CO+CH4,108365 LaserGas II CO ppm + CH4 SP HT ATEX/IECEx Ex-n,108365,LaserGas II CO ppm + CH4 SP HT ATEX/IECEx Ex-n,"High temp appl. (T>700 °C), ATEX/IECEx Zone 2",0,0
+LaserGas II Single Path,CO+CH4,108366 LaserGas II CO ppm + CH4 SP HT ATEX/IECEx Ex-p,108366,LaserGas II CO ppm + CH4 SP HT ATEX/IECEx Ex-p,"High temp appl. (T>700 °C), ATEX/IECEx Zone 1",0,0
+LaserGas II Single Path,CO+CH4,108367 LaserGas II CO ppm + CH4 SP HT CSA Class I Div 2,108367,LaserGas II CO ppm + CH4 SP HT CSA Class I Div 2,"High temp appl. (T>700 °C), Class I/Div 2",0,0
+LaserGas II Single Path,H2S,108372 LaserGas II H2S SP CSA GP,108372,LaserGas II H2S SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,CO2,108376 LaserGas II CO2 ppm + H2O SP HT ATEX/IECEx Ex-n,108376,LaserGas II CO2 ppm + H2O SP HT ATEX/IECEx Ex-n,"High temp appl. (T>700 °C), ATEX/IECEx Zone 2",0,0
+LaserGas II Single Path,CO2,108377 LaserGas II CO2 ppm + H2O SP HT ATEX/IECEx Ex-p,108377,LaserGas II CO2 ppm + H2O SP HT ATEX/IECEx Ex-p,"High temp appl. (T>700 °C), ATEX/IECEx Zone 1",0,0
+LaserGas II Single Path,CO2,108378 LaserGas II CO2 ppm + H2O SP HT GP,108378,LaserGas II CO2 ppm + H2O SP HT GP,"High temp appl. (T>700 °C), General purpose non-hazloc",0,0
+LaserGas II Single Path,CO2,108379 LaserGas II CO2 ppm + H2O SP HT CSA Class I Div2,108379,LaserGas II CO2 ppm + H2O SP HT CSA Class I Div2,"High temp appl. (T>700 °C), Class I/Div 2",0,0
+LaserGas II Single Path,CO2,108381 LaserGas II CO2 % SP CSA GP,108381,LaserGas II CO2 % SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,CO2,108382 LaserGas II CO2 % SP CSA Class I Div 2,108382,LaserGas II CO2 % SP CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,CO2,108383 LaserGas II CO2 ppm SP ATEX/IECEx Ex-n,108383,LaserGas II CO2 ppm SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,CO2,108384 LaserGas II CO2 ppm SP ATEX/IECEx Ex-p,108384,LaserGas II CO2 ppm SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,CO2,108385 LaserGas II CO2 ppm SP CSA GP,108385,LaserGas II CO2 ppm SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,CO2,108386 LaserGas II CO2 ppm SP CSA Class I Div2,108386,LaserGas II CO2 ppm SP CSA Class I Div2,Class I/Div 2,0,0
+LaserGas II Single Path,HCl,108429 LaserGas II HCl SP CSA GP,108429,LaserGas II HCl SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,HCl,108430 LaserGas II HCl SP CSA Class I Div 2,108430,LaserGas II HCl SP CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,HCl,108431 LaserGas II HCl + H2O SP ATEX/IECEx Ex-n,108431,LaserGas II HCl + H2O SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,HCl,108432 LaserGas II HCl + H2O SP ATEX/IECEx Ex-p,108432,LaserGas II HCl + H2O SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,HCl,108433 LaserGas II HCl + H2O SP CSA GP,108433,LaserGas II HCl + H2O SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,HCl,108434 LaserGas II HCl + H2O SP CSA Class I Div 2,108434,LaserGas II HCl + H2O SP CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,HF,108435 LaserGas II HF + H2O SP ATEX/IECEx Ex-n,108435,LaserGas II HF + H2O SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,HF,108436 LaserGas II HF + H2O SP ATEX/IECEx Ex-p,108436,LaserGas II HF + H2O SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,HF,108437 LaserGas II HF + H2O SP CSA GP,108437,LaserGas II HF + H2O SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,HF,108438 LaserGas II HF + H2O SP CSA class I div 2,108438,LaserGas II HF + H2O SP CSA class I div 2,Class I/Div 2,0,0
+LaserGas II Single Path,NO,108439 LaserGas II NO SP CSA GP,108439,LaserGas II NO SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,NO,108440 LaserGas II NO SP CSA Class I Div 2,108440,LaserGas II NO SP CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,N2O,108441 LaserGas II N2O % SP ATEX/IECEx Ex-n,108441,LaserGas II N2O % SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,N2O,108442 LaserGas II N2O % SP ATEX/IECEx Ex-p,108442,LaserGas II N2O % SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,N2O,108443 LaserGas II N2O % SP CSA GP,108443,LaserGas II N2O % SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,N2O,108444 LaserGas II N2O % SP CSA Class I Div 2,108444,LaserGas II N2O % SP CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,N2O,108445 LaserGas II N2O ppm SP ATEX/IECEx Ex-n,108445,LaserGas II N2O ppm SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,N2O,108446 LaserGas II N2O ppm SP ATEX/IECEx Ex-p,108446,LaserGas II N2O ppm SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,N2O,108447 LaserGas II N2O ppm SP CSA GP,108447,LaserGas II N2O ppm SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,N2O,108448 LaserGas II N2O ppm SP CSA Class I Div 2,108448,LaserGas II N2O ppm SP CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,H2O,108449 LaserGas II H2O % SP CSA GP,108449,LaserGas II H2O % SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,H2O,108450 LaserGas II H2O % SP CSA Class I Div2,108450,LaserGas II H2O % SP CSA Class I Div2,Class I/Div 2,0,0
+LaserGas II Single Path,HCN,108451 LaserGas II HCN SP CSA GP,108451,LaserGas II HCN SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,NO2,108452 LaserGas II NO2 SP CSA GP,108452,LaserGas II NO2 SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,NO2,108453 LaserGas II NO2 SP Class I Div 2,108453,LaserGas II NO2 SP Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,HCN,108454 LaserGas II HCN SP CSA Class I Div 2,108454,LaserGas II HCN SP CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,C3H6,108455 LaserGas II C3H6 SP CSA GP,108455,LaserGas II C3H6 SP CSA GP,"Propylene, General purpose non-hazloc",0,0
+LaserGas II Single Path,C3H6,108456 LaserGas II C3H6 SP CSA Class I Div 2,108456,LaserGas II C3H6 SP CSA Class I Div 2,"Propylene, Class I/Div 2",0,0
+LaserGas II Single Path,H2O,108844 LaserGas II H2O % SP HT,108844,LaserGas II H2O % SP HT,,0,0
+LaserGas II Single Path,CO2,108852 LaserGas II CO2 ppm SP HT,108852,LaserGas II CO2 ppm SP HT,High temp appl. (T>700 °C),0,0
+LaserGas II Single Path,CO2,108853 LaserGas II CO2 ppm SP HT ATEX/IECEx Ex-n,108853,LaserGas II CO2 ppm SP HT ATEX/IECEx Ex-n,"High temp appl. (T>700 °C), ATEX/IECEx Zone 2",0,0
+LaserGas II Single Path,CO2,108854 LaserGas II CO2 ppm SP HT ATEX/IECEx Ex-p,108854,LaserGas II CO2 ppm SP HT ATEX/IECEx Ex-p,"High temp appl. (T>700 °C), ATEX/IECEx Zone 1",0,0
+LaserGas II Single Path,H2O,108970 LaserGas II H2O % SP TÜV,108970,LaserGas II H2O % SP TÜV,"Also available as Ex-n/Ex-p, contact NEO Monitors",0,0
+LaserGas II Single Path,CH4 ppm,109000 LaserGas II CH4 ppm SP CSA Class I Div 2,109000,LaserGas II CH4 ppm SP CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,CH4,109020 LaserGas II CH4 % SP CSA Class I Div 2,109020,LaserGas II CH4 % SP CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas II Single Path,CH4 ppm,109030 LaserGas II CH4 ppm SP CSA GP,109030,LaserGas II CH4 ppm SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,CH4,109040 LaserGas II CH4 % SP CSA GP,109040,LaserGas II CH4 % SP CSA GP,General purpose non-hazloc,0,0
+LaserGas II Single Path,CO,"109150 LaserGas II CO% HT , (0-10%*m) SP ATEX/IECEx Ex-n",109150,"LaserGas II CO% HT , (0-10%*m) SP ATEX/IECEx Ex-n",ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,C2H2,109720 LaserGas II C2H2 ppm SP ATEX/IECEx Ex-n,109720,LaserGas II C2H2 ppm SP ATEX/IECEx Ex-n,,0,0
+LaserGas II Single Path,H2,109841 LaserGas II H2 SP non ATEX/IECEx/CSA,109841,LaserGas II H2 SP non ATEX/IECEx/CSA,Non ATEX/IECEx/CSA,0,0
+LaserGas II Single Path,H2S,109911 LaserGas II H2S SP ATEX/IECEx Ex-p,109911,LaserGas II H2S SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1 - Coke Overn Gas (COG) appl.,0,0
+LaserGas II Single Path,H2S,109912 LaserGas II H2S SP ATEX/IECEx Ex-n,109912,LaserGas II H2S SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2 - Coke Oven Gas (COG) appl.,0,0
+LaserGas II Single Path,H2S,109912-lp LaserGas II H2S SP ATEX/IECEx Ex-n,109912-lp,LaserGas II H2S SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2 - Coke Oven Gas (COG) appl.,0,0
+LaserGas II Single Path,CO+CH4,110444 LaserGas II CO ppm + CH4 SP Med HT ATEX/IECEx Ex-n,110444,LaserGas II CO ppm + CH4 SP Med HT ATEX/IECEx Ex-n,"ATEX/IECEx Zone 2, Special application, Contact NEO Monitors",0,0
+LaserGas II Single Path,CO+CH4,110445 LaserGas II CO ppm + CH4 SP Med HT ATEX/IECEx Ex-p,110445,LaserGas II CO ppm + CH4 SP Med HT ATEX/IECEx Ex-p,"ATEX/IECEx Zone 1, Special application, Contact NEO Monitors",0,0
+LaserGas II Single Path,H2,110540 LaserGas II H2 SP ATEX/IECEx Ex-p,110540,LaserGas II H2 SP ATEX/IECEx Ex-p,ATEX/IECEx Zone 1,0,0
+LaserGas II Single Path,H2,110545 LaserGas II H2 SP ATEX/IECEx Ex-n,110545,LaserGas II H2 SP ATEX/IECEx Ex-n,ATEX/IECEx Zone 2,0,0
+LaserGas II Single Path,C2H2,111286 LaserGas II C2H2 % SP ATEX/IECex Ex-n ,111286,LaserGas II C2H2 % SP ATEX/IECex Ex-n ,,0,0
+LaserGas III Open Path,HF,103072 LaserGas III HF OP Ex-d SIL ATEX/IECEx,103072,LaserGas III HF OP Ex-d SIL ATEX/IECEx,ATEX/IECEx Zone 1 & 2,0,0
+LaserGas III Open Path,CO,108485 LaserGas III CO OP Ex-d non-SIL ATEX/IECEx,108485,LaserGas III CO OP Ex-d non-SIL ATEX/IECEx,ATEX/IECEx Zone1&2,0,0
+LaserGas III Open Path,HF,"109200 LaserGas III HF OP Detector Ex-d non-SIL, ATEX/IECEx",109200,"LaserGas III HF OP Detector Ex-d non-SIL, ATEX/IECEx",ATEX/IECEx Zone1&2,0,0
+LaserGas III Open Path,NH3,109440 LaserGas III NH3 OP Ex-d non-SIL ATEX/IECEx,109440,LaserGas III NH3 OP Ex-d non-SIL ATEX/IECEx,ATEX/IECEx Zone1&2,0,0
+LaserGas III Open Path,H2S,111800 LaserGas III H2S OP Ex-d non-SIL ATEX/IECEx,111800,LaserGas III H2S OP Ex-d non-SIL ATEX/IECEx,ATEX/IECEx Zone1&2,0,0
+LaserGas III Open Path,NH3,"113073 LaserGas III NH3 OP, ATEX SIL, Mk2",113073,"LaserGas III NH3 OP, ATEX SIL, Mk2",ATEX/IECEx Zone 1 & 2,0,0
+LaserGas III Open Path,CO,113074 LaserGas III CO OP Ex-d SIL ATEX/IECEx,113074,LaserGas III CO OP Ex-d SIL ATEX/IECEx,ATEX/IECEx Zone 1 & 2,0,0
+LaserGas III Open Path,H2S,113078 LaserGas III H2S OP Ex-d SIL ATEX/IECEx,113078,LaserGas III H2S OP Ex-d SIL ATEX/IECEx,ATEX/IECEx Zone 1 & 2,0,0
+LaserGas III Open Path,CH4,113079 LaserGas III CH4 OP Ex-d SIL ATEX/IECEx,113079,LaserGas III CH4 OP Ex-d SIL ATEX/IECEx,ATEX/IECEx Zone 1 & 2,0,0
+LaserGas III Open Path,CH4,113220 LaserGas III CH4 OP Ex-d non-SIL ATEX/IECEx,113220,LaserGas III CH4 OP Ex-d non-SIL ATEX/IECEx,ATEX/IECEx Zone 1 & 2,0,0
+LaserGas III Portable,HF,107655 LaserGas III HF Portable  ,107655,LaserGas III HF Portable  ,No approvals available,0,0
+LaserGas III Single Path,NH3,103067 LaserGas III NH3 + H2O SP DeNOx Ex-d SIL CSA Class 1 Div 2,103067,LaserGas III NH3 + H2O SP DeNOx Ex-d SIL CSA Class 1 Div 2,"NB! DeNOx applications only. With ISSC, CSA Class 1/Div2",0,0
+LaserGas III Single Path,CO,108486 LaserGas III Ultra COppm SP HT Ex-d non-SIL ATEX/IECEx,108486,LaserGas III Ultra COppm SP HT Ex-d non-SIL ATEX/IECEx,"CO ppm, High temperature T>500 °C, ATEX/IECEx Zone1&2",0,0
+LaserGas III Single Path,O2,108861 LaserGas III O2 SP Ex-d non-SIL ATEX/IECEx Std Amb. Temp,108861,LaserGas III O2 SP Ex-d non-SIL ATEX/IECEx Std Amb. Temp,"ATEX/IECEx Zone 1 & 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,O2,109276 LaserGas III O2 SP Ex-d HT non-SIL ATEX/IECEx Std Amb Temp,109276,LaserGas III O2 SP Ex-d HT non-SIL ATEX/IECEx Std Amb Temp,ATEX/IECEx Zone1&2 High Temp appl (T>700 °C) 4m cable,0,0
+LaserGas III Single Path,O2,109277 LaserGas III O2 SP Ex-d HP non-SIL ATEX/IECEx Std Amb. Temp,109277,LaserGas III O2 SP Ex-d HP non-SIL ATEX/IECEx Std Amb. Temp,"ATEX/IECEx Zone1&2 High pressure appl, std 4m cable",0,0
+LaserGas III Single Path,NH3,109278 LaserGas III NH3+H2O SP DeNOx non-SIL Ex-d ATEX/IECEx,109278,LaserGas III NH3+H2O SP DeNOx non-SIL Ex-d ATEX/IECEx,"NB! DeNOx application only. With ISSC, ATEX/IECEx Zone1&2
+（只用于给美孚的特殊价格）",0,0
+LaserGas III Single Path,NH3,109278 LaserGas III NH3+H2O SP DeNOx non-SIL Ex-d ATEX/IECEx,109278,LaserGas III NH3+H2O SP DeNOx non-SIL Ex-d ATEX/IECEx,"NB! DeNOx application only. With ISSC, ATEX/IECEx Zone1&2",0,0
+LaserGas III Single Path,NH3,109279 LaserGas III NH3 SP DeNOx Ex-d non-SIL ATEX/IECEx,109279,LaserGas III NH3 SP DeNOx Ex-d non-SIL ATEX/IECEx,"NB! DeNOx application only. With ISSC, ATEX/IECEx Zone1&2",0,0
+LaserGas III Single Path,CO,109447 LaserGas III COppm + CH4 SP HT Ex-d non-SIL ATEX/IECEx,109447,LaserGas III COppm + CH4 SP HT Ex-d non-SIL ATEX/IECEx,"CO ppm, For temperature T>500 °C, ATEX/IECEx Zone1&2",0,0
+LaserGas III Single Path,CO,109500 LaserGas III COppm SP Ex-d non-SIL ATEX/IECEx,109500,LaserGas III COppm SP Ex-d non-SIL ATEX/IECEx,"CO ppm, For temperature T<500 °C, ATEX/IECEx Zone1&2",0,0
+LaserGas III Single Path,O2,109770 LaserGas III O2 SP Ex-d SIL ATEX/IECEx Ext Amb. Temp,109770,LaserGas III O2 SP Ex-d SIL ATEX/IECEx Ext Amb. Temp,"ATEX/IECEx Zone 1 & 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,O2,109780 LaserGas III O2 SP Ex-d HT SIL ATEX/IECEx Ext Amb. Temp,109780,LaserGas III O2 SP Ex-d HT SIL ATEX/IECEx Ext Amb. Temp,ATEX/IECEx Zone 1&2 High Temp appl (T>700 °C) 4m cable,0,0
+LaserGas III Single Path,O2,109781 LaserGas III O2 SP Ex-d HP SIL ATEX/IECEx Ext Amb. Temp,109781,LaserGas III O2 SP Ex-d HP SIL ATEX/IECEx Ext Amb. Temp,"ATEX/IECEx Zone1&2 High pressure appl, std 4m cable",0,0
+LaserGas III Single Path,NH3,109784 LaserGas III NH3 SP DeNOx Ex-d SIL ATEX/IECEx,109784,LaserGas III NH3 SP DeNOx Ex-d SIL ATEX/IECEx,"NB! DeNOx applications only. With ISSC, ATEX/IECEx Zone 1 &22",0,0
+LaserGas III Single Path,NH3,109785 LaserGas III NH3 + H2O SP DeNOx Ex-d SIL ATEX/IECEx,109785,LaserGas III NH3 + H2O SP DeNOx Ex-d SIL ATEX/IECEx,"NB! DeNOx applications only. With ISSC, ATEX/IECEx Zone 1 & 2",0,0
+LaserGas III Single Path,CO,109786 LaserGas III COppm SP Ex-d SIL ATEX/IECEx,109786,LaserGas III COppm SP Ex-d SIL ATEX/IECEx,"CO ppm, For temperature <500°C, ATEX/IECEx Zone 1 & 2",0,0
+LaserGas III Single Path,CO,109787 LaserGas III COppm SP HT Ex-d SIL ATEX/IECEx,109787,LaserGas III COppm SP HT Ex-d SIL ATEX/IECEx,"CO ppm, For temperature >500°C, ATEX/IECEx Zone 1 & 2",0,0
+LaserGas III Single Path,CO,109788 LaserGas III COppm + CH4 SP HT Ex-d SIL ATEX/IECEx,109788,LaserGas III COppm + CH4 SP HT Ex-d SIL ATEX/IECEx,"CO ppm, For temperature >500°C, ATEX/IECEx Zone 1 & 2",0,0
+LaserGas III Single Path,O2,110100 LaserGas III O2 SP Ex-d non-SIL ATEX/IECEx Ext Amb. Temp,110100,LaserGas III O2 SP Ex-d non-SIL ATEX/IECEx Ext Amb. Temp,"ATEX/IECEx Zone 1 & 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,O2,110200 LaserGas III O2 SP Ex-d HT non-SIL ATEX/IECEx Ext Amb. Temp,110200,LaserGas III O2 SP Ex-d HT non-SIL ATEX/IECEx Ext Amb. Temp,ATEX/IECEx Zone1&2 High Temp appl (T>700 °C) 4m cable,0,0
+LaserGas III Single Path,O2,110202 LaserGas III O2 SP Ex-d HP non-SIL ATEX/IECEx Ext Amb. Temp,110202,LaserGas III O2 SP Ex-d HP non-SIL ATEX/IECEx Ext Amb. Temp,"ATEX/IECEx Zone1&2 High pressure appl, std 4m cable",0,0
+LaserGas III Single Path,O2,110212 LaserGas III O2 SP Ex-d SIL ATEX/IECEx Std Amb. Temp,110212,LaserGas III O2 SP Ex-d SIL ATEX/IECEx Std Amb. Temp,"ATEX/IECEx Zone 1 & 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,O2,110213 LaserGas III O2 SP Ex-d HT SIL ATEX/IECEx Std Amb. Temp,110213,LaserGas III O2 SP Ex-d HT SIL ATEX/IECEx Std Amb. Temp,ATEX/IECEx Zone 1&2 High Temp appl (T>700 °C) 4m cable,0,0
+LaserGas III Single Path,O2,110214 LaserGas III O2 SP Ex-d HP SIL ATEX/IECEx std Amb. Temp,110214,LaserGas III O2 SP Ex-d HP SIL ATEX/IECEx std Amb. Temp,"ATEX/IECEx Zone 1&2 High pressure appl, std 4m cable",0,0
+LaserGas III Single Path,O2,110318 LaserGas III O2 SP Ex-d HT non-SIL CSA Class I Div 2,110318,LaserGas III O2 SP Ex-d HT non-SIL CSA Class I Div 2,"CSA Class I/Div2, High Temp appl (T>700 °C) std 4m cable",0,0
+LaserGas III Single Path,O2,110335 LaserGas III O2 SP Ex-d non-SIL CSA Class I Div 2,110335,LaserGas III O2 SP Ex-d non-SIL CSA Class I Div 2,"CSA Class I/Div 2, std 4m cabl incl connection box",0,0
+LaserGas III Single Path,O2,110340 LaserGas III O2 SP Ex-d SIL CSA Class I Div 2,110340,LaserGas III O2 SP Ex-d SIL CSA Class I Div 2,"CSA Class I/Div 2, std 4m cabl incl connection box",0,0
+LaserGas III Single Path,O2,110795 LaserGas III O2 SP HP Ex-d SIL CSA Class I Div 2,110795,LaserGas III O2 SP HP Ex-d SIL CSA Class I Div 2,"CSA Class I/Div 2, std 4m cabl incl connection box",0,0
+LaserGas III Single Path,CO,110817 LaserGas III COppm SP Ex-d non-SIL CSA Class I Div 2  ,110817,LaserGas III COppm SP Ex-d non-SIL CSA Class I Div 2  ,"CO ppm, For temperature T<500 °C, CSA Class I/Div 2",0,0
+LaserGas III Single Path,CO,110818 LaserGas III COppm+CH4 SP Ex-d non-SIL CSA Class I Div 2  ,110818,LaserGas III COppm+CH4 SP Ex-d non-SIL CSA Class I Div 2  ,"CO ppm, For temperature T<500 °C, CSA Class I/Div 2",0,0
+LaserGas III Single Path,CO,110819 LaserGas III COppm SP HT Ex-d non-SIL CSA Class I Div 2  ,110819,LaserGas III COppm SP HT Ex-d non-SIL CSA Class I Div 2  ,"CO ppm, High Temp appl T>500 °C, CSA Class I/Div 2",0,0
+LaserGas III Single Path,CO,110820 LaserGas III COppm+CH4 SP HT Ex-d non-SIL CSA Class I Div 2,110820,LaserGas III COppm+CH4 SP HT Ex-d non-SIL CSA Class I Div 2,"CO ppm, High Temp appl T>500 °C, CSA Class I/Div 2",0,0
+LaserGas III Single Path,NH3,110821 LaserGas III NH3 SP DeNOx Ex-d non-SIL CSA Class I Div 2,110821,LaserGas III NH3 SP DeNOx Ex-d non-SIL CSA Class I Div 2,"NB! DeNOx application only. With ISSC, CSA Class I/Div 2",0,0
+LaserGas III Single Path,NH3,110822 LaserGas III NH3+H2O SP DeNOx non-SIL CSA Class I Div 2,110822,LaserGas III NH3+H2O SP DeNOx non-SIL CSA Class I Div 2,"NB! DeNOx application only. With ISSC, CSA Class I/Div 2",0,0
+LaserGas III Single Path,O2,111057 LaserGas III O2 SP Ex-d HP non-SIL CSA Class I Div 2,111057,LaserGas III O2 SP Ex-d HP non-SIL CSA Class I Div 2,"CSA Class I/Div 2, std 4m cabl incl connection box",0,0
+LaserGas III Single Path,CO,"112300 Lasergas III Ultra CO Std (LT) Ex-d non SIL, ATEX/IECEx  ",112300,"Lasergas III Ultra CO Std (LT) Ex-d non SIL, ATEX/IECEx  ","For temperature <500°C, ATEX/IECEx Zone 1 & 2",0,0
+LaserGas III Single Path,CO,"112301 Lasergas III Ultra CO HT Ex-d non SIL, ATEX/IECEx  ",112301,"Lasergas III Ultra CO HT Ex-d non SIL, ATEX/IECEx  ","For temperature >500°C, ATEX/IECEx Zone 1 & 2",0,0
+LaserGas III Single Path,CO,"112302 Lasergas III Ultra CO+CH4 Std (LT) Ex-d non SIL, ATEX/IECEx",112302,"Lasergas III Ultra CO+CH4 Std (LT) Ex-d non SIL, ATEX/IECEx","For temperature <500°C, ATEX/IECEx Zone 1 & 2",0,0
+LaserGas III Single Path,CO,"112303 LaserGas III Ultra CO+CH4 SP HT Ex-d non SIL Std.Amb.T, MK2",112303,"LaserGas III Ultra CO+CH4 SP HT Ex-d non SIL Std.Amb.T, MK2","For temperature <500°C, ATEX/IECEx Zone 1 & 2",0,0
+LaserGas III Single Path,CO,112900 LaserGas III COppm + CH4 SP HT Ex-d SIL CSA Class 1 Div 2  ,112900,LaserGas III COppm + CH4 SP HT Ex-d SIL CSA Class 1 Div 2  ,"CO ppm, For temperature >500°C, CSA Class 1/Div 2",0,0
+LaserGas III Single Path,CO,112905 LaserGas III COppm + CH4 SP Ex-d SIL CSA Class 1 Div 2,112905,LaserGas III COppm + CH4 SP Ex-d SIL CSA Class 1 Div 2,"CO ppm, For temperature <500°C, Class 1/Div 2",0,0
+LaserGas III Single Path,H2,113058 LaserGas III H2 SP Ex-d non-SIL ATEX/IECEx Std Amb. Temp  ,113058,LaserGas III H2 SP Ex-d non-SIL ATEX/IECEx Std Amb. Temp  ,"ATEX/IECEx Zone 1 & 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,H2,113059 LaserGas III H2 SP Ex-d SIL ATEX/IECEx Std Amb. Temp  ,113059,LaserGas III H2 SP Ex-d SIL ATEX/IECEx Std Amb. Temp  ,"ATEX/IECEx Zone 1 & 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,H2,113060 LaserGas III H2 SP Ex-d non-SIL CSA Class 1 Div 2 Std Amb. Temp ,113060,LaserGas III H2 SP Ex-d non-SIL CSA Class 1 Div 2 Std Amb. Temp ," CSA Class1/Div 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,H2,113061 LaserGas III H2 SP Ex-d SIL CSA Class 1 Div 2 Std Amb. Temp  ,113061,LaserGas III H2 SP Ex-d SIL CSA Class 1 Div 2 Std Amb. Temp  ,"CSA Class 1/Div 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,CO2,113062 LaserGas III CO2ppm SP Ex-d non-SIL ATEX/IECEx Std Amb. Temp  ,113062,LaserGas III CO2ppm SP Ex-d non-SIL ATEX/IECEx Std Amb. Temp  ,"ATEX/IECEx Zone 1 & 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,CO2,113063 LaserGas III CO2ppm SP Ex-d SIL ATEX/IECEx Std Amb. Temp  ,113063,LaserGas III CO2ppm SP Ex-d SIL ATEX/IECEx Std Amb. Temp  ,"ATEX/IECEx Zone 1 & 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,CO2,113064 LaserGas III CO2 SP Ex-d non-SIL CSA Class1 Div 2 Std Amb. Temp  ,113064,LaserGas III CO2 SP Ex-d non-SIL CSA Class1 Div 2 Std Amb. Temp  ,"CSA Class 1/Div 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,CO2,113065 LaserGas III CO2 SP Ex-d SIL ATEX/IECEx Std Amb. Temp  ,113065,LaserGas III CO2 SP Ex-d SIL ATEX/IECEx Std Amb. Temp  ,"CSA Class 1/Div 2, std 4m cable incl connection box",0,0
+LaserGas III Single Path,NH3,113066 LaserGas III NH3 SP DeNOx Ex-d SIL CSA Class 1 Div 2,113066,LaserGas III NH3 SP DeNOx Ex-d SIL CSA Class 1 Div 2,"NB! DeNOx applications only. With ISSC, CSA Class 1/Div 2",0,0
+LaserGas III Single Path,CO,113068 LaserGas III COppm + CH4 SP LT Ex-d SIL ATEX/IECEx,113068,LaserGas III COppm + CH4 SP LT Ex-d SIL ATEX/IECEx,"CO ppm, For temperature <500°C, ATEX/IECEx Zone 1 & 2",0,0
+LaserGas III Single Path,CO,113069 LaserGas III COppm SP Ex-d SIL CSA Class 1 Div 2 ,113069,LaserGas III COppm SP Ex-d SIL CSA Class 1 Div 2 ,"CO ppm, For temperature <500°C, CSA Class 1/Div 2",0,0
+LaserGas III Single Path,CO,113070 LaserGas III COppm SP HT Ex-d SIL CSA Class 1 Div 2  ,113070,LaserGas III COppm SP HT Ex-d SIL CSA Class 1 Div 2  ,"CO ppm, For temperature >500°C, CSDA Class 1/Div 2",0,0
+LaserGas III Single Path,CO2,113260 LaserGas III Ultra CO2 SP Ex-d non-SIL ATEX/IECEx Std Amb. Temp ,113260,LaserGas III Ultra CO2 SP Ex-d non-SIL ATEX/IECEx Std Amb. Temp ,"ATEX/IECEx Zone 1 & 2, std 4m cable incl connection box",0,0
+LaserGas iQ2,Vulcan,107897 LaserGas iQ2 Vulcan O2 & CO ATEX/IECEx Ex-p,107897,LaserGas iQ2 Vulcan O2 & CO ATEX/IECEx Ex-p,"Probe is not Included, ATEX/IECEx Zone 1 & 2",0,0
+LaserGas iQ2,X-stack,108800 LaserGas iQ2 X-stack O2 + CO CSA Class I Div 2,108800,LaserGas iQ2 X-stack O2 + CO CSA Class I Div 2,Class I/Div 2,0,0
+LaserGas iQ2,Vulcan,108821 LaserGas iQ2 O2 & CO Vulcan non ATEX/IECEx/CSA,108821,LaserGas iQ2 O2 & CO Vulcan non ATEX/IECEx/CSA,"Probe is not Included, non ATEX/IECEx/CSA",0,0
+LaserGas iQ2,X-stack,108840 LaserGas iQ2 X-stack O2 + CO CSA GP,108840,LaserGas iQ2 X-stack O2 + CO CSA GP,General purpose non-hazloc,0,0
+LaserGas iQ2,Vulcan,108842 LaserGas iQ2 Vulcan O2 & CO CSA GP,108842,LaserGas iQ2 Vulcan O2 & CO CSA GP,"Probe is not Included, General purpose non-hazloc",0,0
+LaserGas iQ2,Vulcan,108906 LaserGas iQ2 Vulcan O2 & CO CSA CSA Class I Div 2,108906,LaserGas iQ2 Vulcan O2 & CO CSA CSA Class I Div 2,"Probe is not Included, Class I/Div2",0,0
+LaserGas iQ2,X-stack,108930 LaserGas iQ2 X-stack O2 + CO ATEX/IECEx Ex-p,108930,LaserGas iQ2 X-stack O2 + CO ATEX/IECEx Ex-p,ATEX/IECEx Zone 1&2,0,0
+LaserGas iQ2,X-stack,108931 LaserGas iQ2 X-stack O2 & CO non ATEX/IECEx/CSA,108931,LaserGas iQ2 X-stack O2 & CO non ATEX/IECEx/CSA,non ATEX/IECEx/CSA,0,0
+LaserGas iQ2,Vulcan,109751 Vulcan High Temp Probe w/ Flange DN80 PN10-16 compatible,109751,Vulcan High Temp Probe w/ Flange DN80 PN10-16 compatible,Only High Temperature probe. Tmax 850°C. No discount,0,0
+LaserGas iQ2,Vulcan,109752 Vulcan High Temp Probe w/ Flange DN100 PN10-16 compatible,109752,Vulcan High Temp Probe w/ Flange DN100 PN10-16 compatible,Only High Temperature probe. Tmax 850°C. No discount,0,0
+LaserGas iQ2,Vulcan,109753 Vulcan High Temp Probe w/ Flange DN150 PN6 compatible,109753,Vulcan High Temp Probe w/ Flange DN150 PN6 compatible,Only High Temperature probe. Tmax 850°C. No discount,0,0
+LaserGas iQ2,Vulcan,"109754 Vulcan High Temp Probe w/ Flange ANSI 3"" #150 compatible",109754,"Vulcan High Temp Probe w/ Flange ANSI 3"" #150 compatible",Only High Temperature probe. Tmax 850°C. No discount,0,0
+LaserGas iQ2,Vulcan,"109756 Vulcan High Temp Probe w/ Flange ANSI 4"" #150 compatibe",109756,"Vulcan High Temp Probe w/ Flange ANSI 4"" #150 compatibe",Only High Temperature probe. Tmax 850°C. No discount,0,0
+LaserGas Q,SO2,107600 LaserGas Q SO2 SP non ATEX/IECEx/CSA,107600,LaserGas Q SO2 SP non ATEX/IECEx/CSA,ICL,0,0
+LaserGas Q,SO2,108120 LaserGas Q SO2 SP non ATEX/IECEx/CSA,108120,LaserGas Q SO2 SP non ATEX/IECEx/CSA,"QCL, special applications only",0,0
+LaserGas Q,NO2,108260 LaserGas Q NO2 SP non ATEX/IECEx/CSA,108260,LaserGas Q NO2 SP non ATEX/IECEx/CSA,ICL,0,0
+LaserGas Q,SO2,109270 LaserGas Q SO2 SP ATEX/IECEx Ex-n,109270,LaserGas Q SO2 SP ATEX/IECEx Ex-n,"ICL, ATEX/IECEx Zone 2",0,0
+LaserGas Q,SO2,109340 LaserGas Q SO2 SP non ATEX/IECEx/CSA,109340,LaserGas Q SO2 SP non ATEX/IECEx/CSA,ICL Tail gas appl.,0,0
+LaserGas Q,SO2,109350 LaserGas Q SO2 SP ATEX/IECEx Ex-n,109350,LaserGas Q SO2 SP ATEX/IECEx Ex-n,ICL Tail gas appl. ATEX/IECEx Zone 2,0,0
+LaserGas Q,NO,109850 LaserGas Q NO SP non ATEX/IECEx/CSA,109850,LaserGas Q NO SP non ATEX/IECEx/CSA,ICL,0,0
+LaserGas Q,HBr,110400 LaserGas Q HBr SP non ATEX/IECEx/CSA,110400,LaserGas Q HBr SP non ATEX/IECEx/CSA,ICL,0,0
+LaserGas Q,NO2,110446 LaserGas Q NO2 SP ATEX/IECEx Ex-n,110446,LaserGas Q NO2 SP ATEX/IECEx Ex-n,"ICL, ATEX/IECEx Zone 2",0,0
+LaserGas Q,NO,110590 LaserGas Q NO SP ATEX/IECEx Ex-n,110590,LaserGas Q NO SP ATEX/IECEx Ex-n,"ICL, ATEX/IECEx Zone 2",0,0
+LaserGas Q,SO2,110660 LaserGas Q SO2 SP CSA Class I Div 2,110660,LaserGas Q SO2 SP CSA Class I Div 2,"ICL, CSA Class I Div 2",0,0
+LaserGas Q,SO2,110661 LaserGas Q SO2 SP CSA Class I Div 2,110661,LaserGas Q SO2 SP CSA Class I Div 2,ICL Tail gas appl. CSA Class I Div 2,0,0
+LaserGas Q,HBr,110883 LaserGas Q HBr SP ATEX/IECEx,110883,LaserGas Q HBr SP ATEX/IECEx,"ICL, ATEX/IECEx Zone 2",0,0
+LaserGas Q,CH2O,112775 LaserGas Q CH2O SP ATEX/IECEx,112775,LaserGas Q CH2O SP ATEX/IECEx,"ICL, ATEX/IECEx Zone 2",0,0
+LaserGas Q,CH2O,112780 LaserGas Q CH2O SP non ATEX/IECEx/CSA,112780,LaserGas Q CH2O SP non ATEX/IECEx/CSA,ICL,0,0
+LaserGas Q,NO2,112971 LaserGas Q NO2 SP CSA Class I Div 2,112971,LaserGas Q NO2 SP CSA Class I Div 2,"ICL, CSA Class I Div 2",0,0
+LaserGas Q,CH2O,112972 LaserGas Q CH2O SP CSA Class I Div 2,112972,LaserGas Q CH2O SP CSA Class I Div 2,"ICL, CSA Class I Div 2",0,0
+LaserGas Q,HBr,112973 LaserGas Q HBr SP CSA Class I Div 2,112973,LaserGas Q HBr SP CSA Class I Div 2,"ICL, CSA Class I Div 2",0,0
+LaserGas Q,NO,112975 LaserGas Q NO SP CSA Class I Div 2,112975,LaserGas Q NO SP CSA Class I Div 2,"ICL, CSA Class I Div 2",0,0
+LaserGas Q,NO2,112981 LaserGas Q NO2 SP CSA GP,112981,LaserGas Q NO2 SP CSA GP,"ICL, CSA GP",0,0
+LaserGas Q,CH2O,112982 LaserGas Q CH2O SP CSA GP,112982,LaserGas Q CH2O SP CSA GP,"ICL, CSA GP",0,0
+LaserGas Q,HBr,112983 LaserGas Q HBr SP CSA GP,112983,LaserGas Q HBr SP CSA GP,"ICL, CSA GP",0,0
+LaserGas Q,NO,112985 LaserGas Q NO SP CSA GP,112985,LaserGas Q NO SP CSA GP,"ICL, CSA GP",0,0
+LaserGas Q,SO2,112986 LaserGas Q SO2 SP CSA GP,112986,LaserGas Q SO2 SP CSA GP,"ICL, CSA GP",0,0
+LaserGas Q,SO2,112987 LaserGas Q SO2 SP CSA GP,112987,LaserGas Q SO2 SP CSA GP,ICL Tail gas appl. CSA GP,0,0
