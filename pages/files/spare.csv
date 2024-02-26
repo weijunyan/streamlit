@@ -1,0 +1,585 @@
+﻿Platform,Function,Analyzer,Part No.,Description,Information,ListPrice,Discount,Quantity,Unit Price,Total Price
+LaserGas II Single Path,Analog out,"111328 AuxBoard Unit, 1.Channel (Standard Unit), LG II/LGQ/LD",111328,"AuxBoard Unit, 1.Channel (Standard Unit), LG II/LGQ/LD",,11270,0,1,11270,11270
+LaserGas II Single Path,Analog out,"111329 AuxBoard Unit, 2 Channel, LG II/LGQ/LD",111329,"AuxBoard Unit, 2 Channel, LG II/LGQ/LD",,18285,0,1,18285,18285
+LaserGas II Single Path,Analog out,"110496 AuxBoard Unit, 3 Channel, LG II/LGQ/LD",110496,"AuxBoard Unit, 3 Channel, LG II/LGQ/LD",,23920,0,1,23920,23920
+LaserGas II Single Path,TU/RU cable,102071 TU‐RU cable LGII/LD/LGQ Std 5m,102071,TU‐RU cable LGII/LD/LGQ Std 5m,8‐pair cable,3910,0,1,3910,3910
+LaserGas II Single Path,TU/RU cable,102072 TU‐RU cable LGII/LD/LGQ Std 10m,102072,TU‐RU cable LGII/LD/LGQ Std 10m,8‐pair cable,4715,0,1,4715,4715
+LaserGas II Single Path,TU/RU cable,102073 TU‐RU cable LGII/LD/LGQ Std 15m,102073,TU‐RU cable LGII/LD/LGQ Std 15m,8‐pair cable,5520,0,1,5520,5520
+LaserGas II Single Path,TU/RU cable,102074 TU‐RU cable LGII/LD/LGQ Std 20m,102074,TU‐RU cable LGII/LD/LGQ Std 20m,8‐pair cable,6210,0,1,6210,6210
+LaserGas II Single Path,TU/RU cable,101160 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 5m,101160,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 5m,NA for LD LP & XLP,2990,0,1,2990,2990
+LaserGas II Single Path,TU/RU cable,101161 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 10m,101161,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 10m,NA for LD XLP,3795,0,1,3795,3795
+LaserGas II Single Path,TU/RU cable,101162 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 15m,101162,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 15m,,4600,0,1,4600,4600
+LaserGas II Single Path,TU/RU cable,101163 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 20m,101163,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 20m,,5290,0,1,5290,5290
+LaserGas II Single Path,PSU,"105099 Traco Power Supply TEX 120‐12 Kit;With new Instrument. Std 3m TU/PSU cable, 3 meter power cable",105099,"Traco Power Supply TEX 120‐12 Kit;With new Instrument. Std 3m TU/PSU cable, 3 meter power cable","IP67, NEMA 4X, 24VDC 5A 120W.",9315,0,1,9315,9315
+LaserGas II Single Path,Flange/Purge Units,105958 Flange‐/purge Kit LGII/LD‐MP DN50/PN10‐40 Compatible,105958,Flange‐/purge Kit LGII/LD‐MP DN50/PN10‐40 Compatible,"R2'', O‐ring: NBR70, 3/8"" tube fitting",12420,0,1,12420,12420
+LaserGas II Single Path,Flange/Purge Units,105959 Flange‐/purge Kit LGII/LD‐MP ANSI 2''/150 lbs Compatible,105959,Flange‐/purge Kit LGII/LD‐MP ANSI 2''/150 lbs Compatible,"R2"", Std: O‐ring: NBR70, 3/8"" tube fitting",12420,0,1,12420,12420
+LaserGas II Single Path,Flange/Purge Units,106012 Flange‐/purge Kit LGII DN50/PN10‐40 Compatible 2 ports,106012,Flange‐/purge Kit LGII DN50/PN10‐40 Compatible 2 ports,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",14720,0,1,14720,14720
+LaserGas II Single Path,Flange/Purge Units,106531 Flange‐/purge Kit LGII DN50/PN10‐40 Compatible Ins.tube,106531,Flange‐/purge Kit LGII DN50/PN10‐40 Compatible Ins.tube,"R2'', For Inst tube, O‐ring: NBR70 3/8"" fitting",14720,0,1,14720,14720
+LaserGas II Single Path,Flange/Purge Units,101093 Flange‐/purge Kit LGII/LD‐MP DN65/PN6 Compatible,101093,Flange‐/purge Kit LGII/LD‐MP DN65/PN6 Compatible,"Std: O‐ring: NBR70, 3/8"" tube fitting, R2''",14720,0,1,14720,14720
+LaserGas II Single Path,Flange/Purge Units,107366 Flange‐/purge Kit LGII/LD‐MP DN65/PN10‐40 Compatible',107366,Flange‐/purge Kit LGII/LD‐MP DN65/PN10‐40 Compatible',"Std: O‐ring: NBR70, 3/8"" tube fitting, R2''",12420,0,1,12420,12420
+LaserGas II Single Path,Flange/Purge Units,106833 Flange‐/purge Kit LGII/LD‐MP DN80/PN10‐40 Compatible,106833,Flange‐/purge Kit LGII/LD‐MP DN80/PN10‐40 Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting,",14720,0,1,14720,14720
+LaserGas II Single Path,Flange/Purge Units,106532 Flange‐/purge Kit LGII DN80/PN10‐40 Compatible Ins.tube,106532,Flange‐/purge Kit LGII DN80/PN10‐40 Compatible Ins.tube,"R2'', For Inst tube, O‐ring: NBR70 3/8"" fitting",16215,0,1,16215,16215
+LaserGas II Single Path,Flange/Purge Units,108257 Flange‐/purge Kit LGII/LD‐MP DN80/PN6 Compatible,108257,Flange‐/purge Kit LGII/LD‐MP DN80/PN6 Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",17020,0,1,17020,17020
+LaserGas II Single Path,Flange/Purge Units,108264 Flange‐/purge Kit LGII DN80/PN6 Compatible Ins.tube,108264,Flange‐/purge Kit LGII DN80/PN6 Compatible Ins.tube,"R2'', For Inst tube, O‐ring: NBR70 3/8"" fitting",18515,0,1,18515,18515
+LaserGas II Single Path,Flange/Purge Units,106129 Flange‐/purge Kit LGII/LD‐MP DN100/PN10‐16 Compatible,106129,Flange‐/purge Kit LGII/LD‐MP DN100/PN10‐16 Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",18515,0,1,18515,18515
+LaserGas II Single Path,Flange/Purge Units,106130 Flange‐/purge Kit LGII DN100/PN10‐16 Compatible 2 ports,106130,Flange‐/purge Kit LGII DN100/PN10‐16 Compatible 2 ports,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",19320,0,1,19320,19320
+LaserGas II Single Path,Flange/Purge Units,"106013 Flange‐/purge Kit LGII ANSI 2""/150lbs Compatible 2 ports",106013,"Flange‐/purge Kit LGII ANSI 2""/150lbs Compatible 2 ports","R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",14720,0,1,14720,14720
+LaserGas II Single Path,Flange/Purge Units,"106433 Flange‐/purge Kit LGII ANSI 2""/150 lbs Compatible Ins.tube",106433,"Flange‐/purge Kit LGII ANSI 2""/150 lbs Compatible Ins.tube","R2'', For Inst tube, O‐ring: NBR70 3/8"" fitting",14720,0,1,14720,14720
+LaserGas II Single Path,Flange/Purge Units,106773 Flange‐/purge Kit LGII/LD‐MP ANSI 2''/300 lbs Compatible,106773,Flange‐/purge Kit LGII/LD‐MP ANSI 2''/300 lbs Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",17020,0,1,17020,17020
+LaserGas II Single Path,Flange/Purge Units,"107179 Flange‐/purge Kit LGII ANSI 2""/300 lbs Compatible 2 ports",107179,"Flange‐/purge Kit LGII ANSI 2""/300 lbs Compatible 2 ports","R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",18515,0,1,18515,18515
+LaserGas II Single Path,Flange/Purge Units,106738 Flange‐/purge Kit LGII/LD‐MP ANSI 3''/150 lbs Compatible,106738,Flange‐/purge Kit LGII/LD‐MP ANSI 3''/150 lbs Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",15525,0,1,15525,15525
+LaserGas II Single Path,Flange/Purge Units,107040 Flange‐/purge Kit LGII ANSI 3''/150 lbs Compatible Ins.tube,107040,Flange‐/purge Kit LGII ANSI 3''/150 lbs Compatible Ins.tube,"R2'', For Inst tube, O‐ring: NBR70 3/8"" fitting",17020,0,1,17020,17020
+LaserGas II Single Path,Flange/Purge Units,106739 Flange‐/purge Kit LGII/LD‐MP ANSI 3''/300 lbsCompatible,106739,Flange‐/purge Kit LGII/LD‐MP ANSI 3''/300 lbsCompatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",17020,0,1,17020,17020
+LaserGas II Single Path,Flange/Purge Units,109311 Flange‐/purge Kit LGII ANSI 4''/150 lbs Compatible,109311,Flange‐/purge Kit LGII ANSI 4''/150 lbs Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",17365,0,1,17365,17365
+LaserGas II Single Path,Flange/Purge Units,109316 Flange‐/purge Kit LGII ANSI 4''/300 lbs Compatible,109316,Flange‐/purge Kit LGII ANSI 4''/300 lbs Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",19780,0,1,19780,19780
+LaserGas II Single Path,Flange/Purge Units,"109352  Flange-/purge Kit LGII ANSI 4''/150 lbs Compatible, Ins.Tube",109352," Flange-/purge Kit LGII ANSI 4''/150 lbs Compatible, Ins.Tube","R2'', Std: O-ring: NBR70, 3/8"" tube fitting",18745,0,1,18745,18745
+LaserGas II Single Path,TU/PSU cable,102685 Power‐TU cable LG II/LGQ/LD Std 3m,102685,Power‐TU cable LG II/LGQ/LD Std 3m,"(2x8x0,25mm^2)",2990,0,1,2990,2990
+LaserGas II Single Path,TU/PSU cable,110849 Power‐TU cable LGII/LGQ/LD Std 10m,110849,Power‐TU cable LGII/LGQ/LD Std 10m,"(2x8x0,25mm^2)",3795,0,1,3795,3795
+LaserGas II Single Path,TU/PSU cable ATEC/IECEx/CSA,106534 Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 3m,106534,Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 3m,,2530,0,1,2530,2530
+LaserGas II Single Path,TU/PSU cable ATEC/IECEx/CSA,110850 Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 10m,110850,Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 10m,,3565,0,1,3565,3565
+LaserGas II Single Path,"Purge fittings, instrument LGII",102313 Swagelok 8mm purge fittings kit LGII SP,102313,Swagelok 8mm purge fittings kit LGII SP,standard,0,0,1,0,0
+LaserGas II Single Path,"Purge fittings, instrument LGII",105957 Swagelok 6mm purge fittings kit LGII SP,105957,Swagelok 6mm purge fittings kit LGII SP,standard,0,0,1,0,0
+LaserGas II Single Path,"Purge fittings, instrument LGII",102315 Swagelok 12mm purge fittings kit LGII SP,102315,Swagelok 12mm purge fittings kit LGII SP,standard,0,0,1,0,0
+LaserGas II Single Path,"Purge fittings, instrument LGII",102314 Swagelok 10mm purge fittings kit LGII SP,102314,Swagelok 10mm purge fittings kit LGII SP,standard,0,0,1,0,0
+LaserGas II Single Path,"Purge fittings, instrument LGII",102316 Swagelok 1/4'' purge fittings kit LGII SP,102316,Swagelok 1/4'' purge fittings kit LGII SP,standard,0,0,1,0,0
+LaserGas II Single Path,"Purge fittings, flanges",102133 Swagelok Fittings LGII 1/4'' BSP‐T OD 8mm AISI316,102133,Swagelok Fittings LGII 1/4'' BSP‐T OD 8mm AISI316,standard,0,0,1,0,0
+LaserGas II Single Path,"Purge fittings, flanges",100523 Swagelok Fittings LGII 1/4'' BSP‐T OD 6mm AISI316,100523,Swagelok Fittings LGII 1/4'' BSP‐T OD 6mm AISI316,standard,0,0,1,0,0
+LaserGas II Single Path,"Purge fittings, flanges",102325 Swagelok Fittings LGII 1/4'' BSP‐T OD 12mm AISI316,102325,Swagelok Fittings LGII 1/4'' BSP‐T OD 12mm AISI316,standard,0,0,1,0,0
+LaserGas II Single Path,"Purge fittings, flanges",102324 Swagelok Fittings LGII 1/4'' BSP‐T OD 10mm AI,102324,Swagelok Fittings LGII 1/4'' BSP‐T OD 10mm AI,standard,0,0,1,0,0
+LaserGas II Single Path,"Purge fittings, flanges","102326 Swagelok Fittings LGII 1/4'' BSP‐T OD 1/4""",102326,"Swagelok Fittings LGII 1/4'' BSP‐T OD 1/4""",standard,0,0,1,0,0
+LaserGas II Single Path,"Purge fittings, flanges",100322 Fittings LGII R1/4'' x 3/8'' tube,100322,Fittings LGII R1/4'' x 3/8'' tube,standard,0,0,1,0,0
+LaserGas II Single Path,Flange O‐rings,"103666 Flange O‐ring 65,00 x 10,00 NBR70",103666,"Flange O‐ring 65,00 x 10,00 NBR70","DN50/ ANSI 2""",345,0,1,345,345
+LaserGas II Single Path,Flange O‐rings,"104051 Flange O‐ring 65,00 x 10,00 KFM75 Viton",104051,"Flange O‐ring 65,00 x 10,00 KFM75 Viton","DN50/ ANSI 2""",805,0,1,805,805
+LaserGas II Single Path,Flange O‐rings,"104049 Flange O‐ring 65,00 x 10,00 PTFE (Teflon)",104049,"Flange O‐ring 65,00 x 10,00 PTFE (Teflon)","DN50/ ANSI 2""",805,0,1,805,805
+LaserGas II Single Path,Flange O‐rings,"103710 Flange O‐ring 95,0 x 10,0 NBR 80",103710,"Flange O‐ring 95,0 x 10,0 NBR 80","DN80/ DN100/ ANSI 3""",345,0,1,345,345
+LaserGas II Single Path,Flange O‐rings,"104052 Flange O‐ring 95,00 x 10,0 Viton",104052,"Flange O‐ring 95,00 x 10,0 Viton","DN80/ DN100/ ANSI 3""",1150,0,1,1150,1150
+LaserGas II Single Path,Flange O‐rings,"103547 Flange O‐ring 95,00 x 10,00, PTFE (Teflon)",103547,"Flange O‐ring 95,00 x 10,00, PTFE (Teflon)","DN80/DN100/ ANSI 3""",1150,0,1,1150,1150
+LaserGas II Single Path,Flange O‐rings,"100798 Flange O‐ring 116,00 x 12,00 NBR70",100798,"Flange O‐ring 116,00 x 12,00 NBR70","DN150/ANSI 4""",575,0,1,575,575
+LaserGas II Single Path,Flange O‐rings,"104492 Flange O‐ring 116,00 x 12,00 Viton 80",104492,"Flange O‐ring 116,00 x 12,00 Viton 80","DN150/ANSI 4""",1380,0,1,1380,1380
+LaserGas II Single Path,Flange O‐rings,104578 Flange O‐ring 140 x 16 NBR70,104578,Flange O‐ring 140 x 16 NBR70,LaserDust XLP,690,0,1,690,690
+LaserGas II Single Path,Span Check,101644 Span cell kit LGII SP/SP Compact,101644,Span cell kit LGII SP/SP Compact,ONLY Span check cell,9890,0,1,9890,9890
+LaserGas II Single Path,Span Check,101802 Integrated span check LGII SP,101802,Integrated span check LGII SP,"Software & Switch box, Uses Internal volume",9890,0,1,9890,9890
+LaserGas II Single Path,Span Check,102051 Internal sealed span‐cell (ISSC) LGII SP,102051,Internal sealed span‐cell (ISSC) LGII SP,Internal Sealed Span check Cell，price on req,0,0,1,0,0
+LaserGas II Single Path,Span Check,108868 External span check cell,108868,External span check cell,External Cell w/sw & switch box,18975,0,1,18975,18975
+LaserGas II Single Path,Tracking Cell,102158 Fixed Internal Sealed Cell (FISC) LGII SP,102158,Fixed Internal Sealed Cell (FISC) LGII SP,Fixed Internal Sealed Cell (Tracking cell)，price on req,0,0,1,0,0
+LaserGas II Single Path,Misc,102253 Connection box ATEX type with cable glands,102253,Connection box ATEX type with cable glands,EX‐box Media Converter non‐ ATEX analyzers,12650,0,1,12650,12650
+LaserGas II Single Path,Misc,"101410 Remote Display, LG II",101410,"Remote Display, LG II",,9890,0,1,9890,9890
+LaserGas II Single Path,Misc,102059 TU‐Remote Display cable 4m LG II,102059,TU‐Remote Display cable 4m LG II,Must be ordered w/ Remote Display,1840,0,1,1840,1840
+LaserGas II Single Path,Customized Tuning,102384 Special tuning,102384,Special tuning,"NB! No discount, labour work only",20700,0,1,20700,20700
+LaserGas II Single Path,Customized Tuning,106828 Expert tuning,106828,Expert tuning,"NB! No discount, labour work only",43930,0,1,43930,43930
+LaserGas II Single Path,Customized Tuning,102416 Low pressure tuning,102416,Low pressure tuning,NB! Discount applies,41285,0,1,41285,41285
+LaserGas II Single Path,HMI,111763 LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,111763,LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas II Single Path,HMI,111710 LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,111710,LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas II Single Path,HMI,112339 LaserInspect CIMO4 HMI added input channel,112339,LaserInspect CIMO4 HMI added input channel,,13800,0,1,13800,13800
+LaserGas II Single Path,HMI,"112512 External Ethernet Switch for CIMO4, 7+1 ver.",112512,"External Ethernet Switch for CIMO4, 7+1 ver.",,13800,0,1,13800,13800
+LaserGas II Compact,Analog out,"111328 AuxBoard Unit, 1.Channel (Standard Unit), LG II/LGQ/LD",111328,"AuxBoard Unit, 1.Channel (Standard Unit), LG II/LGQ/LD",,11270,0,1,11270,11270
+LaserGas II Compact,Analog out,"111329 AuxBoard Unit, 2 Channel, LG II/LGQ/LD",111329,"AuxBoard Unit, 2 Channel, LG II/LGQ/LD",,18285,0,1,18285,18285
+LaserGas II Compact,Analog out,"110496 AuxBoard Unit, 3 Channel, LG II/LGQ/LD",110496,"AuxBoard Unit, 3 Channel, LG II/LGQ/LD",,23920,0,1,23920,23920
+LaserGas II Compact,TU/RU cable,102071 TU‐RU cable LGII/LD/LGQ Std 5m,102071,TU‐RU cable LGII/LD/LGQ Std 5m,8‐pair cable,3910,0,1,3910,3910
+LaserGas II Compact,TU/RU cable,102072 TU‐RU cable LGII/LD/LGQ Std 10m,102072,TU‐RU cable LGII/LD/LGQ Std 10m,8‐pair cable,4715,0,1,4715,4715
+LaserGas II Compact,TU/RU cable,102073 TU‐RU cable LGII/LD/LGQ Std 15m,102073,TU‐RU cable LGII/LD/LGQ Std 15m,8‐pair cable,5520,0,1,5520,5520
+LaserGas II Compact,TU/RU cable,102074 TU‐RU cable LGII/LD/LGQ Std 20m,102074,TU‐RU cable LGII/LD/LGQ Std 20m,8‐pair cable,6210,0,1,6210,6210
+LaserGas II Compact,TU/RU cable Ex‐version,101160 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 5m,101160,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 5m,NA for LD LP & XLP,2990,0,1,2990,2990
+LaserGas II Compact,TU/RU cable Ex‐version,101161 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 10m,101161,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 10m,NA for LD XLP,3795,0,1,3795,3795
+LaserGas II Compact,TU/RU cable Ex‐version,101162 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 15m,101162,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 15m,,4600,0,1,4600,4600
+LaserGas II Compact,TU/RU cable Ex‐version,101163 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 20m,101163,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 20m,,5290,0,1,5290,5290
+LaserGas II Compact,PSU,"105099 Traco Power Supply TEX 120‐12 Kit
+With new Instrument. Std 3m TU/PSU cable, 3 meter power cable",105099,"Traco Power Supply TEX 120‐12 Kit
+With new Instrument. Std 3m TU/PSU cable, 3 meter power cable","IP67, NEMA 4X, 24VDC 5A 120W.",9315,0,1,9315,9315
+LaserGas II Compact,Flange/Purge Units,105958 Flange‐/purge Kit LGII/LD‐MP DN50/PN10‐40 Compatible,105958,Flange‐/purge Kit LGII/LD‐MP DN50/PN10‐40 Compatible,"R2'', O‐ring: NBR70, 3/8"" tube fitting",12420,0,1,12420,12420
+LaserGas II Compact,Flange/Purge Units,105959 Flange‐/purge Kit LGII/LD‐MP ANSI 2''/150 lbs Compatible,105959,Flange‐/purge Kit LGII/LD‐MP ANSI 2''/150 lbs Compatible,"R2"", Std: O‐ring: NBR70, 3/8"" tube fitting",12420,0,1,12420,12420
+LaserGas II Compact,Flange/Purge Units,106012 Flange‐/purge Kit LGII DN50/PN10‐40 Compatible 2 ports,106012,Flange‐/purge Kit LGII DN50/PN10‐40 Compatible 2 ports,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",14720,0,1,14720,14720
+LaserGas II Compact,Flange/Purge Units,106531 Flange‐/purge Kit LGII DN50/PN10‐40 Compatible Ins.tube,106531,Flange‐/purge Kit LGII DN50/PN10‐40 Compatible Ins.tube,"R2'', For Inst tube, O‐ring: NBR70 3/8"" fitting",14720,0,1,14720,14720
+LaserGas II Compact,Flange/Purge Units,101093 Flange‐/purge Kit LGII/LD‐MP DN65/PN6 Compatible,101093,Flange‐/purge Kit LGII/LD‐MP DN65/PN6 Compatible,"Std: O‐ring: NBR70, 3/8"" tube fitting, R2''",14720,0,1,14720,14720
+LaserGas II Compact,Flange/Purge Units,107366 Flange‐/purge Kit LGII/LD‐MP DN65/PN10‐40 Compatible',107366,Flange‐/purge Kit LGII/LD‐MP DN65/PN10‐40 Compatible',"Std: O‐ring: NBR70, 3/8"" tube fitting, R2''",12420,0,1,12420,12420
+LaserGas II Compact,Flange/Purge Units,106833 Flange‐/purge Kit LGII/LD‐MP DN80/PN10‐40 Compatible,106833,Flange‐/purge Kit LGII/LD‐MP DN80/PN10‐40 Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting,",14720,0,1,14720,14720
+LaserGas II Compact,Flange/Purge Units,106532 Flange‐/purge Kit LGII DN80/PN10‐40 Compatible Ins.tube,106532,Flange‐/purge Kit LGII DN80/PN10‐40 Compatible Ins.tube,"R2'', For Inst tube, O‐ring: NBR70 3/8"" fitting",16215,0,1,16215,16215
+LaserGas II Compact,Flange/Purge Units,108257 Flange‐/purge Kit LGII/LD‐MP DN80/PN6 Compatible,108257,Flange‐/purge Kit LGII/LD‐MP DN80/PN6 Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",17020,0,1,17020,17020
+LaserGas II Compact,Flange/Purge Units,108264 Flange‐/purge Kit LGII DN80/PN6 Compatible Ins.tube,108264,Flange‐/purge Kit LGII DN80/PN6 Compatible Ins.tube,"R2'', For Inst tube, O‐ring: NBR70 3/8"" fitting",18515,0,1,18515,18515
+LaserGas II Compact,Flange/Purge Units,106129 Flange‐/purge Kit LGII/LD‐MP DN100/PN10‐16 Compatible,106129,Flange‐/purge Kit LGII/LD‐MP DN100/PN10‐16 Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",18515,0,1,18515,18515
+LaserGas II Compact,Flange/Purge Units,106130 Flange‐/purge Kit LGII DN100/PN10‐16 Compatible 2 ports,106130,Flange‐/purge Kit LGII DN100/PN10‐16 Compatible 2 ports,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",19320,0,1,19320,19320
+LaserGas II Compact,Flange/Purge Units,"106013 Flange‐/purge Kit LGII ANSI 2""/150lbs Compatible 2 ports",106013,"Flange‐/purge Kit LGII ANSI 2""/150lbs Compatible 2 ports","R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",14720,0,1,14720,14720
+LaserGas II Compact,Flange/Purge Units,"106433 Flange‐/purge Kit LGII ANSI 2""/150 lbs Compatible Ins.tube",106433,"Flange‐/purge Kit LGII ANSI 2""/150 lbs Compatible Ins.tube","R2'', For Inst tube, O‐ring: NBR70 3/8"" fitting",14720,0,1,14720,14720
+LaserGas II Compact,Flange/Purge Units,106773 Flange‐/purge Kit LGII/LD‐MP ANSI 2''/300 lbs Compatible,106773,Flange‐/purge Kit LGII/LD‐MP ANSI 2''/300 lbs Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",17020,0,1,17020,17020
+LaserGas II Compact,Flange/Purge Units,"107179 Flange‐/purge Kit LGII ANSI 2""/300 lbs Compatible 2 ports",107179,"Flange‐/purge Kit LGII ANSI 2""/300 lbs Compatible 2 ports","R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",18515,0,1,18515,18515
+LaserGas II Compact,Flange/Purge Units,106738 Flange‐/purge Kit LGII/LD‐MP ANSI 3''/150 lbs Compatible,106738,Flange‐/purge Kit LGII/LD‐MP ANSI 3''/150 lbs Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",15525,0,1,15525,15525
+LaserGas II Compact,Flange/Purge Units,107040 Flange‐/purge Kit LGII ANSI 3''/150 lbs Compatible Ins.tube,107040,Flange‐/purge Kit LGII ANSI 3''/150 lbs Compatible Ins.tube,"R2'', For Inst tube, O‐ring: NBR70 3/8"" fitting",17020,0,1,17020,17020
+LaserGas II Compact,Flange/Purge Units,106739 Flange‐/purge Kit LGII/LD‐MP ANSI 3''/300 lbsCompatible,106739,Flange‐/purge Kit LGII/LD‐MP ANSI 3''/300 lbsCompatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",17020,0,1,17020,17020
+LaserGas II Compact,"Purge fittings, instrument LGII",107668 Swagelok 8mm purge fittings kit LGII SP Compact,107668,Swagelok 8mm purge fittings kit LGII SP Compact,,0,0,1,0,0
+LaserGas II Compact,"Purge fittings, instrument LGII",107667 Swagelok 6mm purge fittings kit LGII SP Compact,107667,Swagelok 6mm purge fittings kit LGII SP Compact,,0,0,1,0,0
+LaserGas II Compact,"Purge fittings, instrument LGII",107670 Swagelok 12mm purge fittings kit LGII SP Compact,107670,Swagelok 12mm purge fittings kit LGII SP Compact,,0,0,1,0,0
+LaserGas II Compact,"Purge fittings, instrument LGII",107669 Swagelok 10mm purge fittings kit LGII SP Compact,107669,Swagelok 10mm purge fittings kit LGII SP Compact,,0,0,1,0,0
+LaserGas II Compact,"Purge fittings, instrument LGII","107671 Swagelok 1/4"" purge fittings kit LGII SP Compact",107671,"Swagelok 1/4"" purge fittings kit LGII SP Compact",,0,0,1,0,0
+LaserGas II Compact,"Purge fittings, flanges",102133 Swagelok Fittings LGII 1/4'' BSP‐T OD 8mm AISI316,102133,Swagelok Fittings LGII 1/4'' BSP‐T OD 8mm AISI316,,0,0,1,0,0
+LaserGas II Compact,"Purge fittings, flanges",100523 Swagelok Fittings LGII 1/4'' BSP‐T OD 6mm AISI316,100523,Swagelok Fittings LGII 1/4'' BSP‐T OD 6mm AISI316,,0,0,1,0,0
+LaserGas II Compact,"Purge fittings, flanges",102325 Swagelok Fittings LGII 1/4'' BSP‐T OD 12mm AISI316,102325,Swagelok Fittings LGII 1/4'' BSP‐T OD 12mm AISI316,,0,0,1,0,0
+LaserGas II Compact,"Purge fittings, flanges",102324 Swagelok Fittings LGII 1/4'' BSP‐T OD 10mm AI,102324,Swagelok Fittings LGII 1/4'' BSP‐T OD 10mm AI,,0,0,1,0,0
+LaserGas II Compact,"Purge fittings, flanges","102326 Swagelok Fittings LGII 1/4'' BSP‐T OD 1/4""",102326,"Swagelok Fittings LGII 1/4'' BSP‐T OD 1/4""",,0,0,1,0,0
+LaserGas II Compact,"Purge fittings, flanges",100322 Fittings LGII R1/4'' x 3/8'' tube,100322,Fittings LGII R1/4'' x 3/8'' tube,,0,0,1,0,0
+LaserGas II Compact,Flange O‐rings,"103666 Flange O‐ring 65,00 x 10,00 NBR70",103666,"Flange O‐ring 65,00 x 10,00 NBR70","DN50/ ANSI 2""",345,0,1,345,345
+LaserGas II Compact,Flange O‐rings,"104051 Flange O‐ring 65,00 x 10,00 KFM75 Viton",104051,"Flange O‐ring 65,00 x 10,00 KFM75 Viton","DN50/ ANSI 2""",805,0,1,805,805
+LaserGas II Compact,Flange O‐rings,"104049 Flange O‐ring 65,00 x 10,00 PTFE (Teflon)",104049,"Flange O‐ring 65,00 x 10,00 PTFE (Teflon)","DN50/ ANSI 2""",805,0,1,805,805
+LaserGas II Compact,Flange O‐rings,"103710 Flange O‐ring 95,0 x 10,0 NBR 80",103710,"Flange O‐ring 95,0 x 10,0 NBR 80","DN80/ DN100/ ANSI 3""",345,0,1,345,345
+LaserGas II Compact,Flange O‐rings,"104052 Flange O‐ring 95,00 x 10,0 Viton",104052,"Flange O‐ring 95,00 x 10,0 Viton","DN80/ DN100/ ANSI 3""",1150,0,1,1150,1150
+LaserGas II Compact,Flange O‐rings,"103547 Flange O‐ring 95,00 x 10,00, PTFE (Teflon)",103547,"Flange O‐ring 95,00 x 10,00, PTFE (Teflon)","DN80/DN100/ ANSI 3""",1150,0,1,1150,1150
+LaserGas II Compact,Flange O‐rings,"100798 Flange O‐ring 116,00 x 12,00 NBR70",100798,"Flange O‐ring 116,00 x 12,00 NBR70","DN150/ANSI 4""",575,0,1,575,575
+LaserGas II Compact,Flange O‐rings,"104492 Flange O‐ring 116,00 x 12,00 Viton 80",104492,"Flange O‐ring 116,00 x 12,00 Viton 80","DN150/ANSI 4""",1380,0,1,1380,1380
+LaserGas II Compact,TU/PSU cable,102685 Power‐TU cable LG II/LGQ/LD Std 3m,102685,Power‐TU cable LG II/LGQ/LD Std 3m,"(2x8x0,25mm^2)",2990,0,1,2990,2990
+LaserGas II Compact,TU/PSU cable,110849 Power‐TU cable LGII/LGQ/LD Std 10m,110849,Power‐TU cable LGII/LGQ/LD Std 10m,"(2x8x0,25mm^2)",3795,0,1,3795,3795
+LaserGas II Compact,TU/PSU cable ATEC/IECEx/CSA,106534 Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 3m,106534,Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 3m,,2530,0,1,2530,2530
+LaserGas II Compact,TU/PSU cable ATEC/IECEx/CSA,110850 Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 10m,110850,Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 10m,,3565,0,1,3565,3565
+LaserGas II Compact,Span Check,101644 Span cell kit LGII SP/SP Compact,101644,Span cell kit LGII SP/SP Compact,ONLY Span check cell,9890,0,1,9890,9890
+LaserGas II Compact,Span Check,108868 External span check cell,108868,External span check cell,External Cell w/sw & switch box,18975,0,1,18975,18975
+LaserGas II Compact,Misc,102253 Connection box ATEX type with cable glands,102253,Connection box ATEX type with cable glands,EX‐box Media Converter non‐ ATEX analyzers,12650,0,1,12650,12650
+LaserGas II Compact,Misc,"101410 Remote Display, LG II",101410,"Remote Display, LG II",,9890,0,1,9890,9890
+LaserGas II Compact,Misc,102059 TU‐Remote Display cable 4m LG II,102059,TU‐Remote Display cable 4m LG II,Must be ordered w/ Remote Display,1840,0,1,1840,1840
+LaserGas II Compact,HMI,111763 LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,111763,LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas II Compact,HMI,111710 LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,111710,LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas II Compact,HMI,112339 LaserInspect CIMO4 HMI added input channel,112339,LaserInspect CIMO4 HMI added input channel,,13800,0,1,13800,13800
+LaserGas II Compact,HMI,"112512 External Ethernet Switch for CIMO4, 7+1 ver.",112512,"External Ethernet Switch for CIMO4, 7+1 ver.",,13800,0,1,13800,13800
+LaserGas II Multipass,Analog out,"111328 AuxBoard Unit, 1.Channel (Standard Unit), LG II/LGQ/LD",111328,"AuxBoard Unit, 1.Channel (Standard Unit), LG II/LGQ/LD",,11270,0,1,11270,11270
+LaserGas II Multipass,Analog out,"111329 AuxBoard Unit, 2 Channel, LG II/LGQ/LD",111329,"AuxBoard Unit, 2 Channel, LG II/LGQ/LD",,18285,0,1,18285,18285
+LaserGas II Multipass,Analog out,"110496 AuxBoard Unit, 3 Channel, LG II/LGQ/LD",110496,"AuxBoard Unit, 3 Channel, LG II/LGQ/LD",,23920,0,1,23920,23920
+LaserGas II Open Path,Analog out,"111328 AuxBoard Unit, 1.Channel (Standard Unit), LG II/LGQ/LD",111328,"AuxBoard Unit, 1.Channel (Standard Unit), LG II/LGQ/LD",,11270,0,1,11270,11270
+LaserGas II Open Path,Analog out,"111329 AuxBoard Unit, 2 Channel, LG II/LGQ/LD",111329,"AuxBoard Unit, 2 Channel, LG II/LGQ/LD",,18285,0,1,18285,18285
+LaserGas II Open Path,Analog out,"110496 AuxBoard Unit, 3 Channel, LG II/LGQ/LD",110496,"AuxBoard Unit, 3 Channel, LG II/LGQ/LD",,23920,0,1,23920,23920
+LaserGas II Open Path,TU/PSU cable,102685 Power‐TU cable LGII/LGQ/LD Std 3m,102685,Power‐TU cable LGII/LGQ/LD Std 3m,"(2x8x0,25mm^2)",2990,0,1,2990,2990
+LaserGas II Open Path,TU/PSU cable,110849 Power‐TU cable LGII/LGQ/LD Std 10m,110849,Power‐TU cable LGII/LGQ/LD Std 10m,"(2x8x0,25mm^2)",3795,0,1,3795,3795
+LaserGas II Open Path,TU/PSU cable ATEC/IECEx/CSA,106534 Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 3m,106534,Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 3m,,2530,0,1,2530,2530
+LaserGas II Open Path,TU/PSU cable ATEC/IECEx/CSA,110850 Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 10m,110850,Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 10m,,3565,0,1,3565,3565
+LaserGas II Open Path,Reflector Cabinets,TBA Retroreflector 1 cube corner LGII OP,TBA,Retroreflector 1 cube corner LGII OP,price on req,0,0,1,0,0
+LaserGas II Open Path,Reflector Cabinets,101215 Retroreflector cabinet 5 cube corners LGII OP,101215,Retroreflector cabinet 5 cube corners LGII OP,price on req,0,0,1,0,0
+LaserGas II Open Path,Reflector Cabinets,101216 Retroreflector cabinet 9 cube corners LGII OP,101216,Retroreflector cabinet 9 cube corners LGII OP,price on req,0,0,1,0,0
+LaserGas II Open Path,Reflector Cabinets,101299 Retroreflector cabinet 16 cube corners LGII OP,101299,Retroreflector cabinet 16 cube corners LGII OP,price on req,0,0,1,0,0
+LaserGas II Open Path,Reflector Cabinets,113250  Tripod Leica GST 120-9,113250, Tripod Leica GST 120-9,price on req,0,0,1,0,0
+LaserGas II Open Path,Reflector Cabinets,100626 Goniometer kit LGII OP,100626,Goniometer kit LGII OP,price on req,0,0,1,0,0
+LaserGas II Open Path,Reflector Cabinets,103071 Auto Alignment Unit LaserGas II OP,103071,Auto Alignment Unit LaserGas II OP,Currently not availabl,115805,0,1,115805,115805
+LaserGas II Open Path,HMI,111763 LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,111763,LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas II Open Path,HMI,111710 LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,111710,LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas II Open Path,HMI,112339 LaserInspect CIMO4 HMI added input channel,112339,LaserInspect CIMO4 HMI added input channel,,13800,0,1,13800,13800
+LaserGas II Open Path,HMI,"112512 External Ethernet Switch for CIMO4, 7+1 ver.",112512,"External Ethernet Switch for CIMO4, 7+1 ver.",,13800,0,1,13800,13800
+LaserGas III Single Path,PSU,"113094 Traco Power Supply Kit, LaserGas III, STD 3m cables European",113094,"Traco Power Supply Kit, LaserGas III, STD 3m cables European","IP67, NEMA 4X, 24VDC 5A 120W.",17193,0,1,17193,17193
+LaserGas III Single Path,PSU,"113095 Traco Power Supply Kit, LaserGas III, STD 3m cables US",113095,"Traco Power Supply Kit, LaserGas III, STD 3m cables US","IP67, NEMA 4X, 24VDC 5A 120W.",17193,0,1,17193,17193
+LaserGas III Single Path,Flange/Purge Units,106194 Flange‐/purge Kit LG3/LGQ DN50/PN10‐40 Compatible,106194,Flange‐/purge Kit LG3/LGQ DN50/PN10‐40 Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",12420,0,1,12420,12420
+LaserGas III Single Path,Flange/Purge Units,106195 Flange‐/purge Kit LG3/LGQ ANSI 2''/150 lbs Compatible,106195,Flange‐/purge Kit LG3/LGQ ANSI 2''/150 lbs Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",12420,0,1,12420,12420
+LaserGas III Single Path,Flange/Purge Units,106701 Flange‐/purge Kit LG3/LGQ DN50/PN10‐40 Compatible 2port,106701,Flange‐/purge Kit LG3/LGQ DN50/PN10‐40 Compatible 2port,"R2'', Prep. for Inst tube, O‐ring: VITON 3/8"" fitting",17020,0,1,17020,17020
+LaserGas III Single Path,Flange/Purge Units,"106702 Flange‐/purge Kit LG3/LGQ ANSI 2""/150 Compatible, 2 port",106702,"Flange‐/purge Kit LG3/LGQ ANSI 2""/150 Compatible, 2 port","R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",17020,0,1,17020,17020
+LaserGas III Single Path,Flange/Purge Units,107180 Flange‐/purge Kit LG3/LGQ ANSI 2''/300 lbs Compatible,107180,Flange‐/purge Kit LG3/LGQ ANSI 2''/300 lbs Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",20010,0,1,20010,20010
+LaserGas III Single Path,Flange/Purge Units,107293 Flange‐/purge Kit LG3/LGQ ANSI 3''/150 lbs Compatible,107293,Flange‐/purge Kit LG3/LGQ ANSI 3''/150 lbs Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",17020,0,1,17020,17020
+LaserGas III Single Path,Flange/Purge Units,108163 Flange‐/purge Kit LG3/LGQ ANSI 1.5''/300 lbs Compatible,108163,Flange‐/purge Kit LG3/LGQ ANSI 1.5''/300 lbs Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",24495,0,1,24495,24495
+LaserGas III Single Path,Flange/Purge Units,109366 Flange‐/purge Kit LG3/LGQ ANSI 4''/150 lbs Compatible,109366,Flange‐/purge Kit LG3/LGQ ANSI 4''/150 lbs Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",17710,0,1,17710,17710
+LaserGas III Single Path,Flange/Purge Units,"109369 Flange‐/purge Kit LG3 ANSI 4""/150 Compatible, 2 port",109369,"Flange‐/purge Kit LG3 ANSI 4""/150 Compatible, 2 port","R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",21850,0,1,21850,21850
+LaserGas III Single Path,Flange/Purge Units,104778 Swagelok Fittings LG3/LGQ 1/4'' BSP‐P OD 8mm AISI316,104778,Swagelok Fittings LG3/LGQ 1/4'' BSP‐P OD 8mm AISI316,,0,0,1,0,0
+LaserGas III Single Path,Flange/Purge Units,104620 Swagelok Fittings LG3/LGQ 1/4'' BSP‐P OD 6mm AISI316,104620,Swagelok Fittings LG3/LGQ 1/4'' BSP‐P OD 6mm AISI316,,0,0,1,0,0
+LaserGas III Single Path,Flange/Purge Units,105077 Swagelok Fittings LG3/LGQ 1/4'' BSP‐P OD 12mm AISI316,105077,Swagelok Fittings LG3/LGQ 1/4'' BSP‐P OD 12mm AISI316,,0,0,1,0,0
+LaserGas III Single Path,Flange/Purge Units,106196 Swagelok Fittings LG3/LGQ 1/4'' BSP‐P OD 10mm AISI316,106196,Swagelok Fittings LG3/LGQ 1/4'' BSP‐P OD 10mm AISI316,,0,0,1,0,0
+LaserGas III Single Path,Flange/Purge Units,105305 Swagelok Fittings LG3/LGQ 1/4'' BSP‐P OD 1/4'' AISI316,105305,Swagelok Fittings LG3/LGQ 1/4'' BSP‐P OD 1/4'' AISI316,,0,0,1,0,0
+LaserGas III Single Path,Flange O‐rings,"103666 Flange O‐ring 65,00 x 10,00 NBR70",103666,"Flange O‐ring 65,00 x 10,00 NBR70","DN50/ ANSI 2""",345,0,1,345,345
+LaserGas III Single Path,Flange O‐rings,"104051 Flange O‐ring 65,00 x 10,00 KFM75 Viton",104051,"Flange O‐ring 65,00 x 10,00 KFM75 Viton","DN50/ ANSI 2""",805,0,1,805,805
+LaserGas III Single Path,Flange O‐rings,"104049 Flange O‐ring 65,00 x 10,00 PTFE (Teflon)",104049,"Flange O‐ring 65,00 x 10,00 PTFE (Teflon)","DN50/ ANSI 2""",805,0,1,805,805
+LaserGas III Single Path,Flange O‐rings,"103710 Flange O‐ring 95,0 x 10,0 NBR 80",103710,"Flange O‐ring 95,0 x 10,0 NBR 80","DN80/ DN100/ ANSI 3""",345,0,1,345,345
+LaserGas III Single Path,Flange O‐rings,"104052 Flange O‐ring 95,00 x 10,0 Viton",104052,"Flange O‐ring 95,00 x 10,0 Viton","DN80/ DN100/ ANSI 3""",1150,0,1,1150,1150
+LaserGas III Single Path,Flange O‐rings,"103547 Flange O‐ring 95,00 x 10,00, PTFE (Teflon)",103547,"Flange O‐ring 95,00 x 10,00, PTFE (Teflon)","DN80/DN100/ ANSI 3""",1150,0,1,1150,1150
+LaserGas III Single Path,Flange O‐rings,"100798 Flange O‐ring 116,00 x 12,00 NBR70",100798,"Flange O‐ring 116,00 x 12,00 NBR70","DN150/ANSI 4""",575,0,1,575,575
+LaserGas III Single Path,Flange O‐rings,"104492 Flange O‐ring 116,00 x 12,00 Viton 80",104492,"Flange O‐ring 116,00 x 12,00 Viton 80","DN150/ANSI 4""",1380,0,1,1380,1380
+LaserGas III Single Path,Options for LaserGas III/LaserGas Q,"105094 Dairy Clasp Gasket, SMS 63.5, EPDM LG3/LGQ",105094,"Dairy Clasp Gasket, SMS 63.5, EPDM LG3/LGQ","OD=73mm, ID=63.5mm, T=5.5mm",460,0,1,460,460
+LaserGas III Single Path,Options for LaserGas III/LaserGas Q,"105850 Dairy Clasp Gasket, SMS 63.5, VITON LG3/LGQ",105850,"Dairy Clasp Gasket, SMS 63.5, VITON LG3/LGQ","OD=73mm, ID=63.5mm, T=5.5mm",1610,0,1,1610,1610
+LaserGas III Single Path,Options for LaserGas III/LaserGas Q,"107597 Dairy Clasp Gasket, SMS 63.5, PTFE LG3/LGQ",107597,"Dairy Clasp Gasket, SMS 63.5, PTFE LG3/LGQ","OD=73mm, ID=63.5mm, T=5.5mm",920,0,1,920,920
+LaserGas III Single Path,Options for LaserGas III/LaserGas Q,110346 LaserGas III CSA housing with 10 m cabling,110346,LaserGas III CSA housing with 10 m cabling,,22310,0,1,22310,22310
+LaserGas III Single Path,Options for LaserGas III/LaserGas Q,106939 LaserGas III housing with 10 m cabling,106939,LaserGas III housing with 10 m cabling,"2x10m cables, including connector box.",14260,0,1,14260,14260
+LaserGas III Single Path,Options for LaserGas III/LaserGas Q,107794 Additional Connector box ATEX/ IECEx zone 1 LG3,107794,Additional Connector box ATEX/ IECEx zone 1 LG3,"For long distances, extra connector box",7475,0,1,7475,7475
+LaserGas III Single Path,Options for LaserGas III/LaserGas Q,109991 Additional Connector box CSA Version LG3  ,109991,Additional Connector box CSA Version LG3  ,"For long distances, extra connector box",9775,0,1,9775,9775
+LaserGas III Single Path,Customized Tuning,102384 Special tuning,102384,Special tuning,"NB! No discount, labour work only",20700,0,1,20700,20700
+LaserGas III Single Path,Customized Tuning,106828 Expert tuning,106828,Expert tuning,"NB! No discount, labour work only",43930,0,1,43930,43930
+LaserGas III Single Path,Customized Tuning,101319 High Pressure tuning,101319,High Pressure tuning,NB! Discount applies,41285,0,1,41285,41285
+LaserGas III Single Path,Customized Tuning,102416 Low pressure tuning,102416,Low pressure tuning,NB! Discount applies,41285,0,1,41285,41285
+LaserGas III Single Path,HMI,111763 LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,111763,LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas III Single Path,HMI,111710 LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,111710,LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas III Single Path,HMI,112339 LaserInspect CIMO4 HMI added input channel,112339,LaserInspect CIMO4 HMI added input channel,,13800,0,1,13800,13800
+LaserGas III Single Path,HMI,"112512 External Ethernet Switch for CIMO4, 7+1 ver.",112512,"External Ethernet Switch for CIMO4, 7+1 ver.",,13800,0,1,13800,13800
+LaserGas III Single Path,T-Flange solution,"112270 T-flange Solution, CO ppm + O2, R+R",112270,"T-flange Solution, CO ppm + O2, R+R",NB! No discount applies,94875,0,1,94875,94875
+LaserGas III Single Path,T-Flange solution,"113040 T-flange Solution, CO ppm + O2, R+L",113040,"T-flange Solution, CO ppm + O2, R+L",NB! No discount applies,107525,0,1,107525,107525
+LaserGas III Single Path,T-Flange solution,"113041 T-flange Solution, CO ppm + O2, L+L ",113041,"T-flange Solution, CO ppm + O2, L+L ",NB! No discount applies,120175,0,1,120175,120175
+LaserGas III Open Path,PSU,"113094 Traco Power Supply Kit, LaserGas III, STD 3m cables European",113094,"Traco Power Supply Kit, LaserGas III, STD 3m cables European","IP67, NEMA 4X, 24VDC 5A 120W.",17193,0,1,17193,17193
+LaserGas III Open Path,PSU,"113095 Traco Power Supply Kit, LaserGas III, STD 3m cables US",113095,"Traco Power Supply Kit, LaserGas III, STD 3m cables US","IP67, NEMA 4X, 24VDC 5A 120W.",17193,0,1,17193,17193
+LaserGas III Open Path,HMI,111763 LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,111763,LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas III Open Path,HMI,111710 LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,111710,LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas III Open Path,HMI,112339 LaserInspect CIMO4 HMI added input channel,112339,LaserInspect CIMO4 HMI added input channel,,13800,0,1,13800,13800
+LaserGas III Open Path,HMI,"112512 External Ethernet Switch for CIMO4, 7+1 ver.",112512,"External Ethernet Switch for CIMO4, 7+1 ver.",,13800,0,1,13800,13800
+LaserGas iQ2,PSU,"113094 Traco Power Supply Kit, LaserGas III, STD 3m cables European",113094,"Traco Power Supply Kit, LaserGas III, STD 3m cables European","IP67, NEMA 4X, 24VDC 5A 120W.",17193,0,1,17193,17193
+LaserGas iQ2,PSU,"113095 Traco Power Supply Kit, LaserGas III, STD 3m cables US",113095,"Traco Power Supply Kit, LaserGas III, STD 3m cables US","IP67, NEMA 4X, 24VDC 5A 120W.",17193,0,1,17193,17193
+LaserGas iQ2,Flange/Purge Units,108222 Flange‐/purge Kit LGiQ2 DN80/PN10‐40 Compatible SS316,108222,Flange‐/purge Kit LGiQ2 DN80/PN10‐40 Compatible SS316,"R3"" , Std: O‐ring: NBR70, 3/8"" tube fitting",22425,0,1,22425,22425
+LaserGas iQ2,Flange/Purge Units,"108223 Flange‐/purge Kit LGiQ2 ANSI 3""/150 Compatible SS316",108223,"Flange‐/purge Kit LGiQ2 ANSI 3""/150 Compatible SS316","R3"" , Std: O‐ring: NBR70, 3/8"" tube fitting",22425,0,1,22425,22425
+LaserGas iQ2,Flange/Purge Units,"109312 Flange‐/purge Kit LGiQ2 ANSI 4""/150 Compatible SS316",109312,"Flange‐/purge Kit LGiQ2 ANSI 4""/150 Compatible SS316","R3"" , Std: O‐ring: NBR70, 3/8"" tube fitting",26680,0,1,26680,26680
+LaserGas iQ2,Customized Tuning,102384 Special tuning,102384,Special tuning,"NB! No discount, labour work only",20240,0,1,20240,20240
+LaserGas iQ2,Customized Tuning,106828 Expert tuning,106828,Expert tuning,"NB! No discount, labour work only",43125,0,1,43125,43125
+LaserGas iQ2,HMI,111763 LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,111763,LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas iQ2,HMI,111710 LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,111710,LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas iQ2,HMI,112339 LaserInspect CIMO4 HMI added input channel,112339,LaserInspect CIMO4 HMI added input channel,,13800,0,1,13800,13800
+LaserGas iQ2,HMI,"112512 External Ethernet Switch for CIMO4, 7+1 ver.",112512,"External Ethernet Switch for CIMO4, 7+1 ver.",,13800,0,1,13800,13800
+LaserGas iQ2,Certification,108731 Certification fee GOST,108731,Certification fee GOST,NB! No discount,26105,0,1,26105,26105
+LaserGas Q,Analog out,"110496 AuxBoard Unit, 3 Channel, LG II/LGQ/LD",110496,"AuxBoard Unit, 3 Channel, LG II/LGQ/LD",,23920,0,1,23920,23920
+LaserGas Q,TU/RU cable,102071 TU‐RU cable LGII/LD/LGQ Std 5m,102071,TU‐RU cable LGII/LD/LGQ Std 5m,8‐pair cable,3910,0,1,3910,3910
+LaserGas Q,TU/RU cable,102072 TU‐RU cable LGII/LD/LGQ Std 10m,102072,TU‐RU cable LGII/LD/LGQ Std 10m,8‐pair cable,4715,0,1,4715,4715
+LaserGas Q,TU/RU cable,102073 TU‐RU cable LGII/LD/LGQ Std 15m,102073,TU‐RU cable LGII/LD/LGQ Std 15m,8‐pair cable,5520,0,1,5520,5520
+LaserGas Q,TU/RU cable,102074 TU‐RU cable LGII/LD/LGQ Std 20m,102074,TU‐RU cable LGII/LD/LGQ Std 20m,8‐pair cable,6210,0,1,6210,6210
+LaserGas Q,TU/RU cable Ex‐version,101160 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 5m,101160,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 5m,NA for LD LP & XLP,2990,0,1,2990,2990
+LaserGas Q,TU/RU cable Ex‐version,101161 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 10m,101161,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 10m,NA for LD XLP,3795,0,1,3795,3795
+LaserGas Q,TU/RU cable Ex‐version,101162 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 15m,101162,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 15m,,4600,0,1,4600,4600
+LaserGas Q,TU/RU cable Ex‐version,101163 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 20m,101163,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 20m,,5290,0,1,5290,5290
+LaserGas Q,TU/PSU cable,102685 Power‐TU cable LG II/LGQ/LD Std 3m,102685,Power‐TU cable LG II/LGQ/LD Std 3m,"(2x8x0,25mm^2)",2990,0,1,2990,2990
+LaserGas Q,TU/PSU cable,110849 Power‐TU cable LGII/LGQ/LD Std 10m,110849,Power‐TU cable LGII/LGQ/LD Std 10m,"(2x8x0,25mm^2)",3795,0,1,3795,3795
+LaserGas Q,TU/PSU cable ATEC/IECEx/CSA,106534 Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 3m,106534,Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 3m,,2530,0,1,2530,2530
+LaserGas Q,TU/PSU cable ATEC/IECEx/CSA,110850 Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 10m,110850,Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 10m,,3565,0,1,3565,3565
+LaserGas Q,Flange/Purge Units,106194 Flange‐/purge Kit LG3/LGQ DN50/PN10‐40 Compatible,106194,Flange‐/purge Kit LG3/LGQ DN50/PN10‐40 Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",12420,0,1,12420,12420
+LaserGas Q,Flange/Purge Units,106195 Flange‐/purge Kit LG3/LGQ ANSI 2''/150 lbs Compatible,106195,Flange‐/purge Kit LG3/LGQ ANSI 2''/150 lbs Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",12420,0,1,12420,12420
+LaserGas Q,Flange/Purge Units,106701 Flange‐/purge Kit LG3/LGQ DN50/PN10‐40 Compatible 2port,106701,Flange‐/purge Kit LG3/LGQ DN50/PN10‐40 Compatible 2port,"R2'', Prep. for Inst tube, O‐ring: VITON 3/8"" fitting",17020,0,1,17020,17020
+LaserGas Q,Flange/Purge Units,"106702 Flange‐/purge Kit LG3/LGQ ANSI 2""/150 Compatible, 2 port",106702,"Flange‐/purge Kit LG3/LGQ ANSI 2""/150 Compatible, 2 port","R2'', Ffor Inst tube, O‐ring: VITON 3/8"" fitting",17020,0,1,17020,17020
+LaserGas Q,Flange/Purge Units,107180 Flange‐/purge Kit LG3/LGQ ANSI 2''/300 lbs Compatible,107180,Flange‐/purge Kit LG3/LGQ ANSI 2''/300 lbs Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",20010,0,1,20010,20010
+LaserGas Q,Flange/Purge Units,107293 Flange‐/purge Kit LG3/LGQ ANSI 3''/150 lbs Compatible,107293,Flange‐/purge Kit LG3/LGQ ANSI 3''/150 lbs Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",17020,0,1,17020,17020
+LaserGas Q,Flange/Purge Units,108163 Flange‐/purge Kit LG3/LGQ ANSI 1.5''/300 lbs Compatible,108163,Flange‐/purge Kit LG3/LGQ ANSI 1.5''/300 lbs Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",24495,0,1,24495,24495
+LaserGas Q,Flange/Purge Units,109366 Flange‐/purge Kit LG3/LGQ ANSI 4''/150 lbs Compatible,109366,Flange‐/purge Kit LG3/LGQ ANSI 4''/150 lbs Compatible,"R2'', For Inst tube, O‐ring: VITON 3/8"" fitting",17710,0,1,17710,17710
+LaserGas Q,Flange O‐rings,"103666 Flange O‐ring 65,00 x 10,00 NBR70",103666,"Flange O‐ring 65,00 x 10,00 NBR70","DN50/ ANSI 2""",345,0,1,345,345
+LaserGas Q,Flange O‐rings,"104051 Flange O‐ring 65,00 x 10,00 KFM75 Viton",104051,"Flange O‐ring 65,00 x 10,00 KFM75 Viton","DN50/ ANSI 2""",805,0,1,805,805
+LaserGas Q,Flange O‐rings,"104049 Flange O‐ring 65,00 x 10,00 PTFE (Teflon)",104049,"Flange O‐ring 65,00 x 10,00 PTFE (Teflon)","DN50/ ANSI 2""",805,0,1,805,805
+LaserGas Q,Flange O‐rings,"103710 Flange O‐ring 95,0 x 10,0 NBR 80",103710,"Flange O‐ring 95,0 x 10,0 NBR 80","DN80/ DN100/ ANSI 3""",345,0,1,345,345
+LaserGas Q,Flange O‐rings,"104052 Flange O‐ring 95,00 x 10,0 Viton",104052,"Flange O‐ring 95,00 x 10,0 Viton","DN80/ DN100/ ANSI 3""",1150,0,1,1150,1150
+LaserGas Q,Flange O‐rings,"103547 Flange O‐ring 95,00 x 10,00, PTFE (Teflon)",103547,"Flange O‐ring 95,00 x 10,00, PTFE (Teflon)","DN80/DN100/ ANSI 3""",1150,0,1,1150,1150
+LaserGas Q,Flange O‐rings,"100798 Flange O‐ring 116,00 x 12,00 NBR70",100798,"Flange O‐ring 116,00 x 12,00 NBR70","DN150/ANSI 4""",575,0,1,575,575
+LaserGas Q,Flange O‐rings,"104492 Flange O‐ring 116,00 x 12,00 Viton 80",104492,"Flange O‐ring 116,00 x 12,00 Viton 80","DN150/ANSI 4""",1380,0,1,1380,1380
+LaserGas Q,Options for LaserGas III/LaserGas Q,"105094 Dairy Clasp Gasket, SMS 63.5, EPDM LG3/LGQ",105094,"Dairy Clasp Gasket, SMS 63.5, EPDM LG3/LGQ","OD=73mm, ID=63.5mm, T=5.5mm",460,0,1,460,460
+LaserGas Q,Options for LaserGas III/LaserGas Q,"105850 Dairy Clasp Gasket, SMS 63.5, VITON LG3/LGQ",105850,"Dairy Clasp Gasket, SMS 63.5, VITON LG3/LGQ","OD=73mm, ID=63.5mm, T=5.5mm",1610,0,1,1610,1610
+LaserGas Q,Options for LaserGas III/LaserGas Q,"107597 Dairy Clasp Gasket, SMS 63.5, PTFE LG3/LGQ",107597,"Dairy Clasp Gasket, SMS 63.5, PTFE LG3/LGQ","OD=73mm, ID=63.5mm, T=5.5mm",920,0,1,920,920
+LaserGas Q,Customized Tuning,102384 Special tuning,102384,Special tuning,"NB! No discount, labour work only",20700,0,1,20700,20700
+LaserGas Q,Customized Tuning,106828 Expert tuning,106828,Expert tuning,"NB! No discount, labour work only",43930,0,1,43930,43930
+LaserGas Q,HMI,111763 LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,111763,LaserInspect CIMO4 HMI 15 inch (1024 x 768) EU  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas Q,HMI,111710 LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,111710,LaserInspect CIMO4 HMI 15 inch (1024 x 768) US  ,NB! No discount applies,103040,0,1,103040,103040
+LaserGas Q,HMI,112339 LaserInspect CIMO4 HMI added input channel,112339,LaserInspect CIMO4 HMI added input channel,,13800,0,1,13800,13800
+LaserGas Q,HMI,"112512 External Ethernet Switch for CIMO4, 7+1 ver.",112512,"External Ethernet Switch for CIMO4, 7+1 ver.",,13800,0,1,13800,13800
+LaserGas Q,Certification,111683 Certification fee GOST,111683,Certification fee GOST,NB! No discount,26105,0,1,26105,26105
+LaserDust,Analog out,"111328 AuxBoard Unit, 1.Channel (Standard Unit), LG II/LGQ/LD",111328,"AuxBoard Unit, 1.Channel (Standard Unit), LG II/LGQ/LD",,11270,0,1,11270,11270
+LaserDust,Analog out,"110496 AuxBoard Unit, 3 Channel, LG II/LGQ/LD",110496,"AuxBoard Unit, 3 Channel, LG II/LGQ/LD",,23920,0,1,23920,23920
+LaserDust,TU/RU cable,102071 TU‐RU cable LGII/LD/LGQ Std 5m,102071,TU‐RU cable LGII/LD/LGQ Std 5m,8‐pair cable,3910,0,1,3910,3910
+LaserDust,TU/RU cable,102072 TU‐RU cable LGII/LD/LGQ Std 10m,102072,TU‐RU cable LGII/LD/LGQ Std 10m,8‐pair cable,4715,0,1,4715,4715
+LaserDust,TU/RU cable,102073 TU‐RU cable LGII/LD/LGQ Std 15m,102073,TU‐RU cable LGII/LD/LGQ Std 15m,8‐pair cable,5520,0,1,5520,5520
+LaserDust,TU/RU cable,102074 TU‐RU cable LGII/LD/LGQ Std 20m,102074,TU‐RU cable LGII/LD/LGQ Std 20m,8‐pair cable,6210,0,1,6210,6210
+LaserDust,TU/RU cable,101160 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 5m,101160,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 5m,NA for LD LP & XLP,2990,0,1,2990,2990
+LaserDust,TU/RU cable,101161 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 10m,101161,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 10m,NA for LD XLP,3795,0,1,3795,3795
+LaserDust,TU/RU cable,101162 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 15m,101162,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 15m,,4600,0,1,4600,4600
+LaserDust,TU/RU cable,101163 TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 20m,101163,TU‐RU cable LGII/LD Ex‐P/Ex‐N/CSA 20m,,5290,0,1,5290,5290
+LaserDust,TU/PSU cable,102685 Power‐TU cable LGII/LGQ/LD Std 3m,102685,Power‐TU cable LGII/LGQ/LD Std 3m,"(2x8x0,25mm^2)",2990,0,1,2990,2990
+LaserDust,TU/PSU cable,110849 Power‐TU cable LGII/LGQ/LD Std 10m,110849,Power‐TU cable LGII/LGQ/LD Std 10m,"(2x8x0,25mm^2)",3795,0,1,3795,3795
+LaserDust,TU/PSU cable ATEC/IECEx/CSA,106534 Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 3m,106534,Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 3m,,2530,0,1,2530,2530
+LaserDust,TU/PSU cable ATEC/IECEx/CSA,110850 Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 10m,110850,Power‐TU cable LGII/LD/LGQ Ex‐P/Ex‐N/CSA 10m,,3565,0,1,3565,3565
+LaserDust,Flange/Purge Units,105958 Flange‐/purge Kit LGII/LD‐MP DN50/PN10‐40 Compatible,105958,Flange‐/purge Kit LGII/LD‐MP DN50/PN10‐40 Compatible,"R2'', O‐ring: NBR70, 3/8"" tube fitting",12420,0,1,12420,12420
+LaserDust,Flange/Purge Units,105959 Flange‐/purge Kit LGII/LD‐MP ANSI 2''/150 lbs Compatible,105959,Flange‐/purge Kit LGII/LD‐MP ANSI 2''/150 lbs Compatible,"R2"", Std: O‐ring: NBR70, 3/8"" tube fitting",12420,0,1,12420,12420
+LaserDust,Flange/Purge Units,106833 Flange‐/purge Kit LGII/LD‐MP DN80/PN10‐40 Compatible,106833,Flange‐/purge Kit LGII/LD‐MP DN80/PN10‐40 Compatible,"R2'', O‐ring: NBR70, 3/8"" tube fitting",14720,0,1,14720,14720
+LaserDust,Flange/Purge Units,106129 Flange‐/purge Kit LGII/LD‐MP DN100/PN10‐16 Compatible,106129,Flange‐/purge Kit LGII/LD‐MP DN100/PN10‐16 Compatible,"R2'', O‐ring: NBR70, 3/8"" tube fitting",18515,0,1,18515,18515
+LaserDust,Flange/Purge Units,106738 Flange‐/purge Kit LGII/LD‐MP ANSI 3''/150 lbs Compatible,106738,Flange‐/purge Kit LGII/LD‐MP ANSI 3''/150 lbs Compatible,,15525,0,1,15525,15525
+LaserDust,Flange/Purge Units,101093 Flange‐/purge Kit LGII/LD‐MP DN65/PN6 Compatible,101093,Flange‐/purge Kit LGII/LD‐MP DN65/PN6 Compatible,"Std: O‐ring: NBR70, 3/8"" tube fitting, R2''",14720,0,1,14720,14720
+LaserDust,Flange/Purge Units,107366 Flange‐/purge Kit LGII/LD‐MP DN65/PN10‐40 Compatible',107366,Flange‐/purge Kit LGII/LD‐MP DN65/PN10‐40 Compatible',"Std: O‐ring: NBR70, 3/8"" tube fitting, R2''",12420,0,1,12420,12420
+LaserDust,Flange/Purge Units,106833 Flange‐/purge Kit LGII/LD‐MP DN80/PN10‐40 Compatible,106833,Flange‐/purge Kit LGII/LD‐MP DN80/PN10‐40 Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting,",14720,0,1,14720,14720
+LaserDust,Flange/Purge Units,108257 Flange‐/purge Kit LGII/LD‐MP DN80/PN6 Compatible,108257,Flange‐/purge Kit LGII/LD‐MP DN80/PN6 Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",17020,0,1,17020,17020
+LaserDust,Flange/Purge Units,106129 Flange‐/purge Kit LGII/LD‐MP DN100/PN10‐16 Compatible,106129,Flange‐/purge Kit LGII/LD‐MP DN100/PN10‐16 Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",18515,0,1,18515,18515
+LaserDust,Flange/Purge Units,106773 Flange‐/purge Kit LGII/LD‐MP ANSI 2''/300 lbs Compatible,106773,Flange‐/purge Kit LGII/LD‐MP ANSI 2''/300 lbs Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",17020,0,1,17020,17020
+LaserDust,Flange/Purge Units,106738 Flange‐/purge Kit LGII/LD‐MP ANSI 3''/150 lbs Compatible,106738,Flange‐/purge Kit LGII/LD‐MP ANSI 3''/150 lbs Compatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",15525,0,1,15525,15525
+LaserDust,Flange/Purge Units,106739 Flange‐/purge Kit LGII/LD‐MP ANSI 3''/300 lbsCompatible,106739,Flange‐/purge Kit LGII/LD‐MP ANSI 3''/300 lbsCompatible,"R2'', Std: O‐ring: NBR70, 3/8"" tube fitting",17020,0,1,17020,17020
+LaserDust,Flange/Purge Units,106426 Flange‐/purge Kit LD‐LP DN80/PN10‐40 Compatible,106426,Flange‐/purge Kit LD‐LP DN80/PN10‐40 Compatible,"R2''/R3"", Std: O‐ring: NBR70, 3/8"" tube fitting",17020,0,1,17020,17020
+LaserDust,Flange/Purge Units,106595 Flange‐/purge Kit LD‐XLP DN150/PN1‐6 Compatible,106595,Flange‐/purge Kit LD‐XLP DN150/PN1‐6 Compatible,"R2''/R5"", Std: O‐ring: NBR70, 3/8"" tube fitting",33235,0,1,33235,33235
+LaserDust,Flange O‐rings,"103666 Flange O‐ring 65,00 x 10,00 NBR70",103666,"Flange O‐ring 65,00 x 10,00 NBR70","DN50/ ANSI 2""",345,0,1,345,345
+LaserDust,Flange O‐rings,"104051 Flange O‐ring 65,00 x 10,00 KFM75 Viton",104051,"Flange O‐ring 65,00 x 10,00 KFM75 Viton","DN50/ ANSI 2""",805,0,1,805,805
+LaserDust,Flange O‐rings,"104049 Flange O‐ring 65,00 x 10,00 PTFE (Teflon)",104049,"Flange O‐ring 65,00 x 10,00 PTFE (Teflon)","DN50/ ANSI 2""",805,0,1,805,805
+LaserDust,Flange O‐rings,"103710 Flange O‐ring 95,0 x 10,0 NBR 80",103710,"Flange O‐ring 95,0 x 10,0 NBR 80","DN80/ DN100/ ANSI 3""",345,0,1,345,345
+LaserDust,Flange O‐rings,"104052 Flange O‐ring 95,00 x 10,0 Viton",104052,"Flange O‐ring 95,00 x 10,0 Viton","DN80/ DN100/ ANSI 3""",1150,0,1,1150,1150
+LaserDust,Flange O‐rings,"103547 Flange O‐ring 95,00 x 10,00, PTFE (Teflon)",103547,"Flange O‐ring 95,00 x 10,00, PTFE (Teflon)","DN80/DN100/ ANSI 3""",1035,0,1,1035,1035
+LaserDust,Flange O‐rings,"100798 Flange O‐ring 116,00 x 12,00 NBR70",100798,"Flange O‐ring 116,00 x 12,00 NBR70","DN150/ANSI 4""",575,0,1,575,575
+LaserDust,Flange O‐rings,"104492 Flange O‐ring 116,00 x 12,00 Viton 80",104492,"Flange O‐ring 116,00 x 12,00 Viton 80","DN150/ANSI 4""",1380,0,1,1380,1380
+LaserDust,Flange O‐rings,104578 Flange O‐ring 140 x 16 NBR70,104578,Flange O‐ring 140 x 16 NBR70,LaserDust XLP,690,0,1,690,690
+LaserDust,Customized Tuning,103162 LaserDust High Temp option (>500 degC),103162,LaserDust High Temp option (>500 degC),,13570,0,1,13570,13570
+LaserDust,Certification,"109977 Certification fee GOST, LD",109977,"Certification fee GOST, LD",NB! No discount,26105,0,1,26105,26105
+LaserGas II Single Path,Calibration cells,103426 Calibration Cell LGII SP Electropolished l=712 mm (AISI316),103426,Calibration Cell LGII SP Electropolished l=712 mm (AISI316),Swagelok 6 mm OD fittings,11845,0,1,11845,11845
+LaserGas II Single Path,Calibration cells,100224 Calibration Cell LaserGas II SP l=712 mm (Al),100224,Calibration Cell LaserGas II SP l=712 mm (Al),Swagelok 6 mm OD fittings,5980,0,1,5980,5980
+LaserGas II Single Path,Calibration cells,100358 Calibration Cell LaserGas II SP l=712 mm (AISI316),100358,Calibration Cell LaserGas II SP l=712 mm (AISI316),Swagelok 6 mm OD fittings,10350,0,1,10350,10350
+LaserGas II Single Path,Calibration cells,101102 Calibration cell kit LaserGas II SP HF (Al+PTFE),101102,Calibration cell kit LaserGas II SP HF (Al+PTFE),incl. PTFE cell w/ sapphire window,10925,0,1,10925,10925
+LaserGas II Single Path,Alignment kits,106897 Alignment tool kit LaserGas II/ III/ Q SP,106897,Alignment tool kit LaserGas II/ III/ Q SP,Complete with target,4830,0,1,4830,4830
+LaserGas II Single Path,Span check box,101833 LGII/LD Span/Zero Switch box,101833,LGII/LD Span/Zero Switch box,,4370,0,1,4370,4370
+LaserGas II Single Path,Measurement cell,102538 Measurement cell L 700mm w/Saphire windows & flanges,102538,Measurement cell L 700mm w/Saphire windows & flanges,"Electropolished SS316, Suited for DN50-flanges, Standard Cell. NOT Suitable for H2",46460,0,1,46460,46460
+LaserGas II Single Path,Measurement cell,106160 Measurement cell L 500mm w/Saphire windows & flanges,106160,Measurement cell L 500mm w/Saphire windows & flanges," Electropolished SS316, Suited for DN50-flanges",46460,0,1,46460,46460
+LaserGas II Single Path,Measurement cell,106159 Measurement cell L 200mm w/Saphire windows & flanges,106159,Measurement cell L 200mm w/Saphire windows & flanges," Electropolished SS316, Suited for DN50-flanges",46460,0,1,46460,46460
+LaserGas II Single Path,Measurement cell,111600 Measurement cell for H2 L:0. 7m w/Sapphire windows & flanges,111600,Measurement cell for H2 L:0. 7m w/Sapphire windows & flanges,"Special Cell for H2, Electropolished including DN50-flanges. Extended purge/alignment units",71185,0,1,71185,71185
+LaserGas II Single Path,Measurement cell,112137 Measurement cell Hastelloy 700mm w/Sapphire windows & flanges,112137,Measurement cell Hastelloy 700mm w/Sapphire windows & flanges," Electropolished Hastelloy, suited for DN-50 Flanges，price on req",0,0,1,0,0
+LaserGas II Single Path,Insertion tubes,102360 Insertion tube kit Ø 68/65 mm L 1500 mm,102360,Insertion tube kit Ø 68/65 mm L 1500 mm,"Pair, Length : 1.5m, Flanges >DN80/ANSI 3"", SS316",9775,0,1,9775,9775
+LaserGas II Single Path,Insertion tubes,106524 Insertion tube kit Ø 44.5 mm L 1000 mm,106524,Insertion tube kit Ø 44.5 mm L 1000 mm," Insertion tube kit LGII/LGIII, OD=44,5mm, SS316",8395,0,1,8395,8395
+LaserGas II Single Path,Windows assembly,100225 Window assembly LaserGas II SP (BK7),100225,Window assembly LaserGas II SP (BK7),price per piece. BK7 windows,5290,0,1,5290,5290
+LaserGas II Single Path,Windows assembly,100651 Window assembly LaserGas II SP (FS),100651,Window assembly LaserGas II SP (FS),price per piece. Fused silica windows,5635,0,1,5635,5635
+LaserGas II Single Path,Windows assembly,100652 Window assembly LaserGas II SP HP (FS),100652,Window assembly LaserGas II SP HP (FS),price per piece. Fused silica windows,8395,0,1,8395,8395
+LaserGas II Single Path,Windows assembly,102660 Window assembly LaserGas II SP (Sapphire),102660,Window assembly LaserGas II SP (Sapphire),price per piece. Sapphire windows,11155,0,1,11155,11155
+LaserGas II Single Path,Windows assembly,109828 Window assembly LaserGas II H2 SP (BK7),109828,Window assembly LaserGas II H2 SP (BK7),"Only for H2, price per piece. BK7 windows",5635,0,1,5635,5635
+LaserGas II Single Path,Ex‐n/Ex‐p Controller,"101807 Ex‐p Control System, Zone 1/Category 2, 24VDC",101807,"Ex‐p Control System, Zone 1/Category 2, 24VDC",,110515,0,1,110515,110515
+LaserGas II Single Path,Ex‐n/Ex‐p Controller,"104629 Ex-p Disconnection Box 8Ch, Zone 1/Category 2, 24VDC",104629,"Ex-p Disconnection Box 8Ch, Zone 1/Category 2, 24VDC",,22425,0,1,22425,22425
+LaserGas II Single Path,Isolation flanges,100585 Isolation Flange assy DN 50 w/window (process) (FS) (No purge),100585,Isolation Flange assy DN 50 w/window (process) (FS) (No purge),Price per flange SS316 W/M16 tread‐bolts,16675,0,1,16675,16675
+LaserGas II Single Path,Isolation flanges,101360 Isolation Flange assy ANSI 2''/150 (process) (FS) (No purge),101360,Isolation Flange assy ANSI 2''/150 (process) (FS) (No purge),Price per flange SS316 W/M16 tread‐bolts,16675,0,1,16675,16675
+LaserGas II Single Path,Isolation flanges,"106867 IsolationFlange, DN50/PN16 760 (PED) (w/purge)",106867,"IsolationFlange, DN50/PN16 760 (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Single Path,Isolation flanges,"106868 IsolationFlange, ANSI 2""/150, AR760nm (PED) (w/purge)",106868,"IsolationFlange, ANSI 2""/150, AR760nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Single Path,Isolation flanges,"106902 IsolationFlange, ANSI 2""/300, AR760nm (PED) (w/purge)",106902,"IsolationFlange, ANSI 2""/300, AR760nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Single Path,Isolation flanges,"106905 IsolationFlange, DN50/PN16, AR1300‐2200nm (PED) (w/purge)",106905,"IsolationFlange, DN50/PN16, AR1300‐2200nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Single Path,Isolation flanges,"106907 IsolationFlange, ANSI 2""/150, AR1300‐2200nm (PED) (w/purge)",106907,"IsolationFlange, ANSI 2""/150, AR1300‐2200nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Single Path,Isolation flanges,"106909 IsolationFlange, ANSI 2""/300, AR1300‐2200nm (PED) (w/purge)",106909,"IsolationFlange, ANSI 2""/300, AR1300‐2200nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Single Path,Isolation flanges,"106911 IsolationFlange, DN50/PN16, AR2200‐2400nm (PED) (w/purge)",106911,"IsolationFlange, DN50/PN16, AR2200‐2400nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Single Path,Isolation flanges,"106913 IsolationFlange, ANSI 2""/150, AR2200‐2400nm (PED) (w/purge)",106913,"IsolationFlange, ANSI 2""/150, AR2200‐2400nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Single Path,Isolation flanges,"106915 IsolationFlange, ANSI 2""/300, AR2200‐2400nm (PED) (w/purge)",106915,"IsolationFlange, ANSI 2""/300, AR2200‐2400nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Single Path,Networks cables,101226 Network Cable 5m Straight RJ45‐Variosub,101226,Network Cable 5m Straight RJ45‐Variosub,,1035,0,1,1035,1035
+LaserGas II Single Path,Networks cables,101221 Network Cable 15m Straight RJ45‐Variosub,101221,Network Cable 15m Straight RJ45‐Variosub,,1265,0,1,1265,1265
+LaserGas II Single Path,Networks cables,101222 Network Cable 25m Straight RJ45‐Variosub,101222,Network Cable 25m Straight RJ45‐Variosub,,1495,0,1,1495,1495
+LaserGas II Single Path,Networks cables,101225 Network Cable 50m Straight RJ45‐Variosub,101225,Network Cable 50m Straight RJ45‐Variosub,,2645,0,1,2645,2645
+LaserGas II Single Path,Networks cables,107258 Network Cable 100m Straight RJ45‐Variosub,107258,Network Cable 100m Straight RJ45‐Variosub,,3795,0,1,3795,3795
+LaserGas II Single Path,Networks cables,106185 Network Cable 5m Crossed RJ45‐Variosub,106185,Network Cable 5m Crossed RJ45‐Variosub,,1035,0,1,1035,1035
+LaserGas II Single Path,Networks cables,101229 Network Cable 15m Crossed RJ45‐Variosub,101229,Network Cable 15m Crossed RJ45‐Variosub,,1265,0,1,1265,1265
+LaserGas II Single Path,Networks cables,101231 Network Cable 25m Crossed RJ45‐Variosub,101231,Network Cable 25m Crossed RJ45‐Variosub,,1610,0,1,1610,1610
+LaserGas II Single Path,Networks cables,101234 Network Cable 50m Crossed RJ45‐Variosub,101234,Network Cable 50m Crossed RJ45‐Variosub,,2875,0,1,2875,2875
+LaserGas II Single Path,Networks cables,106183 Network Cable 100m Crossed RJ45‐Variosub,106183,Network Cable 100m Crossed RJ45‐Variosub,,3910,0,1,3910,3910
+LaserGas II Single Path,Spare part kit,"102418 Spare part kit LGII SP FS-windows DN50/Ansi 2""",102418,"Spare part kit LGII SP FS-windows DN50/Ansi 2""",Standard flange- and O-ring material,11960,0,1,11960,11960
+LaserGas II Single Path,Spare part kit,"108141 Spare part kit LGII SP FS-windows Viton DN50/Ansi 2""",108141,"Spare part kit LGII SP FS-windows Viton DN50/Ansi 2""",Viton O-rings,13915,0,1,13915,13915
+LaserGas II Single Path,Spare part kit,"106235 Spare part kit LGII SP BK7-windows DN50/Ansi 2""",106235,"Spare part kit LGII SP BK7-windows DN50/Ansi 2""",Standard flange- and O-ring material,11270,0,1,11270,11270
+LaserGas II Single Path,Spare part kit,"108142 Spare part kit LGII SP BK7-windows Viton DN50/Ansi 2""",108142,"Spare part kit LGII SP BK7-windows Viton DN50/Ansi 2""",Viton O-rings,13340,0,1,13340,13340
+LaserGas II Single Path,Spare part kit,"103246 Spare part kit LGII SP no windows DN50/Ansi 2""",103246,"Spare part kit LGII SP no windows DN50/Ansi 2""",Standard flange- and O-ring material,2300,0,1,2300,2300
+LaserGas II Single Path,Spare part kit,"108813 Spare part kit LGII SP no windows Viton DN50/Ansi 2""",108813,"Spare part kit LGII SP no windows Viton DN50/Ansi 2""",Viton O-rings,5290,0,1,5290,5290
+LaserGas II Single Path,Spare part kit,"111748 Spare part kit LGII SP no windows Viton DN80/Ansi 3""",111748,"Spare part kit LGII SP no windows Viton DN80/Ansi 3""",Viton O-rings,6555,0,1,6555,6555
+LaserGas II Single Path,Spare part kit,"111749 Spare part kit LGII SP BK7-windows Viton DN80/Ansi 3""",111749,"Spare part kit LGII SP BK7-windows Viton DN80/Ansi 3""",Viton O-rings,12880,0,1,12880,12880
+LaserGas II Single Path,Spare part kit,"108991 Spare part kit LGII SP no windows Viton DN100/Ansi 4""",108991,"Spare part kit LGII SP no windows Viton DN100/Ansi 4""",Viton O-rings,7475,0,1,7475,7475
+LaserGas II Single Path,Spare part kit,"108992 Spare part kit LGII SP BK7-windows Viton DN100/Ansi 4""",108992,"Spare part kit LGII SP BK7-windows Viton DN100/Ansi 4""",Viton O-rings,17250,0,1,17250,17250
+LaserGas II Single Path,Spare part kit,108028 Commissioning Spare parts kit LG II SP,108028,Commissioning Spare parts kit LG II SP,"Standard package, Only SP",11615,0,1,11615,11615
+LaserGas II Single Path,Spare part kit,"110203 Sun shade Kit, LaserGas II SP",110203,"Sun shade Kit, LaserGas II SP",,22425,0,1,22425,22425
+LaserGas II Compact,Calibration cells,103426 Calibration Cell LGII SP Electropolished l=712 mm (AISI316),103426,Calibration Cell LGII SP Electropolished l=712 mm (AISI316),Swagelok 6 mm OD fittings,11845,0,1,11845,11845
+LaserGas II Compact,Calibration cells,100224 Calibration Cell LaserGas II SP l=712 mm (Al),100224,Calibration Cell LaserGas II SP l=712 mm (Al),Swagelok 6 mm OD fittings,5980,0,1,5980,5980
+LaserGas II Compact,Calibration cells,100358 Calibration Cell LaserGas II SP l=712 mm (AISI316),100358,Calibration Cell LaserGas II SP l=712 mm (AISI316),Swagelok 6 mm OD fittings,10350,0,1,10350,10350
+LaserGas II Compact,Calibration cells,101102 Calibration cell kit LaserGas II SP HF (Al+PTFE),101102,Calibration cell kit LaserGas II SP HF (Al+PTFE),incl. PTFE cell w/ sapphire window,10925,0,1,10925,10925
+LaserGas II Compact,Alignment kits,106897 Alignment tool kit LaserGas II/ III/ Q SP,106897,Alignment tool kit LaserGas II/ III/ Q SP,Complete with target,4830,0,1,4830,4830
+LaserGas II Compact,Span check box,101833 LGII/LD Span/Zero Switch box,101833,LGII/LD Span/Zero Switch box,,4370,0,1,4370,4370
+LaserGas II Compact,Measurement cell,102576 Measurement cell L 700mm w/ Saphire windows & Spool,102576,Measurement cell L 700mm w/ Saphire windows & Spool,"Electropolished, including spool piece",42090,0,1,42090,42090
+LaserGas II Compact,Measurement cell,106162 Measurement cell L 500mm w/ Saphire windows & Spool,106162,Measurement cell L 500mm w/ Saphire windows & Spool,"Electropolished, including spool piece",42090,0,1,42090,42090
+LaserGas II Compact,Measurement cell,106161 Measurement cell L 200mm w/ Saphire windows & Spool,106161,Measurement cell L 200mm w/ Saphire windows & Spool,"Electropolished, including spool piece",42090,0,1,42090,42090
+LaserGas II Compact,Measurement cell,109580 Measurement cell Hastelloy 700mm w/Sapphire windows & spool ,109580,Measurement cell Hastelloy 700mm w/Sapphire windows & spool ,"Electropolished Hastelloy, including spool piece, Price on request",0,0,1,0,0
+LaserGas II Compact,Measurement cell,111295 Measurement cell Hastelloy 300mm w/Sapphire windows & spool,111295,Measurement cell Hastelloy 300mm w/Sapphire windows & spool,"Electropolished Hastelloy, including spool piece, Price on request",0,0,1,0,0
+LaserGas II Compact,Insertion tubes,106524 Insertion tube kit Ø 44.5 mm L 1000 mm,106524,Insertion tube kit Ø 44.5 mm L 1000 mm,"Pair, Length: 1.0m",8395,0,1,8395,8395
+LaserGas II Compact,Insertion tubes,106525 Insertion tube kit Ø 18/15 mm L 200mm,106525,Insertion tube kit Ø 18/15 mm L 200mm,"Pair, Length = 200mm",8395,0,1,8395,8395
+LaserGas II Compact,Insertion tubes,106526 Insertion tube kit Ø 12/9 mm L 200mm,106526,Insertion tube kit Ø 12/9 mm L 200mm,"Pair, Length = 200mm",8395,0,1,8395,8395
+LaserGas II Compact,Insertion tubes,106527 Insertion tube kit Ø 10/8 mm L 200mm,106527,Insertion tube kit Ø 10/8 mm L 200mm,"Pair, Length = 200mm",8395,0,1,8395,8395
+LaserGas II Compact,Isolation flanges,100585 Isolation Flange assy DN 50 w/window (process) (FS) (no purge),100585,Isolation Flange assy DN 50 w/window (process) (FS) (no purge),Price per flange SS316 W/M16 tread‐bolts,16675,0,1,16675,16675
+LaserGas II Compact,Isolation flanges,101360 Isolation Flange assy ANSI 2''/150 (process) (FS) (no purge),101360,Isolation Flange assy ANSI 2''/150 (process) (FS) (no purge),Price per flange SS316 W/M16 tread‐bolts,16675,0,1,16675,16675
+LaserGas II Compact,Isolation flanges,"106867 IsolationFlange, DN50/PN16 760 (PED) (w/purge)",106867,"IsolationFlange, DN50/PN16 760 (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Compact,Isolation flanges,"106868 IsolationFlange, ANSI 2""/150, AR760nm (PED) (w/purge)",106868,"IsolationFlange, ANSI 2""/150, AR760nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Compact,Isolation flanges,"106902 IsolationFlange, ANSI 2""/300, AR760nm (PED) (w/purge)",106902,"IsolationFlange, ANSI 2""/300, AR760nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Compact,Isolation flanges,"106905 IsolationFlange, DN50/PN16, AR1300‐2200nm (PED) (w/purge)",106905,"IsolationFlange, DN50/PN16, AR1300‐2200nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Compact,Isolation flanges,"106907 IsolationFlange, ANSI 2""/150, AR1300‐2200nm (PED) (w/purge)",106907,"IsolationFlange, ANSI 2""/150, AR1300‐2200nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Compact,Isolation flanges,"106909 IsolationFlange, ANSI 2""/300, AR1300‐2200nm (PED) (w/purge)",106909,"IsolationFlange, ANSI 2""/300, AR1300‐2200nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Compact,Isolation flanges,"106911 IsolationFlange, DN50/PN16, AR2200‐2400nm (PED) (w/purge)",106911,"IsolationFlange, DN50/PN16, AR2200‐2400nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Compact,Isolation flanges,"106913 IsolationFlange, ANSI 2""/150, AR2200‐2400nm (PED) (w/purge)",106913,"IsolationFlange, ANSI 2""/150, AR2200‐2400nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Compact,Isolation flanges,"106915 IsolationFlange, ANSI 2""/300, AR2200‐2400nm (PED) (w/purge)",106915,"IsolationFlange, ANSI 2""/300, AR2200‐2400nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas II Compact,Networks cables,101226 Network Cable 5m Straight RJ45‐Variosub,101226,Network Cable 5m Straight RJ45‐Variosub,,1035,0,1,1035,1035
+LaserGas II Compact,Networks cables,101221 Network Cable 15m Straight RJ45‐Variosub,101221,Network Cable 15m Straight RJ45‐Variosub,,1265,0,1,1265,1265
+LaserGas II Compact,Networks cables,101222 Network Cable 25m Straight RJ45‐Variosub,101222,Network Cable 25m Straight RJ45‐Variosub,,1495,0,1,1495,1495
+LaserGas II Compact,Networks cables,101225 Network Cable 50m Straight RJ45‐Variosub,101225,Network Cable 50m Straight RJ45‐Variosub,,2645,0,1,2645,2645
+LaserGas II Compact,Networks cables,107258 Network Cable 100m Straight RJ45‐Variosub,107258,Network Cable 100m Straight RJ45‐Variosub,,3795,0,1,3795,3795
+LaserGas II Compact,Networks cables,106185 Network Cable 5m Crossed RJ45‐Variosub,106185,Network Cable 5m Crossed RJ45‐Variosub,,1035,0,1,1035,1035
+LaserGas II Compact,Networks cables,101229 Network Cable 15m Crossed RJ45‐Variosub,101229,Network Cable 15m Crossed RJ45‐Variosub,,1265,0,1,1265,1265
+LaserGas II Compact,Networks cables,101231 Network Cable 25m Crossed RJ45‐Variosub,101231,Network Cable 25m Crossed RJ45‐Variosub,,1610,0,1,1610,1610
+LaserGas II Compact,Networks cables,101234 Network Cable 50m Crossed RJ45‐Variosub,101234,Network Cable 50m Crossed RJ45‐Variosub,,2875,0,1,2875,2875
+LaserGas II Compact,Networks cables,106183 Network Cable 100m Crossed RJ45‐Variosub,106183,Network Cable 100m Crossed RJ45‐Variosub,,3910,0,1,3910,3910
+LaserGas II Compact,Spare part kit,"103246 Spare part kit LGII SP no windows DN50/Ansi 2""",103246,"Spare part kit LGII SP no windows DN50/Ansi 2""",Standard flange‐ and O‐ring material,2300,0,1,2300,2300
+LaserGas II Compact,Spare part kit,"108813 Spare part kit LGII SP no windows Viton DN50/Ansi 2""",108813,"Spare part kit LGII SP no windows Viton DN50/Ansi 2""",Viton O‐rings,5290,0,1,5290,5290
+LaserGas II Compact,Spare part kit,111436 Spare parts kit LGII Compact,111436,Spare parts kit LGII Compact,Viton O‐rings,4152,0,1,4152,4152
+LaserGas II Multipass,Networks cables,101226 Network Cable 5m Straight RJ45‐Variosub,101226,Network Cable 5m Straight RJ45‐Variosub,,1035,0,1,1035,1035
+LaserGas II Multipass,Networks cables,101221 Network Cable 15m Straight RJ45‐Variosub,101221,Network Cable 15m Straight RJ45‐Variosub,,1265,0,1,1265,1265
+LaserGas II Multipass,Networks cables,101222 Network Cable 25m Straight RJ45‐Variosub,101222,Network Cable 25m Straight RJ45‐Variosub,,1495,0,1,1495,1495
+LaserGas II Multipass,Networks cables,101225 Network Cable 50m Straight RJ45‐Variosub,101225,Network Cable 50m Straight RJ45‐Variosub,,2645,0,1,2645,2645
+LaserGas II Multipass,Networks cables,107258 Network Cable 100m Straight RJ45‐Variosub,107258,Network Cable 100m Straight RJ45‐Variosub,,3795,0,1,3795,3795
+LaserGas II Multipass,Networks cables,106185 Network Cable 5m Crossed RJ45‐Variosub,106185,Network Cable 5m Crossed RJ45‐Variosub,,1035,0,1,1035,1035
+LaserGas II Multipass,Networks cables,101229 Network Cable 15m Crossed RJ45‐Variosub,101229,Network Cable 15m Crossed RJ45‐Variosub,,1265,0,1,1265,1265
+LaserGas II Multipass,Networks cables,101231 Network Cable 25m Crossed RJ45‐Variosub,101231,Network Cable 25m Crossed RJ45‐Variosub,,1610,0,1,1610,1610
+LaserGas II Multipass,Networks cables,101234 Network Cable 50m Crossed RJ45‐Variosub,101234,Network Cable 50m Crossed RJ45‐Variosub,,2875,0,1,2875,2875
+LaserGas II Multipass,Networks cables,106183 Network Cable 100m Crossed RJ45‐Variosub,106183,Network Cable 100m Crossed RJ45‐Variosub,,3910,0,1,3910,3910
+LaserGas II Open Path,Networks cables,101226 Network Cable 5m Straight RJ45‐Variosub,101226,Network Cable 5m Straight RJ45‐Variosub,,1035,0,1,1035,1035
+LaserGas II Open Path,Networks cables,101221 Network Cable 15m Straight RJ45‐Variosub,101221,Network Cable 15m Straight RJ45‐Variosub,,1265,0,1,1265,1265
+LaserGas II Open Path,Networks cables,101222 Network Cable 25m Straight RJ45‐Variosub,101222,Network Cable 25m Straight RJ45‐Variosub,,1495,0,1,1495,1495
+LaserGas II Open Path,Networks cables,101225 Network Cable 50m Straight RJ45‐Variosub,101225,Network Cable 50m Straight RJ45‐Variosub,,2645,0,1,2645,2645
+LaserGas II Open Path,Networks cables,107258 Network Cable 100m Straight RJ45‐Variosub,107258,Network Cable 100m Straight RJ45‐Variosub,,3795,0,1,3795,3795
+LaserGas II Open Path,Networks cables,106185 Network Cable 5m Crossed RJ45‐Variosub,106185,Network Cable 5m Crossed RJ45‐Variosub,,1035,0,1,1035,1035
+LaserGas II Open Path,Networks cables,101229 Network Cable 15m Crossed RJ45‐Variosub,101229,Network Cable 15m Crossed RJ45‐Variosub,,1265,0,1,1265,1265
+LaserGas II Open Path,Networks cables,101231 Network Cable 25m Crossed RJ45‐Variosub,101231,Network Cable 25m Crossed RJ45‐Variosub,,1610,0,1,1610,1610
+LaserGas II Open Path,Networks cables,101234 Network Cable 50m Crossed RJ45‐Variosub,101234,Network Cable 50m Crossed RJ45‐Variosub,,2875,0,1,2875,2875
+LaserGas II Open Path,Networks cables,106183 Network Cable 100m Crossed RJ45‐Variosub,106183,Network Cable 100m Crossed RJ45‐Variosub,,3910,0,1,3910,3910
+LaserGas II Open Path,Calibration kit,"101812 Calibration kit, LaserGas II OP",101812,"Calibration kit, LaserGas II OP",,10810,0,1,10810,10810
+LaserGas III Single Path,Calibration cells,106113 Calibration cell LaserG III SP l=712 mm (Al),106113,Calibration cell LaserG III SP l=712 mm (Al),Dairy clamps kit must be ordered seperately. Swagelok 8mm OD fittings,5720,0,1,5720,5720
+LaserGas III Single Path,Calibration cells,102782 Calibration cell LG III/Q l=712 mm (AISI316L),102782,Calibration cell LG III/Q l=712 mm (AISI316L),Dairy clamps kit must be ordered seperately. Swagelok 8mm OD fittings,11615,0,1,11615,11615
+LaserGas III Single Path,Alignment kits,106897 Alignment tool kit LaserGas II/ III/ Q SP,106897,Alignment tool kit LaserGas II/ III/ Q SP,Complete with target,4830,0,1,4830,4830
+LaserGas III Single Path,Measurement cell,102538 Measurement cell L 700mm w/Saphire windows & flanges,102538,Measurement cell L 700mm w/Saphire windows & flanges,"Electropolished SS316, Suited for DN50-flanges",46460,0,1,46460,46460
+LaserGas III Single Path,Measurement cell,106160 Measurement cell L 500mm w/Saphire windows & flanges,106160,Measurement cell L 500mm w/Saphire windows & flanges,"Electropolished SS316, Suited for DN50-flanges",46460,0,1,46460,46460
+LaserGas III Single Path,Measurement cell,106159 Measurement cell L 200mm w/Saphire windows & flanges,106159,Measurement cell L 200mm w/Saphire windows & flanges,"Electropolished SS316, Suited for DN50-flanges",46460,0,1,46460,46460
+LaserGas III Single Path,Measurement cell,"108558 Measurement cell L 700mm w/ Saphire windows & Spool, LG3/LGQ",108558,"Measurement cell L 700mm w/ Saphire windows & Spool, LG3/LGQ","Electropolished SS316, including spool piece",42090,0,1,42090,42090
+LaserGas III Single Path,Measurement cell,"108556 Measurement cell L 500mm w/ Saphire windows & Spool, LG3/LGQ",108556,"Measurement cell L 500mm w/ Saphire windows & Spool, LG3/LGQ","Electropolished SS316, including spool piece",42090,0,1,42090,42090
+LaserGas III Single Path,Measurement cell,"108557 Measurement cell L 200mm w/ Saphire windows & Spool, LG3/LGQ",108557,"Measurement cell L 200mm w/ Saphire windows & Spool, LG3/LGQ","Electropolished SS316, including spool piece",42090,0,1,42090,42090
+LaserGas III Single Path,Insertion tubes,102360 Insertion tube kit Ø 68/65 mm L 1500 mm,102360,Insertion tube kit Ø 68/65 mm L 1500 mm,"Pair, Length : 1.5m, Flanges >DN80/ANSI 3"", SS316",9750,0,1,9750,9750
+LaserGas III Single Path,Insertion tubes,106524 Insertion tube kit Ø 44.5 mm L 1000 mm,106524,Insertion tube kit Ø 44.5 mm L 1000 mm,"Insertion tube kit LGII/LGIII, OD=44,5mm, SS316",8395,0,1,8395,8395
+LaserGas III Single Path,Dairy Clamp,106699 Dairy Clamp Kit LG3 (Gasket SMS 63.5 EPDM),106699,Dairy Clamp Kit LG3 (Gasket SMS 63.5 EPDM),See Spare Parts,1380,0,1,1380,1380
+LaserGas III Single Path,Isolation flanges,100585 Isolation Flange assy DN 50 w/window (process) (FS) (no purge),100585,Isolation Flange assy DN 50 w/window (process) (FS) (no purge),Price per flange SS316 W/M16 tread‐bolts,16675,0,1,16675,16675
+LaserGas III Single Path,Isolation flanges,101360 Isolation Flange assy ANSI 2''/150 (process) (FS) (no purge),101360,Isolation Flange assy ANSI 2''/150 (process) (FS) (no purge),Price per flange SS316 W/M16 tread‐bolts,16675,0,1,16675,16675
+LaserGas III Single Path,Isolation flanges,"106867 Isolation Flange, DN50/PN16 760 (PED) (w/purge)",106867,"Isolation Flange, DN50/PN16 760 (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas III Single Path,Isolation flanges,"106868 Isolation Flange, ANSI 2""/150, AR760nm (PED) (w/purge)",106868,"Isolation Flange, ANSI 2""/150, AR760nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas III Single Path,Isolation flanges,"106902 Isolation Flange, ANSI 2""/300, AR760nm (PED) (w/purge)",106902,"Isolation Flange, ANSI 2""/300, AR760nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas III Single Path,Isolation flanges,"106905 Isolation Flange, DN50/PN16, AR1300‐2200nm (PED) (w/purge)",106905,"Isolation Flange, DN50/PN16, AR1300‐2200nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas III Single Path,Isolation flanges,"106907 Isolation Flange, ANSI 2""/150, AR1300‐2200nm (PED) (w/purge)",106907,"Isolation Flange, ANSI 2""/150, AR1300‐2200nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas III Single Path,Isolation flanges,"106909 Isolation Flange, ANSI 2""/300, AR1300‐2200nm (PED) (w/purge)",106909,"Isolation Flange, ANSI 2""/300, AR1300‐2200nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas III Single Path,Isolation flanges,"106911 Isolation Flange, DN50/PN16, AR2200‐2400nm (PED) (w/purge)",106911,"Isolation Flange, DN50/PN16, AR2200‐2400nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas III Single Path,Isolation flanges,"106913 Isolation Flange, ANSI 2""/150, AR2200‐2400nm (PED) (w/purge)",106913,"Isolation Flange, ANSI 2""/150, AR2200‐2400nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas III Single Path,Isolation flanges,"106915 Isolation Flange, ANSI 2""/300, AR2200‐2400nm (PED) (w/purge)",106915,"Isolation Flange, ANSI 2""/300, AR2200‐2400nm (PED) (w/purge)",Price per flange,43470,0,1,43470,43470
+LaserGas III Single Path,Windows units LG3,106960 Window Unit LG3 L 60 760 (FS),106960,Window Unit LG3 L 60 760 (FS),incl Dairy clamp EPDM Gasket Swagelok 8mm,11110,0,1,11110,11110
+LaserGas III Single Path,Windows units LG3,106965 Window Unit LG3 L 100 760 (FS),106965,Window Unit LG3 L 100 760 (FS),incl Dairy clamp EPDM Gasket Swagelok 8mm,12430,0,1,12430,12430
+LaserGas III Single Path,Windows units LG3,106970 Window Unit LG3 L 60 760 (Sapphire),106970,Window Unit LG3 L 60 760 (Sapphire),incl Dairy clamp EPDM Gasket Swagelok 8mm,13750,0,1,13750,13750
+LaserGas III Single Path,Windows units LG3,106975 Window Unit LG3 L 100 760 (Sapphire),106975,Window Unit LG3 L 100 760 (Sapphire),incl Dairy clamp EPDM Gasket Swagelok 8mm,15180,0,1,15180,15180
+LaserGas III Single Path,Windows units LG3,106980 Window Unit LG3 L 60 1500‐1650 (FS),106980,Window Unit LG3 L 60 1500‐1650 (FS),incl Dairy clampEPDM Gasket Swagelok 8mm,11110,0,1,11110,11110
+LaserGas III Single Path,Windows units LG3,106981 Window Unit LG3 L 100 1500‐1650 (FS),106981,Window Unit LG3 L 100 1500‐1650 (FS),incl Dairy clamp EPDM Gasket Swagelok 8mm,12430,0,1,12430,12430
+LaserGas III Single Path,Windows units LG3,106982 Window Unit LG3 L 60 1500‐1650 (Sapphire),106982,Window Unit LG3 L 60 1500‐1650 (Sapphire),incl Dairy clamp EPDM Gasket Swagelok 8mm,13750,0,1,13750,13750
+LaserGas III Single Path,Windows units LG3,106983 Window Unit LG3 L 100 1500‐1650 (Sapphire),106983,Window Unit LG3 L 100 1500‐1650 (Sapphire),incl Dairy clamp EPDM Gasket Swagelok 8mm,15180,0,1,15180,15180
+LaserGas III Single Path,Windows units LG3,113549 Window Unit LG3 L 2000-2330 (FS),113549,Window Unit LG3 L 2000-2330 (FS),incl Dairy clamp EPDM Gasket Swagelok 8mm,12995,0,1,12995,12995
+LaserGas III Single Path,Windows units LG3,110254 Window Unit LG3 L 60 2200‐2400 (Sapphire),110254,Window Unit LG3 L 60 2200‐2400 (Sapphire),incl Dairy clamp EPDM Gasket Swagelok 8mm,13750,0,1,13750,13750
+LaserGas III Single Path,Windows units LG3,110255 Window Unit LG3 L 100 2200‐2400 (Sapphire),110255,Window Unit LG3 L 100 2200‐2400 (Sapphire),incl Dairy clamp EPDM Gasket Swagelok 8mm,15180,0,1,15180,15180
+LaserGas III Single Path,Spare part kit,"103418 Spare part kit LG3/LGQ SP DN50/ANSI 2""",103418,"Spare part kit LG3/LGQ SP DN50/ANSI 2""","Viton flange O‐rings, and clamp gaskets (EPDM)",4485,0,1,4485,4485
+LaserGas III Single Path,Spare part kit,112290 commissioning spare part kit LG3/Q,112290,commissioning spare part kit LG3/Q,standard package,4140,0,1,4140,4140
+LaserGas III Open Path,Alignment laser pointer,"108603 Laser Pointer kit for LGIII OP, Mk2",108603,"Laser Pointer kit for LGIII OP, Mk2",For old version contact NEO Monitors,690,0,1,690,690
+LaserGas III Portable,,113130 Inlet filter for Portable HF analyzer,113130,Inlet filter for Portable HF analyzer,,920,0,1,920,920
+LaserGas III Portable,,"105063 LG3 HF portable battery 14,4V 5.2Ah Lit",105063,"LG3 HF portable battery 14,4V 5.2Ah Lit",,4370,0,1,4370,4370
+LaserGas iQ2,Calibration cells,108863 Calibration cell Kit LG iQ2 without Cube corners,108863,Calibration cell Kit LG iQ2 without Cube corners,Cube corner not included,24035,0,1,24035,24035
+LaserGas iQ2,Calibration cells,108684 Calibration cell Kit LG iQ2 inc. Cube corner,108684,Calibration cell Kit LG iQ2 inc. Cube corner,Cube corner included,38686,0,1,38686,38686
+LaserGas iQ2,Alignment kits,108225 Alignment tool kit LaserGas iQ2,108225,Alignment tool kit LaserGas iQ2,,6785,0,1,6785,6785
+LaserGas iQ2,Alignment kits,"109677 Vulcan High Temp Probe, Cube Corner Module",109677,"Vulcan High Temp Probe, Cube Corner Module",Price TBA,0,0,1,0,0
+LaserGas iQ2,Alignment kits,"108016 Window Assembly iQ2, Large aperture",108016,"Window Assembly iQ2, Large aperture",,16100,0,1,16100,16100
+LaserGas iQ2,Alignment kits,108020 Retroreflector Assembly unit iQ2 X-stack,108020,Retroreflector Assembly unit iQ2 X-stack,For cross stack version,57040,0,1,57040,57040
+LaserGas iQ2,"""O"" Ring Kit","108810 ""O"" ring kit iQ2 MK1",108810,"""O"" ring kit iQ2 MK1","2x (85 x 2) NBR70, 2 x (84 x 2.5) NBR70",288,0,1,288,288
+LaserGas Q,Calibration cells,102782 Calibration cell LG III/Q l=712 mm (AISI316L),102782,Calibration cell LG III/Q l=712 mm (AISI316L),Dairy clamps kit must be ordered seperately. Swagelok 8mm OD fittings,11615,0,1,11615,11615
+LaserGas Q,Alignment kits,106897 Alignment tool kit LaserGas II/ III/ Q SP,106897,Alignment tool kit LaserGas II/ III/ Q SP,Complete with target,4830,0,1,4830,4830
+LaserGas Q,LG Q Span cell (External),"111629 Span Check Cell LGQ L60, CaF2, NO",111629,"Span Check Cell LGQ L60, CaF2, NO",Process dependent. Contact NEO Monitors,16215,0,1,16215,16215
+LaserGas Q,LG Q Span cell (External),"111033 Span Check Cell LGQ L60, Sapphire, SO2",111033,"Span Check Cell LGQ L60, Sapphire, SO2",Process dependent. Contact NEO Monitors,16215,0,1,16215,16215
+LaserGas Q,LG Q Span cell (External),"111034 Span Check Cell LGQ L60, Sapphire, NO2",111034,"Span Check Cell LGQ L60, Sapphire, NO2",Process dependent. Contact NEO Monitors,16215,0,1,16215,16215
+LaserGas Q,Measurement cell,"108558 Measurement cell L 700mm w/ Saphire windows & Spool, LG3/LGQ",108558,"Measurement cell L 700mm w/ Saphire windows & Spool, LG3/LGQ","Electropolished, including spool piece",42090,0,1,42090,42090
+LaserGas Q,Measurement cell,"108556 Measurement cell L 500mm w/ Saphire windows & Spool, LG3/LGQ",108556,"Measurement cell L 500mm w/ Saphire windows & Spool, LG3/LGQ","Electropolished, including spool piece",42090,0,1,42090,42090
+LaserGas Q,Measurement cell,"108557 Measurement cell L 200mm w/ Saphire windows & Spool, LG3/LGQ",108557,"Measurement cell L 200mm w/ Saphire windows & Spool, LG3/LGQ","Electropolished, including spool piece",42090,0,1,42090,42090
+LaserGas Q,Insertion tubes,102360 Insertion tube kit Ø 68/65 mm L 1500 mm,102360,Insertion tube kit Ø 68/65 mm L 1500 mm,"Pair, Length : 1.5m, Flanges >DN80/ANSI",9775,0,1,9775,9775
+LaserGas Q,Insertion tubes,106524 Insertion tube kit Ø 44.5 mm L 1000 mm,106524,Insertion tube kit Ø 44.5 mm L 1000 mm,"Pair, Length: 1.0m",8395,0,1,8395,8395
+LaserGas Q,Dairy clamp,106699 Dairy Clamp Kit LG3 (Gasket SMS 63.5 EPDM),106699,Dairy Clamp Kit LG3 (Gasket SMS 63.5 EPDM),,1380,0,1,1380,1380
+LaserGas Q,Networks cables,101226 Network Cable 5m Straight RJ45‐Variosub,101226,Network Cable 5m Straight RJ45‐Variosub,,1035,0,1,1035,1035
+LaserGas Q,Networks cables,101221 Network Cable 15m Straight RJ45‐Variosub,101221,Network Cable 15m Straight RJ45‐Variosub,,1265,0,1,1265,1265
+LaserGas Q,Networks cables,101222 Network Cable 25m Straight RJ45‐Variosub,101222,Network Cable 25m Straight RJ45‐Variosub,,1495,0,1,1495,1495
+LaserGas Q,Networks cables,101225 Network Cable 50m Straight RJ45‐Variosub,101225,Network Cable 50m Straight RJ45‐Variosub,,2645,0,1,2645,2645
+LaserGas Q,Networks cables,107258 Network Cable 100m Straight RJ45‐Variosub,107258,Network Cable 100m Straight RJ45‐Variosub,,3795,0,1,3795,3795
+LaserGas Q,Networks cables,106185 Network Cable 5m Crossed RJ45‐Variosub,106185,Network Cable 5m Crossed RJ45‐Variosub,,1035,0,1,1035,1035
+LaserGas Q,Networks cables,101229 Network Cable 15m Crossed RJ45‐Variosub,101229,Network Cable 15m Crossed RJ45‐Variosub,,1265,0,1,1265,1265
+LaserGas Q,Networks cables,101231 Network Cable 25m Crossed RJ45‐Variosub,101231,Network Cable 25m Crossed RJ45‐Variosub,,1610,0,1,1610,1610
+LaserGas Q,Networks cables,101234 Network Cable 50m Crossed RJ45‐Variosub,101234,Network Cable 50m Crossed RJ45‐Variosub,,2875,0,1,2875,2875
+LaserGas Q,Networks cables,106183 Network Cable 100m Crossed RJ45‐Variosub,106183,Network Cable 100m Crossed RJ45‐Variosub,,3910,0,1,3910,3910
+LaserGas Q,Spare part kit,"103418 Spare part kit LG3/LGQ SP DN50/ANSI 2""",103418,"Spare part kit LG3/LGQ SP DN50/ANSI 2""","Viton flange O‐rings, and clamp gaskets (EPDM)",4485,0,1,4485,4485
+LaserGas Q,Spare part kit,112290 Commissioning spare parts kit LG III/Q,112290,Commissioning spare parts kit LG III/Q,Standard package,4140,0,1,4140,4140
+LaserDust,Alignment kits,100154 Alignment tool kit LaserDust MP,100154,Alignment tool kit LaserDust MP,,3450,0,1,3450,3450
+LaserDust,Alignment kits,100145 Alignment tool kit LaserDust LP,100145,Alignment tool kit LaserDust LP,,3450,0,1,3450,3450
+LaserDust,Alignment kits,102607 Alignment tool kit LaserDust XLP,102607,Alignment tool kit LaserDust XLP,,11995,0,1,11995,11995
+LaserDust,Span check box,101833 LGII/LD Span/Zero Switch box,101833,LGII/LD Span/Zero Switch box,,4370,0,1,4370,4370
+LaserDust,Windows assembly,102539 Window assembly LaserDust MP (FS),102539,Window assembly LaserDust MP (FS),"price per piece. Fused Silica, Ø58 x 3.5mm",5750,0,1,5750,5750
+LaserDust,Windows assembly,102540 Window assembly LaserDust LP (FS),102540,Window assembly LaserDust LP (FS),"price per piece. Fused Silica, Ø93 x 5mm",7015,0,1,7015,7015
+LaserDust,Windows assembly,102541 Window assembly LaserDust XLP (FS),102541,Window assembly LaserDust XLP (FS),"price per piece. Fused Silica, Ø145 x 6mm",17365,0,1,17365,17365
+LaserDust,Networks cables,101226 Network Cable 5m Straight RJ45‐Variosub,101226,Network Cable 5m Straight RJ45‐Variosub,,1035,0,1,1035,1035
+LaserDust,Networks cables,101221 Network Cable 15m Straight RJ45‐Variosub,101221,Network Cable 15m Straight RJ45‐Variosub,,1265,0,1,1265,1265
+LaserDust,Networks cables,101222 Network Cable 25m Straight RJ45‐Variosub,101222,Network Cable 25m Straight RJ45‐Variosub,,1495,0,1,1495,1495
+LaserDust,Networks cables,101225 Network Cable 50m Straight RJ45‐Variosub,101225,Network Cable 50m Straight RJ45‐Variosub,,2645,0,1,2645,2645
+LaserDust,Networks cables,107258 Network Cable 100m Straight RJ45‐Variosub,107258,Network Cable 100m Straight RJ45‐Variosub,,3795,0,1,3795,3795
+LaserDust,Networks cables,106185 Network Cable 5m Crossed RJ45‐Variosub,106185,Network Cable 5m Crossed RJ45‐Variosub,,1035,0,1,1035,1035
+LaserDust,Networks cables,101229 Network Cable 15m Crossed RJ45‐Variosub,101229,Network Cable 15m Crossed RJ45‐Variosub,,1265,0,1,1265,1265
+LaserDust,Networks cables,101231 Network Cable 25m Crossed RJ45‐Variosub,101231,Network Cable 25m Crossed RJ45‐Variosub,,1610,0,1,1610,1610
+LaserDust,Networks cables,101234 Network Cable 50m Crossed RJ45‐Variosub,101234,Network Cable 50m Crossed RJ45‐Variosub,,2875,0,1,2875,2875
+LaserDust,Networks cables,106183 Network Cable 100m Crossed RJ45‐Variosub,106183,Network Cable 100m Crossed RJ45‐Variosub,,3910,0,1,3910,3910
+LaserDust,Spare part kit,103164 Spare part kit LD MP,103164,Spare part kit LD MP,Std flange‐ and O‐ring material,11615,0,1,11615,11615
+LaserDust,Spare part kit,103165 Spare part kit LD LP,103165,Spare part kit LD LP,Std flange‐ and O‐ring material,11615,0,1,11615,11615
+LaserDust,Spare part kit,103166 Spare part kit LD XLP,103166,Spare part kit LD XLP,"Std flange‐ & O‐ring material, no RU window",9430,0,1,9430,9430
+LaserDust,Spare part kit,102541 Window assy RU LD XLP,102541,Window assy RU LD XLP,,17365,0,1,17365,17365
+Service,Service Costs,100230 Service in-house,100230,Service in-house,Per hour,1870,0,1,1870,1870
+Service,Service Costs,106922 Troubleshooting fee,106922,Troubleshooting fee,If no repair (2 hours),3740,0,1,3740,3740
+Service,Service Costs,108814 Handling fee Service,108814,Handling fee Service,Logistic handling,1100,0,1,1100,1100
+Service,Service Costs,113285 Initial remote support fee,113285,Initial remote support fee,For site setup and initial diagnosis (Max 2 hours),3740,0,1,3740,3740
+Service,Service Costs,113284 Ongoing remote support fee,113284,Ongoing remote support fee,Follow-up problem analysis & solution (per additional hour),1870,0,1,1870,1870
+Service,Service Costs,107713 Priority fee,107713,Priority fee,"Prioritized repair (min cost 3,400NOK) +additional 20%",0,0,1,0,0
+Service,Service Costs,107710 Administration fee,107710,Administration fee,10% of travel & accomodation cost,0,0,1,0,0
+Service,Service Costs,107708 Travel time (per day),107708,Travel time (per day),(8 hr day),11440,0,1,11440,11440
+Service,Service Costs,113282 Travel time (per hour),113282,Travel time (per hour),,1430,0,1,1430,1430
+Service,Service Costs,107709 On-site daily rate,107709,On-site daily rate,"Commissioning, installation, repairs",15290,0,1,15290,15290
+Service,Service Costs,107712 On-site hourly rate,107712,On-site hourly rate,"Commissioning, installation, repairs",2090,0,1,2090,2090
+Service,Training,107715 Training course (on-site),107715,Training course (on-site),Per day,15290,0,1,15290,15290
+Service,FAT,107714 FAT - End user attended or digital FAT Package,107714,FAT - End user attended or digital FAT Package,"Inc., set-up, 1-day customer witness test and standard test scheme & documentation. Max 2ea. analyzers or 1ea. IQ2 analyzer",35000,0,1,35000,35000
+Service,FAT,113286 FAT - Additional day,113286,FAT - Additional day,"Customer attended or digital FAT, standard test scheme) Max. 2ea. analyzers or 1ea. IQ2 analyzer",22000,0,1,22000,22000
+Service,Calibration,101757 Calibration O2,101757,Calibration O2,Including certificate,8360,0,1,8360,8360
+Service,Calibration,107913 Calibration check (O2),107913,Calibration check (O2),No certificate,1430,0,1,1430,1430
+Service,Calibration,"107916 Calibration (HF, H2O)",107916,"Calibration (HF, H2O)",Including certificate,14190,0,1,14190,14190
+Service,Calibration,"107915 Calibration check HF, H2O",107915,"Calibration check HF, H2O",No certificate,7040,0,1,7040,7040
+Service,Calibration,101783 Calibration (other gases),101783,Calibration (other gases),Including certificate,11440,0,1,11440,11440
+Service,Calibration,107914 Calibration check (other gases),107914,Calibration check (other gases),No certificate,4070,0,1,4070,4070
+Service,Calibration,107917 Calibration background gas,107917,Calibration background gas,Per gas,2750,0,1,2750,2750
+Service,Calibration,107911 Calibration certificate,107911,Calibration certificate,,7480,0,1,7480,7480
+Service,Misc. Parts,101786 Misc.,101786,Misc.,,575,0,1,575,575
+Service,Misc. Parts,106891 Misc. Electronic parts,106891,Misc. Electronic parts,,805,0,1,805,805
+Service,Misc. Parts,106892 Misc. Mechanical parts,106892,Misc. Mechanical parts,,805,0,1,805,805
+Service,Replacement,101767 Replace laser O2,101767,Replace laser O2,In-house repair,53590,0,1,53590,53590
+Service,Replacement,107919 Replace laser (1200-2000nm),107919,Replace laser (1200-2000nm),In-house repair,66930,0,1,66930,66930
+Service,Replacement,107920 Replace laser (2000-2500nm),107920,Replace laser (2000-2500nm),In-house repair,109825,0,1,109825,109825
+Service,Replacement,113283 Replace laser Q (ICL),113283,Replace laser Q (ICL),In-House repair,135700,0,1,135700,135700
+Service,Replacement,101781 Replace laser Laser Dust,101781,Replace laser Laser Dust,In-house repair,45310,0,1,45310,45310
+Service,O-ring Kit,100226 Window O-ring kit LGII SP/LD-MP (NBR70) ,100226,Window O-ring kit LGII SP/LD-MP (NBR70) ,,230,0,1,230,230
+Service,O-ring Kit,102580 Window O-ring kit LGII SP/LD-MP (Viton) ,102580,Window O-ring kit LGII SP/LD-MP (Viton) ,,345,0,1,345,345
+Service,O-ring Kit,100348 Window O-ring kit LGII OP/LD-LP (NBR70) ,100348,Window O-ring kit LGII OP/LD-LP (NBR70) ,,230,0,1,230,230
+Service,O-ring Kit,102365 Window O-ring kit LaserDust XLP (NBR70) ,102365,Window O-ring kit LaserDust XLP (NBR70) ,,345,0,1,345,345
+Service,O-ring Kit,102579 Window O-ring kit LGII OP/LD-LP (Viton),102579,Window O-ring kit LGII OP/LD-LP (Viton),,920,0,1,920,920
+Service,Isolation flange,"100567 Assembly isolation window (Ø58x3,5 Fused Silica) ",100567,"Assembly isolation window (Ø58x3,5 Fused Silica) ","for Isolation Flange 100585 ONLY, SS316",7935,0,1,7935,7935
+Service,Isolation flange,106863 Graphite gasket w/steel core DN50/PN16 ,106863,Graphite gasket w/steel core DN50/PN16 ,165 x 68 x 1.5 mm,690,0,1,690,690
+Service,Isolation flange,"106864 Graphite gasket w/steel core ANSI2""/150",106864,"Graphite gasket w/steel core ANSI2""/150",152.4 x 68 x 1.5 mm,690,0,1,690,690
+Service,ETHERNET,108157 SNAP mod. w/ Ethernet & Modbus-TCP Spare part kit ,108157,SNAP mod. w/ Ethernet & Modbus-TCP Spare part kit ,"LaserGas II Stack, STD/ATEX/CSA suitable",7475,0,1,7475,7475
+Service,ETHERNET,"108194 SNAP mod. w/ Ethernet & Modbus-TCP, Spare part kit ",108194,"SNAP mod. w/ Ethernet & Modbus-TCP, Spare part kit ","LaserGas II Multi Pass (MP),STD/ATEX/CSA",7475,0,1,7475,7475
+Service,ETHERNET,102969 Ethernet / Modbus-TCP Board Spare Part Kit LD,102969,Ethernet / Modbus-TCP Board Spare Part Kit LD,"LaserDust, STD/ATEX suitable",7475,0,1,7475,7475
+Service,MISC,105800 TU/RU Window Adapter Ring  ,105800,TU/RU Window Adapter Ring  ,1 piece incl O-ring,1035,0,1,1035,1035
+Service,MISC,"106115 Thread ring, 2"" calibration cell LaserGas II, Al ",106115,"Thread ring, 2"" calibration cell LaserGas II, Al "," 1 piece, Incl set screws",805,0,1,805,805
+Service,MISC,"101663 Thread ring, 2"" calibration cell LaserGas II, AISI 316L  ",101663,"Thread ring, 2"" calibration cell LaserGas II, AISI 316L  ","1 piece, Incl set screws",2645,0,1,2645,2645
+Service,MISC,"100134 Diffusor element, LaserGas II flanges  ",100134,"Diffusor element, LaserGas II flanges  ","1 piece (used on flange/purge unit, total 2 needed)",230,0,1,230,230
+Service,MISC,"103658 Circlip ring, outer, A60, DIN471, AISI304  ",103658,"Circlip ring, outer, A60, DIN471, AISI304  ","1 piece (used on instrument and flange/purge unit, total 4 needed)",230,0,1,230,230
+Service,MISC,"106827 Window Adapter Ring, AL, LD-LP",106827,"Window Adapter Ring, AL, LD-LP",,1035,0,1,1035,1035
+Service,MISC,"100139 Casing Nut, LaserGas II  ",100139,"Casing Nut, LaserGas II  ",SS316,1495,0,1,1495,1495
+Service,MISC,"100417 Casing Nut, extended version, LaserGas ",100417,"Casing Nut, extended version, LaserGas ", SS316 (for high pressure windows),2070,0,1,2070,2070
+Service,MISC,"100253 Casing Nut 4"", LaserDust LP  ",100253,"Casing Nut 4"", LaserDust LP  ",Aluminium version,1495,0,1,1495,1495
+Service,MISC,"101436 Nut, LaserDust XLP  ",101436,"Nut, LaserDust XLP  ",Aluminium version,2070,0,1,2070,2070
+Service,MISC,"101353 Lid for purging Unit 2""LG 2 with tightening Nut ",101353,"Lid for purging Unit 2""LG 2 with tightening Nut ", Aluminium version,1495,0,1,1495,1495
+Service,MISC,"101354 Lid for purging Unit 2"" LG 2 w/ tightening Nut, SS316  ",101354,"Lid for purging Unit 2"" LG 2 w/ tightening Nut, SS316  ",Stainless steel version,2300,0,1,2300,2300
+Service,MISC,"100965 RS-232 cable, LaserGas II ",100965,"RS-232 cable, LaserGas II ", With Variosub connector.,1380,0,1,1380,1380
+Service,MISC,"103725 Cable Kit, 9-PIN D-SUB, FM-M-FM  ",103725,"Cable Kit, 9-PIN D-SUB, FM-M-FM  ",Incl 9-Pin gender changer,230,0,1,230,230
+Service,MISC,"105216 USB TO SERIAL CABLE: U-224, USB TO SERIAL CABLE BL",105216,"USB TO SERIAL CABLE: U-224, USB TO SERIAL CABLE BL",,1610,0,1,1610,1610
+Service,MISC,105981 Phoenix AUX connector kit  ,105981,Phoenix AUX connector kit  ,Male DSUB connector included,1150,0,1,1150,1150
+Service,MISC,104107 DSUB connector female 15 pin.  For Phoenix connector,104107,DSUB connector female 15 pin.  For Phoenix connector,For Phoenix connector,575,0,1,575,575
+Service,"EPROM/ CPU, Smart core","108661 LaserGas II, SmartCore kit  ",108661,"LaserGas II, SmartCore kit  ",Compl. w/CPU & EPROM,5980,0,1,5980,5980
+Service,"EPROM/ CPU, Smart core","108662 LaserDust, SmartCore kit  ",108662,"LaserDust, SmartCore kit  ",Compl. w/CPU & EPROM,5980,0,1,5980,5980
+Service,"EPROM/ CPU, Smart core",105895 Programmed EPROM Gas,105895,Programmed EPROM Gas,,1265,0,1,1265,1265
+Service,"EPROM/ CPU, Smart core","103874 CPU, Smart Core, SC-Z1D, Part# 101-0081  ",103874,"CPU, Smart Core, SC-Z1D, Part# 101-0081  ","CPU, Smart Core for LaserGas II, NO EPROM",4830,0,1,4830,4830
+Service,LaserGas III Portable parts,105168 Filter for Portable HF analyzer,105168,Filter for Portable HF analyzer,Type DIF-BK-20T w/ PTFE-Element 20µ.,690,0,1,690,690
+Service,LaserGas III Portable parts,105109 Battery charger for LG3 HF Portabel Monitor,105109,Battery charger for LG3 HF Portabel Monitor,,2530,0,1,2530,2530
+Service,MP parts,111493 Rear mirror LaserGas II MP,111493,Rear mirror LaserGas II MP,All gases except H2S,8855,0,1,8855,8855
+Service,MP parts,111492 Front mirror LaserGas II MP,111492,Front mirror LaserGas II MP,All gases except H2S,9430,0,1,9430,9430
+Service,MP parts,103144 Rear mirror LaserGas II MP H2S,103144,Rear mirror LaserGas II MP H2S,For H2S only,5750,0,1,5750,5750
+Service,MP parts,103143 Front mirror LaserGas II MP H2S,103143,Front mirror LaserGas II MP H2S,For H2S only,8050,0,1,8050,8050
+Service,Electronics,110494 Mainboard rev G2.1 LaserGas II,110494,Mainboard rev G2.1 LaserGas II,,42665,0,1,42665,42665
+Service,Electronics,110419 Receiver board B2.0 LaserGas II,110419,Receiver board B2.0 LaserGas II,,11270,0,1,11270,11270
+Service,Electronics,111201 Mainboard LaserGas II/MP/OP,111201,Mainboard LaserGas II/MP/OP,,42665,0,1,42665,42665
+Service,Electronics,"103415 Connection board w/ ISSC con., Receiver, LaserGas",103415,"Connection board w/ ISSC con., Receiver, LaserGas",,2300,0,1,2300,2300
+Service,Electronics,"103416 Connection board w/ ISSC con., Ex, Receiver, Laser",103416,"Connection board w/ ISSC con., Ex, Receiver, Laser",,2300,0,1,2300,2300
+Service,Electronics,"101148 Ex-Board assembly, LaserGas II",101148,"Ex-Board assembly, LaserGas II",,3795,0,1,3795,3795
+Service,Electronics,100961 Display Unit assembly,100961,Display Unit assembly,,1725,0,1,1725,1725
+Service,Electronics,"104089 FJ-25-D-03-4, Flexcable jumper 3 inch",104089,"FJ-25-D-03-4, Flexcable jumper 3 inch",Flat cable mainboard - laser ,230,0,1,230,230
+Service,Electronics,"104267 FJ-25-D-05-4, Flexcable jumper 5 inch",104267,"FJ-25-D-05-4, Flexcable jumper 5 inch",Flat cable mainboard - laser ,230,0,1,230,230
+Service,Electronics,"104278 FJ-25-D-07-4, Flexcable jumper 7 inch",104278,"FJ-25-D-07-4, Flexcable jumper 7 inch",Flat cable mainboard - laser ,345,0,1,345,345
+Service,Electronics,"104268 FJ-25-D-16-4, Flexcable jumper 16 inch",104268,"FJ-25-D-16-4, Flexcable jumper 16 inch",Flat cable mainboard - laser ,460,0,1,460,460
+Service,Electronics,110804 LaserGas Q QCL Mainboard,110804,LaserGas Q QCL Mainboard,,42665,0,1,42665,42665
+Service,Electronics,110796 LaserGas Q QCL Receiver board,110796,LaserGas Q QCL Receiver board,,11270,0,1,11270,11270
+Service,Electronics,107768 LaserGas Q QCL/ICL TEC driver board,107768,LaserGas Q QCL/ICL TEC driver board,,7130,0,1,7130,7130
+Service,Electronics,111765 LaserGas Q ICL Mainboard,111765,LaserGas Q ICL Mainboard,,42665,0,1,42665,42665

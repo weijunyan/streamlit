@@ -1,0 +1,74 @@
+﻿Gas,Platform
+O2,LaserGas II Compact
+O2,LaserGas II Multipass
+O2,LaserGas II Single Path
+O2,LaserGas III Single Path
+CO,LaserGas II Compact
+CO,LaserGas II Multipass
+CO,LaserGas II Single Path
+CO,LaserGas III Open Path
+CO,LaserGas III Single Path
+CO2,LaserGas II Compact
+CO2,LaserGas II Multipass
+CO2,LaserGas II Single Path
+CO2,LaserGas III Single Path
+NH3,LaserGas II Compact
+NH3,LaserGas II Multipass
+NH3,LaserGas II Open Path
+NH3,LaserGas II Single Path
+NH3,LaserGas III Open Path
+NH3,LaserGas III Single Path
+HCl,LaserGas II Compact
+HCl,LaserGas II Multipass
+HCl,LaserGas II Single Path
+HF,LaserGas II Compact
+HF,LaserGas II Open Path
+HF,LaserGas II Single Path
+HF,LaserGas III Open Path
+HF,LaserGas III Portable
+CO+CH4,LaserGas II Compact
+CO+CH4,LaserGas II Multipass
+CO+CH4,LaserGas II Single Path
+H2S,LaserGas II Compact
+H2S,LaserGas II Multipass
+H2S,LaserGas II Open Path
+H2S,LaserGas II Single Path
+H2S,LaserGas III Open Path
+CO ppm,LaserGas II Compact
+CO ppm,LaserGas II Single Path
+H2O,LaserGas II Compact
+H2O,LaserGas II Single Path
+CH4,LaserGas II Compact
+CH4,LaserGas II Multipass
+CH4,LaserGas II Open Path
+CH4,LaserGas II Single Path
+CH4,LaserGas III Open Path
+NO,LaserGas II Compact
+NO,LaserGas II Single Path
+NO,LaserGas Q
+H2,LaserGas II Multipass
+H2,LaserGas II Single Path
+H2,LaserGas III Single Path
+N2O,LaserGas II Single Path
+NO2,LaserGas II Compact
+NO2,LaserGas II Single Path
+NO2,LaserGas Q
+Vulcan,LaserGas iQ2
+SO2,LaserGas Q
+CH2O,LaserGas II Single Path
+CH2O,LaserGas Q
+CH4 ppm,LaserGas II Single Path
+CO+CO2,LaserGas II Single Path
+HCN,LaserGas II Single Path
+C3H6,LaserGas II Single Path
+Dust,LaserDust
+HBr,LaserGas Q
+X-stack,LaserGas iQ2
+C2H3Cl,LaserGas II Single Path
+H2S (COG),LaserGas III Single Path
+CO + CO2,LaserGas II Multipass
+CH3I,LaserGas II Single Path
+CH2Cl2,LaserGas II Single Path
+C2H2,LaserGas II Single Path
+C2H4,LaserGas II Single Path
+CH3Cl,LaserGas II Single Path
