@@ -24,7 +24,7 @@ if not st.session_state.product_cart.empty:
                 width="small",
             ),
             "Discount": st.column_config.NumberColumn(
-                "Discount(%)",
+                "Disc.(%)",
                 help="input the discount",
                 min_value=0,
                 max_value=100,
@@ -32,17 +32,17 @@ if not st.session_state.product_cart.empty:
                 format="%d",
             ),
             "Quantity": st.column_config.NumberColumn(
-                "Quantity",
+                "Qty",
                 help="input the quantity",
                 min_value=0,
                 step=1,
                 format="%d",
             ),
-        }, num_rows="dynamic",on_change=data_on_change,args=[st.session_state.product_cart],hide_index=True, disabled=["Analyzer", "ListPrice","Unit Price","Total Price"])
+        }, num_rows="dynamic",use_container_width=True, on_change=data_on_change,args=[st.session_state.product_cart],hide_index=True, disabled=["Analyzer", "ListPrice","Unit Price","Total Price"])
     neo_editor()
     if not All_selected.empty:
         total_analyzer = st.session_state.product_cart.loc[:, "Total Price"].sum()
-        st.write("Total Analyzers cost:",total_analyzer)
+        st.write("Total Analyzers cost:",f'{total_analyzer:.2f}')
 
 
 total_spare = 0
@@ -60,10 +60,13 @@ if not st.session_state.spare_cart.empty:
     def neo_spare_editor():
         st.data_editor(st.session_state.spare_cart, key="spare_editor", column_config={
             "Analyzer": st.column_config.Column(
+                width="medium",
+            ),
+            "Platform": st.column_config.Column(
                 width="small",
             ),
             "Discount": st.column_config.NumberColumn(
-                "Discount(%)",
+                "Disc.(%)",
                 help="input the discount",
                 min_value=0,
                 max_value=100,
@@ -71,20 +74,21 @@ if not st.session_state.spare_cart.empty:
                 format="%d",
             ),
             "Quantity": st.column_config.NumberColumn(
-                "Quantity",
+                "Qty",
                 help="input the quantity",
                 min_value=0,
                 step=1,
                 format="%d",
             ),
-        }, num_rows="dynamic", on_change=spare_on_change, args=[st.session_state.spare_cart],hide_index=True,disabled=["Analyzer", "ListPrice","Unit Price","Total Price"],)
+        }, num_rows="dynamic", use_container_width=True, on_change=spare_on_change, args=[st.session_state.spare_cart],hide_index=True,disabled=["Analyzer", "Platform","ListPrice","Unit Price","Total Price"],)
     neo_spare_editor()
+
     if not spare_selected.empty:
         total_spare = st.session_state.spare_cart.loc[:, "Total Price"].sum()
-        st.write("Total Spare Part cost:", total_spare)
+        st.write("Total Spare Part cost:", f'{total_spare:.2f}')
 
 
 
 total_cost = total_analyzer+total_spare
-st.write("Total Cost is:",total_cost)
+st.write(f'Total Cost is: :red[{total_cost:.2f}]')
 
