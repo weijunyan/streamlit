@@ -21,10 +21,9 @@ def main():
     type = st.sidebar.radio("Type", ["Select Product", "Select Spare Part"],key="type")
 
     if type == "Select Product":
-        with st.sidebar:
-            measured_gas = st.selectbox('Choose your measured gas', gas_list, index=None)
-            platform_list_gas = platform_list[platform_list["Gas"] == measured_gas][["Platform"]]
-            platform = st.selectbox('Choose your platform', platform_list_gas, index=None)
+        measured_gas = st.selectbox('Choose your measured gas', gas_list, index=None)
+        platform_list_gas = platform_list[platform_list["Gas"] == measured_gas][["Platform"]]
+        platform = st.selectbox('Choose your platform', platform_list_gas, index=None)
 
         df_g = df[df["Gas"] == measured_gas]
         df_p = df_g[df_g["Platform"] == platform]
@@ -69,17 +68,16 @@ def main():
                 "Unit Price": [total_monitor_price],
                 "Total Price": [total_monitor_price],
             }, index=[st.session_state['row']])
-            with st.sidebar:
-                st.subheader("Your Selected Product")
-                st.dataframe(output, column_order=("Analyzer","ListPrice"), hide_index=True)
-                if not options_selected.empty:
-                    with st.expander("Option"):
-                        st.dataframe(options_selected, hide_index=True)
-                if st.button('Add to cart'):
-                    st.session_state.product_cart=pd.concat([st.session_state.product_cart,output])
-                    st.session_state['row'] += 1
-                    st.success('Added to cart!')
-                    st.rerun()
+            st.subheader("Your Selected Product")
+            st.dataframe(output, column_order=("Analyzer","ListPrice"),use_container_width=True, hide_index=True)
+            if not options_selected.empty:
+                with st.expander("Option"):
+                    st.dataframe(options_selected, hide_index=True, use_container_width=True,)
+            if st.button('Add to cart'):
+                st.session_state.product_cart=pd.concat([st.session_state.product_cart,output])
+                st.session_state['row'] += 1
+                st.success('Added to cart!')
+                st.rerun()
     elif type == "Select Spare Part":
         platform_sparepart = st.selectbox('Choose your platform', platform_sp, index=None)
         spare_part_list = spare_part[spare_part["Platform"] == platform_sparepart][["Analyzer","Platform", "ListPrice","Discount","Quantity","Unit Price","Total Price"]]
