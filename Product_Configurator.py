@@ -8,7 +8,6 @@ if 'product_cart' not in st.session_state:
 if 'spare_cart' not in st.session_state:
     st.session_state.spare_cart = pd.DataFrame([])
 
-
 def main():
     st.title('Product Configuration')
 
@@ -33,6 +32,10 @@ def main():
         df_m = df_p[["Analyzer", "ListPrice"]]
         st.subheader(f"Main Product: {platform},{measured_gas}")
         selected_monitor_row = st.radio("Choose your monitors", df_m, index=None,key="analyzer")
+        none_row = pd.DataFrame({
+            "Analyzer":[None],
+            "ListPrice":[0],
+        })
 
         if selected_monitor_row:
             selected_monitor = df_m[df_m["Analyzer"] == selected_monitor_row]
@@ -45,8 +48,8 @@ def main():
             for item in options:
                 with st.expander(f"{item}"):
                     option_item_df_pre = options_p[options_p["Function"] == item]
-                    option_item_df = option_item_df_pre[["Analyzer", "ListPrice"]]
-                    selected_option_row = st.radio("Please Choose", option_item_df, index=None,key=item)
+                    option_item_df = pd.concat([none_row,option_item_df_pre[["Analyzer", "ListPrice"]]])
+                    selected_option_row = st.radio("Please Choose",option_item_df, index=None,key=item)
                     if selected_option_row:
                         selected_option_item = option_item_df[option_item_df["Analyzer"] == selected_option_row]
                         options_selected = pd.concat([options_selected, selected_option_item])
